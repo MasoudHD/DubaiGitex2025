@@ -337,13 +337,38 @@
             font-weight: 600;
         }
 
-        .btn-visit {
-            background: #28a745;
-            color: white;
+        .visit-checkbox-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            padding: 8px 12px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            user-select: none;
         }
-
-        .btn-visit:hover {
-            background: #218838;
+        
+        .visit-checkbox-label:hover {
+            background: #e9ecef;
+        }
+        
+        .visit-checkbox {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            cursor: pointer;
+            accent-color: #28a745;
+        }
+        
+        .visit-checkbox:checked + .checkbox-text {
+            color: #28a745;
+            font-weight: 600;
+        }
+        
+        .checkbox-text {
+            font-size: 0.9em;
+            color: #495057;
+            transition: all 0.3s ease;
         }
 
         .btn-profile {
@@ -917,9 +942,14 @@
                         </div>
                     ` : ''}
                     <div class="company-actions">
-                        <button class="action-btn btn-visit" onclick="markVisited('${(company.name || '').replace(/'/g, "\\'")}')">
-                            ${visited.has(company.name) ? '✅ Visited' : 'Mark Visited'}
-                        </button>
+                        <label class="visit-checkbox-label">
+                            <input type="checkbox" 
+                                   class="visit-checkbox" 
+                                   ${visited.has(company.name) ? 'checked' : ''}
+                                   onchange="toggleVisited('${company.name}')"
+                                   id="visit-${company.name.replace(/[^a-zA-Z0-9]/g, '_')}"
+                            <span class="checkbox-text">Mark as Visited</span>
+                        </label>
                         <button class="action-btn btn-profile" onclick="window.open('${company.profile_url || '#'}', '_blank')">
                             View Profile
                         </button>
@@ -927,6 +957,32 @@
                 </div>
                 `;
             }).join('');
+        }
+        
+        function toggleVisited(name) {
+            if (visited.has(name)) {
+                visited.delete(name);
+            } else {
+                visited.add(name);
+            }
+            localStorage.setItem('gitex_visited', JSON.stringify([...visited]));
+            
+            // آپدیت checkbox
+            const checkbox = document.getElementById(`visit-${name.replace(/[^a-zA-Z0-9]/g, '_')}`);
+            if (checkbox) {
+                checkbox.checked = visited.has(name);
+            }
+            
+            updateStats();
+        }
+        
+        // تابع جدید برای آپدیت سریع‌تر
+        function updateVisitedStatus(companyId, isVisited) {
+            const checkbox = document.getElementById(`visit-${companyId}`);
+            if (checkbox) {
+                checkbox.checked = isVisited;
+            }
+            updateStats();
         }
 
         function toggleBookmark(name) {
@@ -939,10 +995,21 @@
             applyFilters();
         }
 
-        function markVisited(name) {
-            visited.add(name);
+        function toggleVisited(name) {
+            if (visited.has(name)) {
+                visited.delete(name);
+            } else {
+                visited.add(name);
+            }
             localStorage.setItem('visited', JSON.stringify([...visited]));
-            applyFilters();
+            
+            // آپدیت checkbox
+            const checkbox = document.getElementById(`visit-${name}`);
+            if (checkbox) {
+                checkbox.checked = visited.has(name);
+            }
+            
+            updateStats();
         }
 
         function updateStats() {
