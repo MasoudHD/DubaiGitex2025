@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GITEX Global 2025 - IoT & Embedded Systems Navigator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .filters {
+            padding: 30px;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .filter-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #495057;
+            font-size: 0.9em;
+        }
+
+        .filter-group input,
+        .filter-group select {
+            padding: 10px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+
+        .filter-group input:focus,
+        .filter-group select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .category-checkboxes {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            border: 2px solid #dee2e6;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .category-checkbox {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: background 0.2s;
+        }
+
+        .category-checkbox:hover {
+            background: #f8f9fa;
+        }
+
+        .category-checkbox input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+
+        .category-checkbox label {
+            cursor: pointer;
+            margin: 0;
+            font-size: 0.9em;
+            color: #495057;
+        }
+
+        .checkbox-filters {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+        }
+
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            font-weight: 500;
+        }
+
+        .checkbox-label input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .button-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            padding: 20px 30px;
+            background: white;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+
+        .stat-value {
+            font-size: 2em;
+            font-weight: 700;
+            color: #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #6c757d;
+            margin-top: 5px;
+        }
+
+        .companies-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 30px;
+        }
+
+        .company-card {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 20px;
+            transition: all 0.3s;
+            position: relative;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .company-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+
+        .company-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+            gap: 10px;
+        }
+
+        .company-name {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #212529;
+            margin-bottom: 5px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            flex: 1;
+        }
+
+        .bookmark-btn {
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            cursor: pointer;
+            transition: transform 0.2s;
+            flex-shrink: 0;
+        }
+
+        .bookmark-btn:hover {
+            transform: scale(1.2);
+        }
+
+        .stars {
+            color: #ffc107;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .company-info {
+            margin: 10px 0;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+
+        .company-info strong {
+            color: #495057;
+        }
+
+        .company-description {
+            margin: 15px 0;
+            line-height: 1.6;
+            color: #495057;
+            font-size: 0.95em;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .company-keywords {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 15px;
+        }
+
+        .keyword-tag {
+            background: #e7f3ff;
+            color: #0066cc;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 500;
+        }
+
+        .company-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .action-btn {
+            flex: 1;
+            padding: 8px;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .btn-visit {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-visit:hover {
+            background: #218838;
+        }
+
+        .btn-profile {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-profile:hover {
+            background: #5568d3;
+        }
+
+        .visited {
+            border-color: #28a745;
+            background: #f8fff9;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            width: 90%;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .close-btn {
+            font-size: 2em;
+            cursor: pointer;
+            color: #6c757d;
+        }
+
+        .bookmark-item {
+            padding: 15px;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6c757d;
+        }
+
+        .no-results-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+
+        .select-all-categories {
+            margin-bottom: 10px;
+            padding: 8px 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9em;
+            display: inline-block;  /* این خط مهمه! */
+            width: auto;  /* این هم مهمه! */
+        }
+
+
+        .select-all-categories:hover {
+            background: #5568d3;
+        }
+
+        .debug-info {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 8px;
+            font-family: monospace;
+        }
+
+        .debug-info h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .header p {
+                font-size: 1em;
+            }
+
+            .companies-grid {
+                grid-template-columns: 1fr;
+                padding: 15px;
+            }
+
+            .filter-row {
+                grid-template-columns: 1fr;
+            }
+
+            .category-checkboxes {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-bar {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .company-name {
+                font-size: 1.1em;
+            }
+
+            .button-row {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+            }
+
+            .header {
+                padding: 20px;
+            }
+
+            .filters {
+                padding: 15px;
+            }
+
+            .stats-bar {
+                grid-template-columns: 1fr;
+                padding: 15px;
+            }
+
+            .company-card {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 GITEX Global 2025</h1>
+            <p>IoT, Embedded Systems & Robotics Navigator</p>
+        </div>
+
+        <div class="filters">
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label>🔍 Search Companies</label>
+                    <input type="text" id="searchInput" placeholder="Search by name, description, keywords...">
+                </div>
+
+                <div class="filter-group">
+                    <label>🌍 Country</label>
+                    <select id="countryFilter">
+                        <option value="">All Countries</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>🏢 Hall</label>
+                    <select id="hallFilter">
+                        <option value="">All Halls</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>⭐ Minimum Rating</label>
+                    <select id="ratingFilter">
+                        <option value="1">1+ Stars</option>
+                        <option value="2">2+ Stars</option>
+                        <option value="3">3+ Stars</option>
+                        <option value="4">4+ Stars</option>
+                        <option value="5">5 Stars Only</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>📊 Sort By</label>
+                    <select id="sortFilter">
+                        <option value="relevance">Relevance (Stars)</option>
+                        <option value="name">Company Name</option>
+                        <option value="country">Country</option>
+                        <option value="hall">Hall Number</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>🏷️ Technology Categories (Select multiple)</label>
+                <button class="select-all-categories" onclick="toggleAllCategories()">
+                    Select All / Deselect All
+                </button>
+                <div class="category-checkboxes" id="categoryCheckboxes">
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-embedded" value="embedded">
+                        <label for="cat-embedded">🔧 Embedded Systems & Microcontrollers</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-iot" value="iot">
+                        <label for="cat-iot">📡 IoT Core & Platforms</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-electronics" value="electronics">
+                        <label for="cat-electronics">⚡ Electronics & Hardware</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-sensors" value="sensors">
+                        <label for="cat-sensors">📊 Sensors & Measurement</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-protocols" value="protocols">
+                        <label for="cat-protocols">🔌 Communication Protocols</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-robotics" value="robotics">
+                        <label for="cat-robotics">🤖 Robotics & Automation</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-ai" value="ai">
+                        <label for="cat-ai">🧠 AI & Machine Learning</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-cloud" value="cloud">
+                        <label for="cat-cloud">☁️ Cloud & Edge Computing</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-industrial" value="industrial">
+                        <label for="cat-industrial">🏭 Industrial & Manufacturing</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-automotive" value="automotive">
+                        <label for="cat-automotive">🚗 Automotive & Mobility</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-smart-cities" value="smart-cities">
+                        <label for="cat-smart-cities">🏙️ Smart Cities & Infrastructure</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-healthcare" value="healthcare">
+                        <label for="cat-healthcare">🏥 Healthcare & Medical Tech</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-energy" value="energy">
+                        <label for="cat-energy">🔋 Energy & Sustainability</label>
+                    </div>
+                    <div class="category-checkbox">
+                        <input type="checkbox" id="cat-security" value="security">
+                        <label for="cat-security">🔒 Security & Cybersecurity</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="checkbox-filters">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="visitedOnly">
+                    ✅ Visited Only
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" id="bookmarkedOnly">
+                    🔖 Bookmarked Only
+                </label>
+            </div>
+
+            <div class="button-row">
+                <button class="btn btn-primary" onclick="applyFilters()">🔍 Apply Filters</button>
+                <button class="btn btn-secondary" onclick="resetFilters()">🔄 Reset</button>
+                <button class="btn btn-success" onclick="showBookmarks()">🔖 View Bookmarks</button>
+                <button class="btn btn-success" onclick="exportCSV()">📥 Export CSV</button>
+                <button class="btn btn-success" onclick="exportBookmarks()">📥 Export Bookmarks</button>
+            </div>
+        </div>
+
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-value" id="totalCompanies">0</div>
+                <div class="stat-label">Total Companies</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="displayedCompanies">0</div>
+                <div class="stat-label">Displayed</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="bookmarkedCount">0</div>
+                <div class="stat-label">🔖 Bookmarked</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="visitedCount">0</div>
+                <div class="stat-label">✅ Visited</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="fiveStarCount">0</div>
+                <div class="stat-label">⭐⭐⭐⭐⭐</div>
+            </div>
+        </div>
+
+        <div class="companies-grid" id="companiesGrid">
+            <div class="no-results">
+                <div class="no-results-icon">📦</div>
+                <h2>Loading companies...</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="bookmarksModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>🔖 My Bookmarks</h2>
+                <span class="close-btn" onclick="closeBookmarks()">×</span>
+            </div>
+            <div id="bookmarksList"></div>
+        </div>
+    </div>
+
+    <script src="companies_data.js"></script>
+    <script>
+        const categoryKeywords = {
+            embedded: ['embedded', 'microcontroller', 'mcu', 'arm', 'cortex', 'stm32', 'arduino', 'raspberry', 'fpga', 'asic', 'soc', 'firmware', 'bare metal', 'rtos', 'real-time', 'esp32', 'esp8266', 'pic', 'avr'],
+            iot: ['iot', 'internet of things', 'iot platform', 'iot gateway', 'iot device', 'iot solution', 'smart device', 'connected device', 'm2m', 'lpwan', 'lora', 'lorawan', 'sigfox', 'nb-iot', 'mqtt', 'coap'],
+            electronics: ['electronics', 'hardware', 'circuit', 'pcb', 'power supply', 'battery', 'energy harvesting', 'analog', 'digital', 'semiconductor', 'chip', 'component'],
+            sensors: ['sensor', 'temperature sensor', 'humidity sensor', 'pressure sensor', 'accelerometer', 'gyroscope', 'magnetometer', 'proximity sensor', 'optical sensor', 'gas sensor', 'environmental sensor', 'measurement', 'actuator'],
+            protocols: ['http', 'tcp', 'udp', 'modbus', 'can', 'i2c', 'spi', 'uart', 'rs485', 'bluetooth', 'ble', 'wifi', 'zigbee', 'z-wave', '5g', '4g', 'lte', 'cellular', 'ethernet'],
+            robotics: ['robot', 'robotics', 'robotic', 'drone', 'uav', 'autonomous', 'cnc', 'motion control', 'servo', 'vision system', 'pick and place'],
+            ai: ['ai', 'artificial intelligence', 'machine learning', 'deep learning', 'neural network', 'computer vision', 'nlp', 'natural language', 'tensorflow', 'pytorch', 'opencv', 'edge ai'],
+            cloud: ['cloud', 'edge computing', 'edge', 'aws', 'azure', 'gcp', 'fog computing', 'serverless', 'cloud platform', 'saas', 'paas', 'iaas'],
+            industrial: ['industrial', 'manufacturing', 'industry 4.0', 'smart factory', 'plc', 'scada', 'hmi', 'mes', 'oee', 'predictive maintenance', 'quality control', 'automation'],
+            automotive: ['automotive', 'vehicle', 'car', 'autonomous vehicle', 'adas', 'v2x', 'telematics', 'fleet management', 'electric vehicle', 'ev', 'charging'],
+            'smart-cities': ['smart city', 'smart cities', 'smart building', 'smart home', 'building automation', 'lighting', 'hvac', 'energy management', 'infrastructure', 'smart grid'],
+            healthcare: ['healthcare', 'medical', 'health', 'patient monitoring', 'telemedicine', 'wearable', 'fitness', 'diagnostics', 'ehealth', 'mhealth', 'biomedical'],
+            energy: ['energy', 'solar', 'renewable', 'power', 'grid', 'energy storage', 'sustainability', 'green', 'environmental', 'battery management'],
+            security: ['security', 'cybersecurity', 'encryption', 'authentication', 'secure boot', 'tpm', 'firewall', 'intrusion detection', 'access control', 'secure element']
+        };
+
+        let allCompanies = [];
+        let filteredCompanies = [];
+        let bookmarked = new Set(JSON.parse(localStorage.getItem('bookmarked') || '[]'));
+        let visited = new Set(JSON.parse(localStorage.getItem('visited') || '[]'));
+
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('=== Starting Data Load ===');
+            
+            // Try all possible variable names
+            let dataSource = null;
+            
+            if (typeof COMPANIES_DATA !== 'undefined') {
+                dataSource = 'COMPANIES_DATA';
+                allCompanies = COMPANIES_DATA;
+            } else if (typeof companies_data !== 'undefined') {
+                dataSource = 'companies_data';
+                allCompanies = companies_data;
+            } else if (typeof companiesData !== 'undefined') {
+                dataSource = 'companiesData';
+                allCompanies = companiesData;
+            } else if (typeof window.COMPANIES_DATA !== 'undefined') {
+                dataSource = 'window.COMPANIES_DATA';
+                allCompanies = window.COMPANIES_DATA;
+            } else if (typeof window.companies_data !== 'undefined') {
+                dataSource = 'window.companies_data';
+                allCompanies = window.companies_data;
+            } else if (typeof window.companiesData !== 'undefined') {
+                dataSource = 'window.companiesData';
+                allCompanies = window.companiesData;
+            }
+            
+            console.log('Data source found:', dataSource);
+            console.log('Total companies loaded:', allCompanies.length);
+            
+            if (allCompanies.length > 0) {
+                console.log('First company sample:', allCompanies[0]);
+                console.log('Company structure keys:', Object.keys(allCompanies[0]));
+                populateFilters();
+                applyFilters();
+                updateStats();
+            } else {
+                console.error('❌ NO DATA LOADED!');
+                console.log('Available window variables:', Object.keys(window).filter(k => k.toLowerCase().includes('compan')));
+                
+                document.getElementById('companiesGrid').innerHTML = `
+                    <div class="debug-info">
+                        <h3>⚠️ Debug Information</h3>
+                        <p><strong>Data Status:</strong> No companies data found</p>
+                        <p><strong>Checked Variables:</strong></p>
+                        <ul>
+                            <li>COMPANIES_DATA: ${typeof COMPANIES_DATA !== 'undefined' ? '✅ Found' : '❌ Not found'}</li>
+                            <li>companies_data: ${typeof companies_data !== 'undefined' ? '✅ Found' : '❌ Not found'}</li>
+                            <li>companiesData: ${typeof companiesData !== 'undefined' ? '✅ Found' : '❌ Not found'}</li>
+                        </ul>
+                        <p><strong>Solution:</strong></p>
+                        <ol>
+                            <li>Make sure <code>companies_data.js</code> is in the same folder as this HTML file</li>
+                            <li>Check that the file name is exactly <code>companies_data.js</code> (not companies_data(1).js)</li>
+                            <li>Open browser console (F12) to see detailed errors</li>
+                        </ol>
+                    </div>
+                `;
+            }
+        });
+
+        function populateFilters() {
+            const countries = [...new Set(allCompanies.map(c => c.country))].filter(c => c).sort();
+            const halls = [...new Set(allCompanies.map(c => c.hall))].filter(h => h).sort();
+            
+            const countrySelect = document.getElementById('countryFilter');
+            countries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countrySelect.appendChild(option);
+            });
+            
+            const hallSelect = document.getElementById('hallFilter');
+            halls.forEach(hall => {
+                const option = document.createElement('option');
+                option.value = hall;
+                option.textContent = hall;
+                hallSelect.appendChild(option);
+            });
+        }
+
+        function getSelectedCategories() {
+            const checkboxes = document.querySelectorAll('#categoryCheckboxes input[type="checkbox"]:checked');
+            return Array.from(checkboxes).map(cb => cb.value);
+        }
+
+        function toggleAllCategories() {
+            const checkboxes = document.querySelectorAll('#categoryCheckboxes input[type="checkbox"]');
+            const allChecked = Array.from(checkboxes).every(cb => cb.checked);
+            
+            checkboxes.forEach(cb => {
+                cb.checked = !allChecked;
+            });
+        }
+
+        function matchesCategories(company, selectedCategories) {
+            if (selectedCategories.length === 0) return true;
+            
+            const companyText = [
+                company.name || '',
+                company.description || '',
+                (company.sectors || []).join(' '),
+                company.keywords || ''
+            ].join(' ').toLowerCase();
+            
+            return selectedCategories.some(category => {
+                const keywords = categoryKeywords[category] || [];
+                return keywords.some(keyword => companyText.includes(keyword.toLowerCase()));
+            });
+        }
+
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const country = document.getElementById('countryFilter').value;
+            const hall = document.getElementById('hallFilter').value;
+            const minRating = parseInt(document.getElementById('ratingFilter').value);
+            const visitedOnly = document.getElementById('visitedOnly').checked;
+            const bookmarkedOnly = document.getElementById('bookmarkedOnly').checked;
+            const sortBy = document.getElementById('sortFilter').value;
+            const selectedCategories = getSelectedCategories();
+
+            filteredCompanies = allCompanies.filter(company => {
+                if (searchTerm) {
+                    const searchableText = [
+                        company.name || '',
+                        company.description || '',
+                        (company.sectors || []).join(' '),
+                        company.keywords || ''
+                    ].join(' ').toLowerCase();
+                    
+                    if (!searchableText.includes(searchTerm)) return false;
+                }
+                
+                if (country && company.country !== country) return false;
+                if (hall && company.hall !== hall) return false;
+                if ((company.relevance_stars || 0) < minRating) return false;
+                if (visitedOnly && !visited.has(company.name)) return false;
+                if (bookmarkedOnly && !bookmarked.has(company.name)) return false;
+                if (!matchesCategories(company, selectedCategories)) return false;
+                
+                return true;
+            });
+
+            filteredCompanies.sort((a, b) => {
+                switch(sortBy) {
+                    case 'name':
+                        return (a.name || '').localeCompare(b.name || '');
+                    case 'country':
+                        return (a.country || '').localeCompare(b.country || '');
+                    case 'hall':
+                        return (a.hall || '').localeCompare(b.hall || '');
+                    case 'relevance':
+                    default:
+                        return (b.relevance_score || 0) - (a.relevance_score || 0);
+                }
+            });
+
+            displayCompanies();
+            updateStats();
+        }
+
+        function displayCompanies() {
+            const grid = document.getElementById('companiesGrid');
+            
+            if (filteredCompanies.length === 0) {
+                grid.innerHTML = `
+                    <div class="no-results">
+                        <div class="no-results-icon">😕</div>
+                        <h2>No companies found</h2>
+                        <p>Try adjusting your filters</p>
+                    </div>
+                `;
+                return;
+            }
+
+            grid.innerHTML = filteredCompanies.map(company => {
+                const description = (company.description || 'No description available').substring(0, 200);
+                const sectors = (company.sectors || []).slice(0, 5);
+                
+                return `
+                <div class="company-card ${visited.has(company.name) ? 'visited' : ''}">
+                    <div class="company-header">
+                        <div class="company-name">${company.name || 'Unknown Company'}</div>
+                        <button class="bookmark-btn" onclick="toggleBookmark('${(company.name || '').replace(/'/g, "\\'")}')">
+                            ${bookmarked.has(company.name) ? '❤️' : '🤍'}
+                        </button>
+                    </div>
+                    <div class="stars">${'⭐'.repeat(company.relevance_stars || 1)}</div>
+                    <div class="company-info">
+                        <strong>🌍 Country:</strong> ${company.country || 'N/A'}<br>
+                        <strong>🏢 Hall:</strong> ${company.hall || 'N/A'}<br>
+                        <strong>📍 Stand:</strong> ${company.stand || 'N/A'}
+                    </div>
+                    <div class="company-description">${description}${(company.description || '').length > 200 ? '...' : ''}</div>
+                    ${sectors.length > 0 ? `
+                        <div class="company-keywords">
+                            ${sectors.map(s => `<span class="keyword-tag">${s}</span>`).join('')}
+                        </div>
+                    ` : ''}
+                    <div class="company-actions">
+                        <button class="action-btn btn-visit" onclick="markVisited('${(company.name || '').replace(/'/g, "\\'")}')">
+                            ${visited.has(company.name) ? '✅ Visited' : 'Mark Visited'}
+                        </button>
+                        <button class="action-btn btn-profile" onclick="window.open('${company.profile_url || '#'}', '_blank')">
+                            View Profile
+                        </button>
+                    </div>
+                </div>
+                `;
+            }).join('');
+        }
+
+        function toggleBookmark(name) {
+            if (bookmarked.has(name)) {
+                bookmarked.delete(name);
+            } else {
+                bookmarked.add(name);
+            }
+            localStorage.setItem('bookmarked', JSON.stringify([...bookmarked]));
+            applyFilters();
+        }
+
+        function markVisited(name) {
+            visited.add(name);
+            localStorage.setItem('visited', JSON.stringify([...visited]));
+            applyFilters();
+        }
+
+        function updateStats() {
+            document.getElementById('totalCompanies').textContent = allCompanies.length;
+            document.getElementById('displayedCompanies').textContent = filteredCompanies.length;
+            document.getElementById('bookmarkedCount').textContent = bookmarked.size;
+            document.getElementById('visitedCount').textContent = visited.size;
+            document.getElementById('fiveStarCount').textContent = allCompanies.filter(c => (c.relevance_stars || 0) === 5).length;
+        }
+
+        function resetFilters() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('countryFilter').value = '';
+            document.getElementById('hallFilter').value = '';
+            document.getElementById('ratingFilter').value = '1';
+            document.getElementById('sortFilter').value = 'relevance';
+            document.getElementById('visitedOnly').checked = false;
+            document.getElementById('bookmarkedOnly').checked = false;
+            
+            document.querySelectorAll('#categoryCheckboxes input[type="checkbox"]').forEach(cb => {
+                cb.checked = false;
+            });
+            
+            applyFilters();
+        }
+
+        function showBookmarks() {
+            const modal = document.getElementById('bookmarksModal');
+            const list = document.getElementById('bookmarksList');
+            
+            const bookmarkedCompanies = allCompanies.filter(c => bookmarked.has(c.name));
+            
+            if (bookmarkedCompanies.length === 0) {
+                list.innerHTML = '<p>No bookmarks yet. Start by clicking the 🤍 icon on companies you like!</p>';
+            } else {
+                list.innerHTML = bookmarkedCompanies.map(company => `
+                    <div class="bookmark-item">
+                        <div>
+                            <strong>${company.name}</strong><br>
+                            <small>${company.country || 'N/A'} | ${company.hall || 'N/A'}</small>
+                        </div>
+                        <button class="btn btn-secondary" onclick="toggleBookmark('${(company.name || '').replace(/'/g, "\\'")}'); showBookmarks();">Remove</button>
+                    </div>
+                `).join('');
+            }
+            
+            modal.classList.add('active');
+        }
+
+        function closeBookmarks() {
+            document.getElementById('bookmarksModal').classList.remove('active');
+        }
+
+        function exportCSV() {
+            const csv = [
+                ['Name', 'Country', 'Hall', 'Stand', 'Stars', 'Score', 'Bookmarked', 'Visited', 'Description'].join(','),
+                ...filteredCompanies.map(c => [
+                    `"${(c.name || '').replace(/"/g, '""')}"`,
+                    `"${(c.country || '').replace(/"/g, '""')}"`,
+                    `"${(c.hall || '').replace(/"/g, '""')}"`,
+                    `"${(c.stand || '').replace(/"/g, '""')}"`,
+                    c.relevance_stars || 0,
+                    (c.relevance_score || 0).toFixed(2),
+                    bookmarked.has(c.name) ? 'Yes' : 'No',
+                    visited.has(c.name) ? 'Yes' : 'No',
+                    `"${(c.description || '').replace(/"/g, '""')}"`
+                ].join(','))
+            ].join('\n');
+            
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'gitex_filtered_companies.csv';
+            a.click();
+        }
+
+        function exportBookmarks() {
+            const bookmarkedCompanies = allCompanies.filter(c => bookmarked.has(c.name));
+            
+            const csv = [
+                ['Name', 'Country', 'Hall', 'Stand', 'Stars', 'Description', 'Profile URL'].join(','),
+                ...bookmarkedCompanies.map(c => [
+                    `"${(c.name || '').replace(/"/g, '""')}"`,
+                    `"${(c.country || '').replace(/"/g, '""')}"`,
+                    `"${(c.hall || '').replace(/"/g, '""')}"`,
+                    `"${(c.stand || '').replace(/"/g, '""')}"`,
+                    c.relevance_stars || 0,
+                    `"${(c.description || '').replace(/"/g, '""')}"`,
+                    `"${(c.profile_url || '').replace(/"/g, '""')}"`
+                ].join(','))
+            ].join('\n');
+            
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'gitex_bookmarked_companies.csv';
+            a.click();
+        }
+
+        document.getElementById('bookmarksModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeBookmarks();
+            }
+        });
+    </script>
+</body>
+</html>
