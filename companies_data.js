@@ -18,8 +18,8 @@ const companiesData = [
       "ADAS or Advanced Driver Assistance Systems ECU"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vecow",
-    "relevance_stars": 4,
-    "relevance_score": 12.8
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Kloudspot",
@@ -40,8 +40,8 @@ const companiesData = [
       "Sensors, Smart lighting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kloudspot",
-    "relevance_stars": 3,
-    "relevance_score": 11.5
+    "relevance_stars": 5,
+    "relevance_score": 80.0
   },
   {
     "name": "Avisto Eastern Europe",
@@ -62,8 +62,8 @@ const companiesData = [
       "Quantum Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avisto-eastern-europe",
-    "relevance_stars": 3,
-    "relevance_score": 11.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Actility / Kerlink",
@@ -84,8 +84,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/actility--kerlink",
-    "relevance_stars": 3,
-    "relevance_score": 10.8
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Links Field Networks",
@@ -106,8 +106,8 @@ const companiesData = [
       "Platform Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/links-field-networks",
-    "relevance_stars": 3,
-    "relevance_score": 10.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "OmniWOT Technologies Pvt Ltd",
@@ -128,8 +128,8 @@ const companiesData = [
       "Platform Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/omniwot-technologies-pvt-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 10.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "NEXCOM International Co., Ltd.",
@@ -150,8 +150,8 @@ const companiesData = [
       "Telecommunication Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nexcom-international-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 10.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Wialon",
@@ -172,8 +172,8 @@ const companiesData = [
       "Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wialon",
-    "relevance_stars": 3,
-    "relevance_score": 10.2
+    "relevance_stars": 5,
+    "relevance_score": 68.0
   },
   {
     "name": "KKM Company Limited",
@@ -194,8 +194,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kkm-company-limited",
-    "relevance_stars": 3,
-    "relevance_score": 10.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "MDT-ITALIA",
@@ -216,8 +216,8 @@ const companiesData = [
       "mHealth, mobile IT, Wireless Technologies (Bluetooth, Wi-Fi)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mdt-italia",
-    "relevance_stars": 3,
-    "relevance_score": 10.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "iMin Technology",
@@ -237,8 +237,8 @@ const companiesData = [
       "Fleet Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imin-technology",
-    "relevance_stars": 3,
-    "relevance_score": 9.5
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "shenzhen Realbom Intellitech Co.,Ltd",
@@ -255,8 +255,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-realbom-intellitech-coltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "YONGATEK MICROELECTRONICS",
@@ -277,8 +277,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yongatek-microelectronics",
-    "relevance_stars": 3,
-    "relevance_score": 9.5
+    "relevance_stars": 5,
+    "relevance_score": 70.0
   },
   {
     "name": "AXIS ELECTRONICS",
@@ -294,8 +294,8 @@ const companiesData = [
       "Factory Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/axis-electronics",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "EMBIO Diagnostics Ltd",
@@ -316,8 +316,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/embio-diagnostics-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Emdoor",
@@ -336,8 +336,8 @@ const companiesData = [
       "Warehousing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emdoor",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "HIKVISION",
@@ -358,8 +358,8 @@ const companiesData = [
       "Home Entertainment Solutions / Integration Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hikvision",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "JWIPC Technology Co.,Ltd.",
@@ -380,8 +380,8 @@ const companiesData = [
       "Factory Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jwipc-technology-coltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "KAPID (Korea Association for Photonics Industry Development)",
@@ -402,8 +402,8 @@ const companiesData = [
       "Solutions for component processing - Optimization and Production Processes"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kapid-korea-association-for-photonics-industry-development",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Limart FZCO",
@@ -424,8 +424,8 @@ const companiesData = [
       "Internet of Things (IoT) Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/limart-fzco",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "MEFERI Technologies Co., Ltd.",
@@ -446,8 +446,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/meferi-technologies-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "OCP Maintenance Solutions",
@@ -468,8 +468,8 @@ const companiesData = [
       "Digital Twin & Simulation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ocp-maintenance-solutions",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 78.0
   },
   {
     "name": "RED PITAYA",
@@ -490,8 +490,8 @@ const companiesData = [
       "Microcontrollers & Driver Ics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/red-pitaya",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Shenzhen Chainway Information Technology Co., Ltd.",
@@ -512,8 +512,8 @@ const companiesData = [
       "IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-chainway-information-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Shenzhen Minew Technologies Co., Ltd.",
@@ -534,8 +534,8 @@ const companiesData = [
       "Automation & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-minew-technologies-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "SUNLUX IOT Technology (Guangdong) Inc.",
@@ -556,8 +556,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sunlux-iot-technology-guangdong-inc",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Witzense.com",
@@ -578,8 +578,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/witzensecom",
-    "relevance_stars": 3,
-    "relevance_score": 9.0
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "ABZ Innovation",
@@ -596,8 +596,8 @@ const companiesData = [
       "Fertilizer and Fertilizer Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/abz-innovation",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "CogLeap.AI",
@@ -618,8 +618,8 @@ const companiesData = [
       "Robotic Process Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cogleapai",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Guangzhou SEEWORLD Technology Co., Ltd.",
@@ -640,8 +640,8 @@ const companiesData = [
       "Telematics & Connected Vehciles"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-seeworld-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "nao.design doo",
@@ -662,8 +662,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/naodesign-doo",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Shenzhen SOTEN Technology Co., LTD",
@@ -684,8 +684,8 @@ const companiesData = [
       "Automation & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-soten-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "ZEDEDA",
@@ -706,8 +706,8 @@ const companiesData = [
       "Energy Management & Sustainability"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zededa",
-    "relevance_stars": 3,
-    "relevance_score": 8.8
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Grinn sp. z o.o.",
@@ -726,8 +726,8 @@ const companiesData = [
       "IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/grinn-sp-z-oo",
-    "relevance_stars": 3,
-    "relevance_score": 8.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Pegmatis Inc.",
@@ -748,8 +748,8 @@ const companiesData = [
       "Integration, Interoperability"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pegmatis-inc",
-    "relevance_stars": 3,
-    "relevance_score": 8.5
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "Amplicon Middle East",
@@ -770,8 +770,8 @@ const companiesData = [
       "Industrial IoT (IIoT) & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amplicon-middle-east",
-    "relevance_stars": 3,
-    "relevance_score": 8.2
+    "relevance_stars": 5,
+    "relevance_score": 66.0
   },
   {
     "name": "Ikotek USA, Inc.",
@@ -788,8 +788,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ikotek-usa-inc",
-    "relevance_stars": 3,
-    "relevance_score": 8.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Shenzhen Plery Network Tech Co., Ltd.",
@@ -810,8 +810,8 @@ const companiesData = [
       "Automation & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-plery-network-tech-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 8.2
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "STONKAM CO., LTD.",
@@ -832,8 +832,8 @@ const companiesData = [
       "ADAS or Advanced Driver Assistance Systems Sonar"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/stonkam-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 8.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "SUNGHO SI CORPORATION CO., LTD",
@@ -854,8 +854,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sungho-si-corporation-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 8.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Ambrane India Private Limited",
@@ -876,8 +876,8 @@ const companiesData = [
       "Accessories - Chargers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ambrane-india-private-limited",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "askme360",
@@ -898,8 +898,8 @@ const companiesData = [
       "IT Service Management - ITSM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/askme360",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "Bamboo Group",
@@ -920,8 +920,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bamboo-group",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Birtech - Sensaway, Noctua,",
@@ -942,8 +942,8 @@ const companiesData = [
       "Pharmacy Automation and Management Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/birtech---sensaway--noctua",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Experts Vision Consulting",
@@ -964,8 +964,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/experts-vision-consulting",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 66.0
   },
   {
     "name": "Ground One Inc.",
@@ -986,8 +986,8 @@ const companiesData = [
       "Building Services, Management & Consulting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ground-one-inc",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Reach Digital L.L.C",
@@ -1008,8 +1008,8 @@ const companiesData = [
       "Network Management and Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/reach-digital-llc",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Wiafleet",
@@ -1029,8 +1029,8 @@ const companiesData = [
       "Video Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wiafleet",
-    "relevance_stars": 3,
-    "relevance_score": 8.0
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "TRANSCONNECT by SQL Projekt AG",
@@ -1051,8 +1051,8 @@ const companiesData = [
       "Platform Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/transconnect-by-sql-projekt-ag",
-    "relevance_stars": 3,
-    "relevance_score": 7.8
+    "relevance_stars": 5,
+    "relevance_score": 66.0
   },
   {
     "name": "Uffizio",
@@ -1073,8 +1073,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uffizio",
-    "relevance_stars": 3,
-    "relevance_score": 7.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "YourWay Health",
@@ -1095,8 +1095,8 @@ const companiesData = [
       "ePrescribing, Pharma Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yourway-health",
-    "relevance_stars": 3,
-    "relevance_score": 7.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "4GNSS LLC",
@@ -1115,8 +1115,8 @@ const companiesData = [
       "Autonomous systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/4gnss-llc",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Achiever Computers FZCO",
@@ -1137,8 +1137,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/achiever-computers-fzco",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "ADIN.AI",
@@ -1159,8 +1159,8 @@ const companiesData = [
       "Real-Time Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/adinai",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "AiGather Intelligent Technology Co., Ltd.",
@@ -1176,8 +1176,8 @@ const companiesData = [
       "Store Operations - Scanners/ Hand-Held Terminals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aigather-intelligent-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Al Babtain LeBLANC Emirates Telecommunication Systems LLC",
@@ -1198,8 +1198,8 @@ const companiesData = [
       "Urban Planning Developers, Consultancy & Project Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-babtain-leblanc-emirates-telecommunication-systems-llc",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "ALMEC",
@@ -1220,8 +1220,8 @@ const companiesData = [
       "IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/almec",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "aosu",
@@ -1240,8 +1240,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aosu",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Applied Robotics Ltd",
@@ -1262,8 +1262,8 @@ const companiesData = [
       "Cobots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/applied-robotics-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "BEST Vision LLP",
@@ -1284,8 +1284,8 @@ const companiesData = [
       "Industrial IoT (IIoT) & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/best-vision-llp",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "bluCursor",
@@ -1306,8 +1306,8 @@ const companiesData = [
       "Cloud Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blucursor",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "Bmorn",
@@ -1328,8 +1328,8 @@ const companiesData = [
       "Handhelds, Laptops, PCs, Printers, Monitors, Screens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bmorn",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "CraftCode AG",
@@ -1350,8 +1350,8 @@ const companiesData = [
       "IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/craftcode-ag",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Crestron Europe BV",
@@ -1369,8 +1369,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/crestron-europe-bv",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Dolphin Connect",
@@ -1391,8 +1391,8 @@ const companiesData = [
       "Data, IoT, Ai, RFID, Embedded Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dolphin-connect",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "EZVIZ",
@@ -1413,8 +1413,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ezviz",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Genrobotics",
@@ -1434,8 +1434,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/genrobotics",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "GISPartner sp. z o.o.",
@@ -1456,8 +1456,8 @@ const companiesData = [
       "Visual Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gispartner-sp-z-oo",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "GoFleet",
@@ -1478,8 +1478,8 @@ const companiesData = [
       "Fleet Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gofleet",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Good Way Technology Co., Ltd",
@@ -1494,8 +1494,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/good-way-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Hangzhou LeShun Information Technology Co., Ltd",
@@ -1516,8 +1516,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hangzhou-leshun-information-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "HestaBit",
@@ -1538,8 +1538,8 @@ const companiesData = [
       "Factory Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hestabit",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Korea Institute for Robot Industry Advancement",
@@ -1554,8 +1554,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/korea-institute-for-robot-industry-advancement",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Laserfiche International Ltd.",
@@ -1576,8 +1576,8 @@ const companiesData = [
       "Total Solution Provider"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/laserfiche-international-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "Leapwork",
@@ -1598,8 +1598,8 @@ const companiesData = [
       "Cost Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/leapwork",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Lotus Pacific Technologies Inc",
@@ -1620,8 +1620,8 @@ const companiesData = [
       "Pattern Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lotus-pacific-technologies-inc",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 76.0
   },
   {
     "name": "OEM GURU INDUSTRIES PVT LTD",
@@ -1639,8 +1639,8 @@ const companiesData = [
       "Store Operations - Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oem-guru-industries-pvt-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ON-LINK",
@@ -1659,8 +1659,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/on-link",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ROBOTERA",
@@ -1679,8 +1679,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/robotera",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Shelly Asia",
@@ -1694,8 +1694,8 @@ const companiesData = [
       "Smart Appliances / Gadgets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shelly-asia",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Shenyang Jesen POS Co., Ltd.",
@@ -1716,8 +1716,8 @@ const companiesData = [
       "Handhelds, Laptops, PCs, Printers, Monitors, Screens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenyang-jesen-pos-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "SPACEONE Co.,Ltd",
@@ -1738,8 +1738,8 @@ const companiesData = [
       "Mobility & Transport"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spaceone-coltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "SSI EMEA LIMITED",
@@ -1760,8 +1760,8 @@ const companiesData = [
       "Automation & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ssi-emea-limited",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "StarLink - F5",
@@ -1782,8 +1782,8 @@ const companiesData = [
       "Cloud Service Provider - CSP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---f5",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "StarLink - Juniper",
@@ -1802,8 +1802,8 @@ const companiesData = [
       "Cloud Service Provider - CSP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---juniper",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "StarLink - Keysight",
@@ -1822,8 +1822,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---keysight",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "StarLink - Okta",
@@ -1842,8 +1842,8 @@ const companiesData = [
       "Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---okta",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "SYNCROW I O T SOLUTIONS TRADING L.L.C",
@@ -1864,8 +1864,8 @@ const companiesData = [
       "Transport Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/syncrow-i-o-t-solutions-trading-llc",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Thomsun Trading Est",
@@ -1886,8 +1886,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thomsun-trading-est",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Transtek Systems",
@@ -1908,8 +1908,8 @@ const companiesData = [
       "Digital Transformation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/transtek-systems",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 72.0
   },
   {
     "name": "TWSC",
@@ -1930,8 +1930,8 @@ const companiesData = [
       "Gaming Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/twsc",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "VSEEK",
@@ -1951,8 +1951,8 @@ const companiesData = [
       "Articulated Robots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vseek",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Zhejiang Langyu Visual Technology Co., Ltd.",
@@ -1970,8 +1970,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-langyu-visual-technology-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "D-TEG Co.,Ltd.",
@@ -1992,8 +1992,8 @@ const companiesData = [
       "Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/d-teg-coltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Dingli Corporation Ltd",
@@ -2014,8 +2014,8 @@ const companiesData = [
       "Processing Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dingli-corporation-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "EZELINK TELECOM LLC",
@@ -2036,8 +2036,8 @@ const companiesData = [
       "Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ezelink-telecom-llc",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "i-See",
@@ -2058,8 +2058,8 @@ const companiesData = [
       "Remote Patient Monitoring Tools"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/i-see",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Kyro Solutions",
@@ -2080,8 +2080,8 @@ const companiesData = [
       "Digital Asset Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kyro-solutions",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "RelaJet Tech (Taiwan) Co., Ltd.",
@@ -2102,8 +2102,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/relajet-tech-taiwan-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "VISION AUTOMOBILE ELECTRONICS INDUSTRIAL CO., LTD.",
@@ -2117,7 +2117,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vision-automobile-electronics-industrial-co-ltd",
     "relevance_stars": 3,
-    "relevance_score": 7.2
+    "relevance_score": 8.0
   },
   {
     "name": "BigDataLabs Co., Ltd.",
@@ -2138,8 +2138,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bigdatalabs-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "DEEP IN SIGHT Co.,Ltd.",
@@ -2160,8 +2160,8 @@ const companiesData = [
       "Smart Building & Infrastructure & Materials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deep-in-sight-coltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "FRT Robotics Co., Ltd.",
@@ -2176,8 +2176,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/frt-robotics-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "LogicHive",
@@ -2198,8 +2198,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logichive",
-    "relevance_stars": 3,
-    "relevance_score": 7.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Simplatform Co., Ltd",
@@ -2220,8 +2220,8 @@ const companiesData = [
       "Pattern Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/simplatform-co-ltd",
-    "relevance_stars": 3,
-    "relevance_score": 7.0
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "BRAIN TECHNOLOGIES",
@@ -2242,8 +2242,8 @@ const companiesData = [
       "Web Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/brain-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 6.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "PARADIGM DIGITAL SOLUTIONS SMC PVT LTD",
@@ -2264,8 +2264,8 @@ const companiesData = [
       "Python"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/paradigm-digital-solutions-smc-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.8
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "SAFEU",
@@ -2286,8 +2286,8 @@ const companiesData = [
       "Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/safeu",
-    "relevance_stars": 2,
-    "relevance_score": 6.8
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "WGI TELECOM INC",
@@ -2308,8 +2308,8 @@ const companiesData = [
       "Accessories - AUX cables / OTG Cable"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wgi-telecom-inc",
-    "relevance_stars": 2,
-    "relevance_score": 6.8
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Axes Software",
@@ -2330,8 +2330,8 @@ const companiesData = [
       "eCommerce Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/axes-software",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "CDN Software Solutions Pvt Ltd",
@@ -2352,8 +2352,8 @@ const companiesData = [
       "Data Science"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cdn-software-solutions-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "COREMOVEMENT Co., Ltd.",
@@ -2370,8 +2370,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/coremovement-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "e-Banking Tech Co., LTD",
@@ -2392,8 +2392,8 @@ const companiesData = [
       "POS Machines & Payment Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/e-banking-tech-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Emerging AI",
@@ -2414,8 +2414,8 @@ const companiesData = [
       "Digital Twin & Simulation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emerging-ai",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "ENITT Inc.",
@@ -2429,8 +2429,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/enitt-inc",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Moontech Electronics",
@@ -2451,8 +2451,8 @@ const companiesData = [
       "USB Gadgets - USB storage devices"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moontech-electronics",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Network Korea Co., Ltd",
@@ -2473,8 +2473,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/network-korea-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Nicomatic Explorer",
@@ -2495,8 +2495,8 @@ const companiesData = [
       "Interoperability / System Integration"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nicomatic-explorer",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "OPWAY COMMUNICATION INC.",
@@ -2517,8 +2517,8 @@ const companiesData = [
       "Military Communication Equipment & Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/opway-communication-inc",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "OÜ Omnicomm",
@@ -2538,8 +2538,8 @@ const companiesData = [
       "Sensors, Smart lighting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/o-omnicomm",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "RobotWare.AI",
@@ -2549,8 +2549,8 @@ const companiesData = [
     "description": "RobotWare.AI Service - Modular solutions designed for your specific farm size and production system. - Data Collection Infrastructure: Real-time data from all farm IoT sensors. 1. AI Analysis & Prediction: Detect data patterns t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/robotwareai",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "SED Initta Technology",
@@ -2571,8 +2571,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sed-initta-technology",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Shenzhen TOPFLYTECH Co., Limited",
@@ -2593,8 +2593,8 @@ const companiesData = [
       "Truck Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-topflytech-co-limited",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Shenzhen Winstar Technology Co., Ltd.",
@@ -2612,8 +2612,8 @@ const companiesData = [
       "Sensors, Smart lighting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-winstar-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "SP.ARM",
@@ -2634,8 +2634,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sparm",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "United Finance & Exports Limited",
@@ -2656,8 +2656,8 @@ const companiesData = [
       "Devices -Tablets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/united-finance--exports-limited",
-    "relevance_stars": 2,
-    "relevance_score": 6.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "ANKAREF INOVASYON VE TEKNOLOJI A.S.",
@@ -2678,8 +2678,8 @@ const companiesData = [
       "Smart Building & Infrastructure & Materials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ankaref-inovasyon-ve-teknoloji-as",
-    "relevance_stars": 2,
-    "relevance_score": 6.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "AURCORE TECHNOLOGY INC.",
@@ -2700,8 +2700,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aurcore-technology-inc",
-    "relevance_stars": 2,
-    "relevance_score": 6.2
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "INIT Technologies doo Novi Sad",
@@ -2722,8 +2722,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/init-technologies-doo-novi-sad",
-    "relevance_stars": 2,
-    "relevance_score": 6.2
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "iTriangle Infotech",
@@ -2742,8 +2742,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itriangle-infotech",
-    "relevance_stars": 2,
-    "relevance_score": 6.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Mohammed Bin Rashid Library",
@@ -2759,8 +2759,8 @@ const companiesData = [
       "Animation & Simulation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mohammed-bin-rashid-library",
-    "relevance_stars": 2,
-    "relevance_score": 6.2
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "AGRIVI",
@@ -2781,8 +2781,8 @@ const companiesData = [
       "Digital control systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agrivi",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "AVITA Inc.",
@@ -2803,8 +2803,8 @@ const companiesData = [
       "Virtual Companions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avita-inc",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "BlueStar Europe Distribution BV",
@@ -2825,8 +2825,8 @@ const companiesData = [
       "Store Operations - Labelling & Ticketing Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bluestar-europe-distribution-bv",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Cloud Solutions",
@@ -2847,8 +2847,8 @@ const companiesData = [
       "Patient Engagement and Experience Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloud-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Computer Weekly",
@@ -2869,8 +2869,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/computer-weekly",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Corner Case Technologies",
@@ -2891,8 +2891,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/corner-case-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Department of Public Works",
@@ -2913,8 +2913,8 @@ const companiesData = [
       "Government Authorities & Municipalities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/department-of-public-works",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "DVCOM Technology LLC",
@@ -2935,8 +2935,8 @@ const companiesData = [
       "Operations Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dvcom-technology-llc",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Facesystem",
@@ -2957,8 +2957,8 @@ const companiesData = [
       "Mobility & Transport"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/facesystem",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "GISLabs",
@@ -2979,8 +2979,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gislabs",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Jacky's Business Solutions LLC",
@@ -2998,8 +2998,8 @@ const companiesData = [
       "Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jackys-business-solutions-llc",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Made in Russia",
@@ -3020,8 +3020,8 @@ const companiesData = [
       "IoT Based Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/made-in-russia",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Maipu",
@@ -3042,8 +3042,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maipu",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Ministry of Education",
@@ -3059,8 +3059,8 @@ const companiesData = [
       "Artificial Intelligence & IOT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-education",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Pixida Group",
@@ -3081,8 +3081,8 @@ const companiesData = [
       "Data Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pixida-group",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 88.0
   },
   {
     "name": "Plan-S Satellite & Space Technologies",
@@ -3103,8 +3103,8 @@ const companiesData = [
       "Satellite & Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/plan-s-satellite--space-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Sentinel Technologies",
@@ -3125,8 +3125,8 @@ const companiesData = [
       "Storage Area Networks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sentinel-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Sharjah police",
@@ -3147,8 +3147,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sharjah-police",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Syscom Distributions LLC",
@@ -3169,8 +3169,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/syscom-distributions-llc",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "The Government of Moscow",
@@ -3191,8 +3191,8 @@ const companiesData = [
       "Urban Planning Developers, Consultancy & Project Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-government-of-moscow",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Unitree Robotics",
@@ -3209,8 +3209,8 @@ const companiesData = [
       "UAV, Robotics & Drones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unitree-robotics",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Vistas Global",
@@ -3231,8 +3231,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vistas-global",
-    "relevance_stars": 2,
-    "relevance_score": 6.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "ANGEL TRADE CO., LTD",
@@ -3253,8 +3253,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/angel-trade-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Joy Smart Technologies",
@@ -3270,8 +3270,8 @@ const companiesData = [
       "Efficient Lighting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/joy-smart-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "LST SOFTWARE SOLUTIONS",
@@ -3292,8 +3292,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lst-software-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Premier Cables Private Limited",
@@ -3314,8 +3314,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/premier-cables-private-limited",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "RONGTA",
@@ -3330,8 +3330,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rongta",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Tomotec Ltd.",
@@ -3352,8 +3352,8 @@ const companiesData = [
       "Digital Signage - Projectors"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tomotec-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ulefone",
@@ -3374,8 +3374,8 @@ const companiesData = [
       "In-Vehicle Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ulefone",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Xiamen Four-Faith Communication Technology Co., Ltd.",
@@ -3396,8 +3396,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xiamen-four-faith-communication-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.8
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Circu Li-ion",
@@ -3418,8 +3418,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/circu-li-ion",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Comsense - \\\"Your Strategic AI Partner\\\"",
@@ -3440,8 +3440,8 @@ const companiesData = [
       "Email Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/comsense---your-strategic-ai-partner",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "DEEP Robotics",
@@ -3462,8 +3462,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deep-robotics",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Federal Authority for Identity, Citizenship, Customs & Port Security",
@@ -3484,8 +3484,8 @@ const companiesData = [
       "Robotic Process Automation - RPA"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/federal-authority-for-identity-citizenship-customs--port-security",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "MARICORP CYPRUS CONSULTANCY LTD",
@@ -3506,8 +3506,8 @@ const companiesData = [
       "Influencer Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maricorp-cyprus-consultancy-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Mitsubishi Electric Corporation",
@@ -3528,8 +3528,8 @@ const companiesData = [
       "Factory Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mitsubishi-electric-corporation",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "MYACCOUNTS ONLINE SOFTWARE PVT LTD",
@@ -3550,8 +3550,8 @@ const companiesData = [
       "Mobile Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/myaccounts-online-software-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Navigators Software Pvt. Ltd. (Navsoft)",
@@ -3572,8 +3572,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/navigators-software-pvt-ltd-navsoft",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "nvisionist S.A.",
@@ -3594,8 +3594,8 @@ const companiesData = [
       "Environmental Solutions - Wind"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nvisionist-sa",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Orro Home General Trading LLC",
@@ -3616,8 +3616,8 @@ const companiesData = [
       "Accessories - Headphones / earphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/orro-home-general-trading-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Scaling Smart DMCC",
@@ -3638,8 +3638,8 @@ const companiesData = [
       "Python"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scaling-smart-dmcc",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "SIGNALGENERIX LTD",
@@ -3655,8 +3655,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/signalgenerix-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Silver Bell Group",
@@ -3677,8 +3677,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/silver-bell-group",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "T2",
@@ -3699,8 +3699,8 @@ const companiesData = [
       "Telecoms & Mobility"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/t2",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Tatweer / Yas Driving Academy",
@@ -3721,8 +3721,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tatweer--yas-driving-academy",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "WATA AI Inc.",
@@ -3743,8 +3743,8 @@ const companiesData = [
       "Supply Chain & Logistics - Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wata-ai-inc",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "XMARTWARE CONSULTING",
@@ -3765,8 +3765,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xmartware-consulting",
-    "relevance_stars": 2,
-    "relevance_score": 5.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Abcom Distribution LLC",
@@ -3787,8 +3787,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/abcom-distribution-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Andevos",
@@ -3809,8 +3809,8 @@ const companiesData = [
       "Java"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/andevos",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Barco",
@@ -3823,8 +3823,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/barco",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Beijing Jasmines BioTech INC.",
@@ -3845,8 +3845,8 @@ const companiesData = [
       "Neural Networks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-jasmines-biotech-inc",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Ben Infotech Telephones & Telecommunications equipment Trading LLC",
@@ -3867,8 +3867,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ben-infotech-telephones--telecommunications-equipment-trading-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Chengdu NEWTRON Technology Co., Ltd.",
@@ -3886,8 +3886,8 @@ const companiesData = [
       "Solutions for surface treatment - Laser Surface Treatment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chengdu-newtron-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "NEOUSYS",
@@ -3897,8 +3897,8 @@ const companiesData = [
     "description": "Established in 2010, Neousys Technology designs, manufactures, and markets innovative edge AI computing platforms and rugged embedded computers. We specialize in the thermal management and integration of high-computation-power CP ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neousys",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Nupeak IT Services LLC.",
@@ -3919,8 +3919,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nupeak-it-services-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Preview General Trading LLC",
@@ -3937,8 +3937,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/preview-general-trading-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "WanDong Electronics (HongKong) Limited",
@@ -3953,8 +3953,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wandong-electronics-hongkong-limited",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "WEIRONG TECHNOLOGY CORPORATION",
@@ -3971,8 +3971,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/weirong-technology-corporation",
-    "relevance_stars": 2,
-    "relevance_score": 5.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Beijing Kuangshi Technology Co., Ltd.",
@@ -3991,8 +3991,8 @@ const companiesData = [
       "Facial / Iris Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-kuangshi-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "C4Line Co.",
@@ -4013,8 +4013,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/c4line-co",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Celebal Technologies",
@@ -4035,8 +4035,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/celebal-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 66.0
   },
   {
     "name": "China Mobile International",
@@ -4057,8 +4057,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/china-mobile-international",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Compusouk LLC - AE",
@@ -4079,8 +4079,8 @@ const companiesData = [
       "Load Balancers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/compusouk-llc---ae",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "CTRL N",
@@ -4101,8 +4101,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ctrl-n",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "DEEPNOID Inc.",
@@ -4123,8 +4123,8 @@ const companiesData = [
       "Visual Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deepnoid-inc",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Digital Data Communications GmbH equip, LevelOne, Conceptronic",
@@ -4145,8 +4145,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-data-communications-gmbh-equip-levelone-conceptronic",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Dutco Tennant LLC",
@@ -4167,8 +4167,8 @@ const companiesData = [
       "Training centre resources"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dutco-tennant-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Eastern Dynamics (Shenzhen) Technology Co., Ltd",
@@ -4185,8 +4185,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eastern-dynamics-shenzhen-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Electronics and Computer Software Export Promotion Council",
@@ -4207,8 +4207,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/electronics-and-computer-software-export-promotion-council",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ELITE CARGO FZCO",
@@ -4229,8 +4229,8 @@ const companiesData = [
       "Devices -Digital Audio Player"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/elite-cargo-fzco",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "F1SOFT Co., Ltd",
@@ -4251,8 +4251,8 @@ const companiesData = [
       "Big Data / Digitisation / Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/f1soft-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Fulminous Software",
@@ -4273,8 +4273,8 @@ const companiesData = [
       "Cloud Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fulminous-software",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Gen2wave Co., Ltd.",
@@ -4295,8 +4295,8 @@ const companiesData = [
       "Safety & Security Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gen2wave-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ghana Export Promotion Authority",
@@ -4317,8 +4317,8 @@ const companiesData = [
       "Biotechnology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ghana-export-promotion-authority",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Hangzhou LifeSmart Technology Co., Ltd",
@@ -4339,8 +4339,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hangzhou-lifesmart-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "ICIL TECHNOLOGIES PVT LTD",
@@ -4361,8 +4361,8 @@ const companiesData = [
       "Intelligent Supply Chain"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/icil-technologies-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "INFINIA MUHENDISLIK ANONIM SIRKETI",
@@ -4383,8 +4383,8 @@ const companiesData = [
       "Creativity & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/infinia-muhendislik-anonim-sirketi",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "IOLITE",
@@ -4398,8 +4398,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iolite",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "LIVING HOMES",
@@ -4417,8 +4417,8 @@ const companiesData = [
       "AI & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/living-homes",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "LocAwave（Beijing）Technology Co., Ltd",
@@ -4434,8 +4434,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/locawavebeijingtechnology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Machinesens IoT",
@@ -4456,8 +4456,8 @@ const companiesData = [
       "Network Management and Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/machinesens-iot",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "MB connect line",
@@ -4478,8 +4478,8 @@ const companiesData = [
       "Connectivity Modules, Data Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mb-connect-line",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Newland AIDC EMEA",
@@ -4500,8 +4500,8 @@ const companiesData = [
       "Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/newland-aidc-emea",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "OTS",
@@ -4522,8 +4522,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ots",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "PILOT",
@@ -4543,8 +4543,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pilot",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Planet Technology Corporation",
@@ -4565,8 +4565,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/planet-technology-corporation",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Professional Telecommunication Incorporation (PROTEI)",
@@ -4587,8 +4587,8 @@ const companiesData = [
       "Firewalls"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/professional-telecommunication-incorporation-protei",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "RocketDrop LLC",
@@ -4609,8 +4609,8 @@ const companiesData = [
       "Devices -Portable Media Players"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rocketdrop-llc",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Shenzhen AOYI Technology Limited",
@@ -4631,8 +4631,8 @@ const companiesData = [
       "Brand Safety"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-aoyi-technology-limited",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Shenzhen Huachuang Hengda Technology Ltd.",
@@ -4647,8 +4647,8 @@ const companiesData = [
       "Industrial IoT (IIoT) & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-huachuang-hengda-technology-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Shenzhen iData Information Technology Co., Ltd",
@@ -4669,8 +4669,8 @@ const companiesData = [
       "RFID, Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-idata-information-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Shenzhen Itrybrand Technology Co., Ltd.",
@@ -4691,8 +4691,8 @@ const companiesData = [
       "Monitoring"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-itrybrand-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Shenzhen Tenda Technology Co., Ltd. - CN",
@@ -4713,8 +4713,8 @@ const companiesData = [
       "IP Communications & Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-tenda-technology-co-ltd---cn",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "SMPH Consulting INC. (Operating as WYRED)",
@@ -4735,8 +4735,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smph-consulting-inc-operating-as-wyred",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Soltech. CO . LTD",
@@ -4751,8 +4751,8 @@ const companiesData = [
       "Industrial IoT (IIoT) & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/soltech-co--ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "ThinkPalm Technologies Pvt. Ltd.",
@@ -4768,8 +4768,8 @@ const companiesData = [
       "Application Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thinkpalm-technologies-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "TIM SPA",
@@ -4790,8 +4790,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tim-spa",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Trex Digital Akıllı Üretim Sistemleri A.Ş.",
@@ -4812,8 +4812,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trex-digital-akll-retim-sistemleri-a",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "ULAK COMMUNICATIONS",
@@ -4834,8 +4834,8 @@ const companiesData = [
       "Cloud Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ulak-communications",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Yeeka",
@@ -4856,8 +4856,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yeeka",
-    "relevance_stars": 2,
-    "relevance_score": 5.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Cardline UAE",
@@ -4876,8 +4876,8 @@ const companiesData = [
       "Card Service Card"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cardline-uae",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "DaveAI",
@@ -4895,8 +4895,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/daveai",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "ENPOINTE GLOBAL",
@@ -4917,8 +4917,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/enpointe-global",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "ERD",
@@ -4939,8 +4939,8 @@ const companiesData = [
       "Accessories - Car Accessories"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/erd",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "FileCloud",
@@ -4960,8 +4960,8 @@ const companiesData = [
       "Storage - Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/filecloud",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Green Energy Iwona Babinska",
@@ -4982,8 +4982,8 @@ const companiesData = [
       "Government Authorities & Environment Agencies"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/green-energy-iwona-babinska",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Hanlim Ce Corp.",
@@ -4998,8 +4998,8 @@ const companiesData = [
       "IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hanlim-ce-corp",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Hyperlink InfoSystem",
@@ -5020,8 +5020,8 @@ const companiesData = [
       "Cloud / IoT / Smart Cities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hyperlink-infosystem",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "IANUS TECHNOLOGIES LTD",
@@ -5042,8 +5042,8 @@ const companiesData = [
       "Java"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ianus-technologies-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Innovent Tech Solutions",
@@ -5058,8 +5058,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/innovent-tech-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Kloudspot (Mena Galaxy Computers)",
@@ -5076,8 +5076,8 @@ const companiesData = [
       "Application Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kloudspot-mena-galaxy-computers",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Last Mile Semiconductor GmbH",
@@ -5098,8 +5098,8 @@ const companiesData = [
       "Connected Mobility Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/last-mile-semiconductor-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "NITES DOO BEOGRAD",
@@ -5120,8 +5120,8 @@ const companiesData = [
       "Predictive Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nites-doo-beograd",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Obelus",
@@ -5142,8 +5142,8 @@ const companiesData = [
       "Digital Payment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/obelus",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "QNAP Systems, Inc.",
@@ -5160,8 +5160,8 @@ const companiesData = [
       "Innovation Data Centre Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qnap-systems-inc",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "RedFrog",
@@ -5182,8 +5182,8 @@ const companiesData = [
       "Data Visualisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redfrog",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Shanghai Sunmi Technology Co., Ltd.",
@@ -5196,8 +5196,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shanghai-sunmi-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "TXOne Networks Inc.",
@@ -5214,8 +5214,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/txone-networks-inc",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Ubiquiti",
@@ -5236,8 +5236,8 @@ const companiesData = [
       "Platform Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ubiquiti",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Wings Infonet Private Limited - IN",
@@ -5258,8 +5258,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wings-infonet-private-limited---in",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Zywell",
@@ -5274,8 +5274,8 @@ const companiesData = [
       "Design & Product Development - 3D Data Utilization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zywell",
-    "relevance_stars": 2,
-    "relevance_score": 4.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "AlgoMetric",
@@ -5296,8 +5296,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/algometric",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Devkraft Technologies",
@@ -5318,8 +5318,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/devkraft-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "EMBEDL AB",
@@ -5339,8 +5339,8 @@ const companiesData = [
       "Real time translation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/embedl-ab",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Extranet Technology Solutions LLC",
@@ -5361,8 +5361,8 @@ const companiesData = [
       "Pattern Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/extranet-technology-solutions-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "General Assembly",
@@ -5380,8 +5380,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-assembly",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Globant",
@@ -5402,8 +5402,8 @@ const companiesData = [
       "Natural Language Generation (NLG)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globant",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "GLP Wireless FZCO",
@@ -5424,8 +5424,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/glp-wireless-fzco",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "HachiAI",
@@ -5445,8 +5445,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hachiai",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "HITESHI - Advanced AI Solutions",
@@ -5467,8 +5467,8 @@ const companiesData = [
       "Speech Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hiteshi---advanced-ai-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Korea ICT Asssociation (KICTA)",
@@ -5484,8 +5484,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/korea-ict-asssociation-kicta",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Space42 PLC",
@@ -5506,8 +5506,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/space42-plc",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 70.0
   },
   {
     "name": "TrafficData",
@@ -5525,8 +5525,8 @@ const companiesData = [
       "Government Authorities & Municipalities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trafficdata",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "TransMon",
@@ -5547,8 +5547,8 @@ const companiesData = [
       "Deep Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/transmon",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "UAVPROF",
@@ -5567,8 +5567,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uavprof",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "YaCu Robotics LLC",
@@ -5585,8 +5585,8 @@ const companiesData = [
       "Autonomous Mobile Robots (AMRs)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yacu-robotics-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Argusa",
@@ -5607,8 +5607,8 @@ const companiesData = [
       "Social Media Data"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/argusa",
-    "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "GEC Media",
@@ -5629,8 +5629,8 @@ const companiesData = [
       "Media Publishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gec-media",
-    "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "MECS PRO - Elderly Diaper Care System",
@@ -5651,8 +5651,8 @@ const companiesData = [
       "Digital / Product Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mecs-pro---elderly-diaper-care-system",
-    "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "PodTech Data Center",
@@ -5671,8 +5671,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/podtech-data-center",
-    "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "RITTAL FZE",
@@ -5694,7 +5694,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rittal-fze",
     "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_score": 4.0
   },
   {
     "name": "SHANGCHEN IOT",
@@ -5711,8 +5711,8 @@ const companiesData = [
       "Supply Chain & Logistics - Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shangchen-iot",
-    "relevance_stars": 2,
-    "relevance_score": 4.2
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "AirPro Technology India Pvt Ltd",
@@ -5733,8 +5733,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/airpro-technology-india-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Airtool",
@@ -5755,8 +5755,8 @@ const companiesData = [
       "Cloud Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/airtool",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "ALMOE",
@@ -5777,8 +5777,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/almoe",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Beijing Galbot Co., Ltd",
@@ -5794,8 +5794,8 @@ const companiesData = [
       "Store Operations - Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-galbot-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "BINDTEC CO.,LTD",
@@ -5808,8 +5808,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bindtec-coltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Bitrobotics Export LLC",
@@ -5825,8 +5825,8 @@ const companiesData = [
       "Digital Twin & Simulation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bitrobotics-export-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "BRYTN CO.",
@@ -5846,8 +5846,8 @@ const companiesData = [
       "Digital Signage - Projectors"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/brytn-co",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Calidad",
@@ -5861,8 +5861,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/calidad",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Changsha Byintek Electronics Co., Ltd",
@@ -5878,8 +5878,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/changsha-byintek-electronics-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "DataScience",
@@ -5900,8 +5900,8 @@ const companiesData = [
       "Data Sciences"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datascience",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "DBOX",
@@ -5918,8 +5918,8 @@ const companiesData = [
       "Mobility & Transport"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dbox",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "DCI Ltd.",
@@ -5934,8 +5934,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dci-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "DEMETRA Lean Way d.o.o.",
@@ -5956,8 +5956,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/demetra-lean-way-doo",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Dubai Foundation for Women and Children",
@@ -5978,8 +5978,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-foundation-for-women-and-children",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Dubai Municipality",
@@ -5997,8 +5997,8 @@ const companiesData = [
       "Adaptive Irrigation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-municipality",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Formcase GmbH",
@@ -6019,8 +6019,8 @@ const companiesData = [
       "Accessories - Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/formcase-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "G-Power",
@@ -6036,8 +6036,8 @@ const companiesData = [
       "Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/g-power",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "GLAZAR LLC",
@@ -6058,8 +6058,8 @@ const companiesData = [
       "Cloud, AI & Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/glazar-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "GreatWall Global Information Technology(Shenzhen) Co., Ltd",
@@ -6080,8 +6080,8 @@ const companiesData = [
       "Visualization - Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/greatwall-global-information-technologyshenzhen-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "HILL SOUND DIGITAL PRODUCTS LIMITED",
@@ -6099,8 +6099,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hill-sound-digital-products-limited",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Hitachi Terminal Solutions Co., Ltd.",
@@ -6121,8 +6121,8 @@ const companiesData = [
       "Customer Experience & Retention - Customer Contact Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hitachi-terminal-solutions-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "HOIN",
@@ -6136,8 +6136,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hoin",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "IEG. Co., Ltd",
@@ -6158,8 +6158,8 @@ const companiesData = [
       "Intelligent Supply Chain"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ieg-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "INFOTECH",
@@ -6179,8 +6179,8 @@ const companiesData = [
       "Factory Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/infotech",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Intelvision",
@@ -6198,8 +6198,8 @@ const companiesData = [
       "Last Mile"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intelvision",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "JAMAICA TRADING CO LLC",
@@ -6220,8 +6220,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jamaica-trading-co-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Korcomptenz Inc",
@@ -6242,8 +6242,8 @@ const companiesData = [
       "Supply Chain & Logistics - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/korcomptenz-inc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "KOREA INSTITUTE OF ROBOTICS & TECHNOLOGY CONVERGENCE(KIRO)",
@@ -6256,8 +6256,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/korea-institute-of-robotics--technology-convergencekiro",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Lexar Co., Limited",
@@ -6278,8 +6278,8 @@ const companiesData = [
       "Photography"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lexar-co-limited",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "LLC Clover",
@@ -6293,8 +6293,8 @@ const companiesData = [
       "Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/llc-clover",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Lumi Legend Corporation",
@@ -6310,8 +6310,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lumi-legend-corporation",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "MediFarmSoft co., LTD",
@@ -6332,8 +6332,8 @@ const companiesData = [
       "Digital / Product Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/medifarmsoft-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "MIDDLE EAST FIBER CABLE MANUFACTURING CO",
@@ -6354,8 +6354,8 @@ const companiesData = [
       "Energy Management & Sustainability"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/middle-east-fiber-cable-manufacturing-co",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "Multi Distribution DMCC",
@@ -6372,8 +6372,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/multi-distribution-dmcc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Nourah Information Technology Company (NITC)",
@@ -6394,8 +6394,8 @@ const companiesData = [
       "Total Solution Provider"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nourah-information-technology-company-nitc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "PanBrain",
@@ -6416,8 +6416,8 @@ const companiesData = [
       "Product Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/panbrain",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "PINGYANG FEELTECK ELECTRIC CO., LTD",
@@ -6431,8 +6431,8 @@ const companiesData = [
       "Office Automation & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pingyang-feelteck-electric-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Pingyu Kejia Electronics Co.,Ltd.",
@@ -6453,8 +6453,8 @@ const companiesData = [
       "Accessories - Car Accessories"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pingyu-kejia-electronics-coltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Plustek Inc.",
@@ -6475,8 +6475,8 @@ const companiesData = [
       "Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/plustek-inc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Power Technologies",
@@ -6497,8 +6497,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/power-technologies",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "PRONYX TRADING L.L.C",
@@ -6519,8 +6519,8 @@ const companiesData = [
       "Connectors, Harnesses - Charging Connectors"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pronyx-trading-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "RBI Concept LLC",
@@ -6541,8 +6541,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rbi-concept-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "SAS Middle East FZ-LLC",
@@ -6552,8 +6552,8 @@ const companiesData = [
     "description": "Since 1976, SAS has empowered and inspired customers with the most trusted analytics. From machine learning, deep learning, computer vision, and natural language processing (NLP) to forecasting and optimization, our AI and IoT tec ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sas-middle-east-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Saudi Export Development Authority - SEDA",
@@ -6574,8 +6574,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/saudi-export-development-authority---seda",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Science42.tech",
@@ -6596,8 +6596,8 @@ const companiesData = [
       "Web, Internet Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/science42tech",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Shanghai Guao Electronic Technology Co., Ltd.",
@@ -6616,8 +6616,8 @@ const companiesData = [
       "Smart Hardware Technology - Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shanghai-guao-electronic-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Shanyos Pte Ltd",
@@ -6638,8 +6638,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shanyos-pte-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "SHENZHEN FUTURE ACCESS TECHNOLOGY CO., LIMITED",
@@ -6660,8 +6660,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-future-access-technology-co-limited",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "SHENZHEN ITZR TECHNOLOGY CO., LTD.",
@@ -6682,8 +6682,8 @@ const companiesData = [
       "USB Gadgets - USB storage devices"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-itzr-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Shenzhen Kuangxiang Technology Co., Ltd.",
@@ -6704,8 +6704,8 @@ const companiesData = [
       "Devices -Portable Media Players"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-kuangxiang-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SMJ SOLUTIONS LLC",
@@ -6724,8 +6724,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smj-solutions-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "SpaceLab",
@@ -6735,8 +6735,8 @@ const companiesData = [
     "description": "SpaceLab unites satellite IoT, sensors, AI, 3D printing to enable smart monitoring, risk prevention, local manufacturing. Mission: prevention of natural and technogenic disasters. IoVIT – global satellite ecosystem for remote mo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spacelab",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "StartUP in Georgia",
@@ -6757,8 +6757,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/startup-in-georgia",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Tavion LLC",
@@ -6772,8 +6772,8 @@ const companiesData = [
       "UAV, Robotics & Drones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tavion-llc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "TBM Co., Ltd.",
@@ -6791,8 +6791,8 @@ const companiesData = [
       "Gaming Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tbm-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Tensor Auto, Inc",
@@ -6809,8 +6809,8 @@ const companiesData = [
       "Autonomous Vehicles / Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tensor-auto-inc",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Turbo freight services FZCO",
@@ -6831,8 +6831,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/turbo-freight-services-fzco",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "UPWARD",
@@ -6853,8 +6853,8 @@ const companiesData = [
       "Industrial Software & Process Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/upward",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "WIN Information Technology FZC - AE",
@@ -6875,8 +6875,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/win-information-technology-fzc---ae",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "XL++",
@@ -6897,8 +6897,8 @@ const companiesData = [
       "Data Science"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xl",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "ZHEJIANG HENRY ELECTRONIC CO., LTD",
@@ -6914,8 +6914,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-henry-electronic-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Zhejiang Nanxing Technology Co., Ltd",
@@ -6930,8 +6930,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-nanxing-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Zhejiang Yunkai New Energy Technology Co., Ltd",
@@ -6952,8 +6952,8 @@ const companiesData = [
       "In-Vehicle Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-yunkai-new-energy-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 4.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "2D Soft",
@@ -6968,8 +6968,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/2d-soft",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Aislelabs",
@@ -6990,8 +6990,8 @@ const companiesData = [
       "Operational Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aislelabs",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Aspidex",
@@ -7012,8 +7012,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aspidex",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Attom Technology",
@@ -7034,8 +7034,8 @@ const companiesData = [
       "Critical Power"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/attom-technology",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AUSTIN HUGHES",
@@ -7056,8 +7056,8 @@ const companiesData = [
       "Power Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/austin-hughes",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Brainium Information Technologies Pvt Ltd",
@@ -7078,8 +7078,8 @@ const companiesData = [
       "Web App, Design and Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/brainium-information-technologies-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "CitiXsys Limited",
@@ -7100,8 +7100,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/citixsys-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "ENGINO - NET LTD",
@@ -7123,7 +7123,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/engino---net-ltd",
     "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_score": 4.0
   },
   {
     "name": "HRSG International HR Consultancies LLC",
@@ -7144,8 +7144,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hrsg-international-hr-consultancies-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "Jiangsu Titan Driverless Technology Co., Ltd.",
@@ -7166,8 +7166,8 @@ const companiesData = [
       "5G & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jiangsu-titan-driverless-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "K2",
@@ -7188,8 +7188,8 @@ const companiesData = [
       "Humanoids & Humanoid Robots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/k2",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Mena3D GmbH",
@@ -7209,8 +7209,8 @@ const companiesData = [
       "Design & Product Development - 3D Mapping"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mena3d-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ositech Communications Inc.",
@@ -7231,8 +7231,8 @@ const companiesData = [
       "Predictive Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ositech-communications-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "PHINO ELECTRIC CO., LTD.",
@@ -7248,8 +7248,8 @@ const companiesData = [
       "Wire Harnesses"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/phino-electric-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Systems Limited",
@@ -7270,8 +7270,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/systems-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "UniX AI",
@@ -7286,8 +7286,8 @@ const companiesData = [
       "Articulated Robots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unixai",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Well of Art",
@@ -7308,8 +7308,8 @@ const companiesData = [
       "Computer Games"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/well-of-art",
-    "relevance_stars": 2,
-    "relevance_score": 3.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "AGrandTech Limited",
@@ -7330,8 +7330,8 @@ const companiesData = [
       "Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agrandtech-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Alepo Technologies Inc.",
@@ -7352,8 +7352,8 @@ const companiesData = [
       "ICT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alepo-technologies-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "AMDIE",
@@ -7374,8 +7374,8 @@ const companiesData = [
       "Internet of Things (IoT) Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amdie",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Astra Wireless Technology FZ-LLC",
@@ -7396,8 +7396,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/astra-wireless-technology-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "astTECS GmbH",
@@ -7418,8 +7418,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asttecs-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Beetles Cyber Security",
@@ -7441,7 +7441,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beetles-cyber-security",
     "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_score": 4.0
   },
   {
     "name": "Beijing Memblaze Technology Co., Ltd.",
@@ -7462,8 +7462,8 @@ const companiesData = [
       "Deep Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-memblaze-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "BOXP",
@@ -7484,8 +7484,8 @@ const companiesData = [
       "Handhelds, Laptops, PCs, Printers, Monitors, Screens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/boxp",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Briskinfosec Technology and Consulting Private Limited",
@@ -7506,8 +7506,8 @@ const companiesData = [
       "Network & Infrastructure Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/briskinfosec-technology-and-consulting-private-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "CodeLabs Private Limited",
@@ -7528,8 +7528,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/codelabs-private-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "ComplianceSuite by INFOCREDIT GROUP LTD",
@@ -7550,8 +7550,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/compliancesuite-by-infocredit-group-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "CryptoBind",
@@ -7567,8 +7567,8 @@ const companiesData = [
       "Authentication User, Biometric Authentication and PKI"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cryptobind",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Cyber Knight Technologies FZ LLC",
@@ -7589,8 +7589,8 @@ const companiesData = [
       "Endpoint Protection & Mobile Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cyber-knight-technologies-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Datalogic SRL",
@@ -7600,8 +7600,8 @@ const companiesData = [
     "description": "Datalogic is a global technology leader in the automatic data capture and factory automation markets,specialized in the designing and production of barcode readers,mobile computers, sensors for detection,measurement and safety,RFI ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datalogic-srl",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Digitus",
@@ -7621,8 +7621,8 @@ const companiesData = [
       "Data Centre Infrastructure Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digitus",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Electronics Technology Parks Kerala",
@@ -7643,8 +7643,8 @@ const companiesData = [
       "ICT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/electronics-technology-parks-kerala",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Eltex Enterprise Ltd.",
@@ -7665,8 +7665,8 @@ const companiesData = [
       "Operating Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eltex-enterprise-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "eresource ERP",
@@ -7687,8 +7687,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eresource-erp",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Ervy",
@@ -7709,8 +7709,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ervy",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "ESET",
@@ -7731,8 +7731,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eset",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Esri",
@@ -7753,8 +7753,8 @@ const companiesData = [
       "Building Services, Management & Consulting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/esri",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Evanssion",
@@ -7772,8 +7772,8 @@ const companiesData = [
       "Anti-spam, Anti-Malware & Anti-Virus & Email Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/evanssion",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Everest IMS Technologies LTD.",
@@ -7794,8 +7794,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/everest-ims-technologies-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Exeon",
@@ -7816,8 +7816,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/exeon",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "Exquitech",
@@ -7838,8 +7838,8 @@ const companiesData = [
       "Artificial Intelligence & IOT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/exquitech",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "F5",
@@ -7860,8 +7860,8 @@ const companiesData = [
       "Solutions for component processing - Heat treatment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/f5",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "FICER TECHNOLOGY CO., LTD.",
@@ -7882,8 +7882,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ficer-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Fireware",
@@ -7904,8 +7904,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fireware",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Fleet Management Systems Company WLL",
@@ -7926,8 +7926,8 @@ const companiesData = [
       "Connected Mobility Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fleet-management-systems-company-wll",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Getac Technology Corporation",
@@ -7948,8 +7948,8 @@ const companiesData = [
       "Processing Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/getac-technology-corporation",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "GFB SOLUTIONS",
@@ -7970,8 +7970,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gfb-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "GMO GlobalSign",
@@ -7991,8 +7991,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gmo-globalsign",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Greenitco Technologies Pvt Ltd",
@@ -8013,8 +8013,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/greenitco-technologies-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "GreenState AG",
@@ -8029,8 +8029,8 @@ const companiesData = [
       "AI & Nutrition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/greenstate-ag",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Grey Matterz Inc.",
@@ -8051,8 +8051,8 @@ const companiesData = [
       "Web App, Design and Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/grey-matterz-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Guanwei Technology",
@@ -8073,8 +8073,8 @@ const companiesData = [
       "Geo-Spatial Data"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guanwei-technology",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Gwang Myeong TECH Co. Ltd.",
@@ -8093,8 +8093,8 @@ const companiesData = [
       "Smart Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gwang-myeong-tech-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "HANGZHOU ONTIME I.T. CO., LTD.",
@@ -8110,8 +8110,8 @@ const companiesData = [
       "RFID, Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hangzhou-ontime-it-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "HARMAN",
@@ -8131,8 +8131,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/harman",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "HIZIMA",
@@ -8153,8 +8153,8 @@ const companiesData = [
       "Operations Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hizima",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Horsecare d.o.o",
@@ -8175,8 +8175,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/horsecare-doo",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "ICTK Co.,Ltd.",
@@ -8197,8 +8197,8 @@ const companiesData = [
       "Security Credentials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ictk-coltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "IDCITI / uGPS",
@@ -8219,8 +8219,8 @@ const companiesData = [
       "ICT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/idciti--ugps",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Ideal Solutions",
@@ -8241,8 +8241,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ideal-solutions",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "INVT",
@@ -8252,8 +8252,8 @@ const companiesData = [
     "description": "Business areas? Industrial Automation: INVT offers a comprehensive range of products and integrated solutions, including variable frequency drives, servo systems, PLC, HMl, elevator control systems, and industrial loT solutions. ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/invt",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Iran Information and Communication Technology Federation Affiliated to Iran Chamber of Commerce",
@@ -8274,8 +8274,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iran-information-and-communication-technology-federation-affiliated-to-iran-chamber-of-commerce",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "IT Max Global",
@@ -8296,8 +8296,8 @@ const companiesData = [
       "Internet of Things (IoT) Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/it-max-global",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "ITGLOBAL.COM",
@@ -8318,8 +8318,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itglobalcom",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "JFrog Ltd.",
@@ -8340,8 +8340,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jfrog-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "JO Software Engineering GmbH",
@@ -8362,8 +8362,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jo-software-engineering-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "K3I.,Co.,Ltd..",
@@ -8384,8 +8384,8 @@ const companiesData = [
       "Facilities Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/k3icoltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Kaer",
@@ -8406,8 +8406,8 @@ const companiesData = [
       "Fixed Line Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kaer",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Kaspersky Lab Middle East FZ-LLC",
@@ -8428,8 +8428,8 @@ const companiesData = [
       "Intrusion Detection & Penetration Testing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kaspersky-lab-middle-east-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "KHAOTICEN DOO",
@@ -8450,8 +8450,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/khaoticen-doo",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Ksolves India Limited",
@@ -8472,8 +8472,8 @@ const companiesData = [
       "Digital Imaging"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ksolves-india-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Lancesoft Inc",
@@ -8494,8 +8494,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lancesoft-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "LIGHTX",
@@ -8516,8 +8516,8 @@ const companiesData = [
       "Digital Signage - Networks & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lightx",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Locatenow.ai",
@@ -8538,8 +8538,8 @@ const companiesData = [
       "Building Technology & Innovation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/locatenowai",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "MEITRACK GROUP",
@@ -8554,8 +8554,8 @@ const companiesData = [
       "Platform Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/meitrack-group",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "METSAKUUR Inc.",
@@ -8576,8 +8576,8 @@ const companiesData = [
       "EdTech & Smart Classroom Solution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/metsakuur-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ministry of Trade and Integration of the Republic of Kazakhstan",
@@ -8598,8 +8598,8 @@ const companiesData = [
       "Smart Building & Infrastructure & Materials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-trade-and-integration-of-the-republic-of-kazakhstan",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Mirrorroid Inc.",
@@ -8620,8 +8620,8 @@ const companiesData = [
       "AI & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mirrorroid-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "NCTS Computer Trading LLC",
@@ -8637,8 +8637,8 @@ const companiesData = [
       "Digital Signage - Projectors"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ncts-computer-trading-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Nextcloud GmbH",
@@ -8659,8 +8659,8 @@ const companiesData = [
       "Cloud Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nextcloud-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Nomix LLC",
@@ -8681,8 +8681,8 @@ const companiesData = [
       "Artificial Intelligence & IOT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nomix-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Nortal AS",
@@ -8703,8 +8703,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nortal-as",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Nozomi Networks",
@@ -8725,8 +8725,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nozomi-networks",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Nuctech Company Limited",
@@ -8740,8 +8740,8 @@ const companiesData = [
       "Artificial Intelligence & IOT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nuctech-company-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "OCS Infotech",
@@ -8762,8 +8762,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ocs-infotech",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "OPSWAT FZ-LLC",
@@ -8780,8 +8780,8 @@ const companiesData = [
       "Operations Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/opswat-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "OwlSense",
@@ -8802,8 +8802,8 @@ const companiesData = [
       "Virtual Reality"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/owlsense",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Point Mobile & Delta Systems",
@@ -8824,8 +8824,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/point-mobile--delta-systems",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Potech",
@@ -8846,8 +8846,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/potech",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "QINGDAO WINTEC SYSTEM CO., LTD",
@@ -8860,8 +8860,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qingdao-wintec-system-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Quantum Edge Distribution",
@@ -8882,8 +8882,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quantum-edge-distribution",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Raisecom Technology Co., Ltd.",
@@ -8904,8 +8904,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/raisecom-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ramognee Technologies Pvt Ltd",
@@ -8924,7 +8924,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ramognee-technologies-pvt-ltd",
     "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_score": 4.0
   },
   {
     "name": "Rapifuzz Private Limited",
@@ -8940,7 +8940,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rapifuzz-private-limited",
     "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_score": 4.0
   },
   {
     "name": "RAS Infotech FZE",
@@ -8961,8 +8961,8 @@ const companiesData = [
       "Anti-spam, Anti-Malware & Anti-Virus & Email Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ras-infotech-fze",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "RF-NISSI",
@@ -8983,8 +8983,8 @@ const companiesData = [
       "Satellite & Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rf-nissi",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ronglian Yun Information Technology Co., Ltd",
@@ -9001,8 +9001,8 @@ const companiesData = [
       "Billing / OSS / BSS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ronglian-yun-information-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Runtime Solutions Pvt Ltd",
@@ -9023,8 +9023,8 @@ const companiesData = [
       "Metaverse"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/runtime-solutions-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Scope Middle East",
@@ -9045,8 +9045,8 @@ const companiesData = [
       "Monitoring & Management Tools"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scope-middle-east",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ServiceNow",
@@ -9061,8 +9061,8 @@ const companiesData = [
       "AI & IoT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/servicenow",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "SHAHGARON IT SOLUTIONS LLC",
@@ -9083,8 +9083,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shahgaron-it-solutions-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Shanghai Shiyi Electronic Technology Co., Ltd. Nanjing Branch",
@@ -9105,8 +9105,8 @@ const companiesData = [
       "Applications including Development, Deployment & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shanghai-shiyi-electronic-technology-co-ltd-nanjing-branch",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 70.0
   },
   {
     "name": "Shenzhen MAlTUO Technology Co., Ltd",
@@ -9127,8 +9127,8 @@ const companiesData = [
       "Applied Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-maltuo-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Simartis",
@@ -9149,8 +9149,8 @@ const companiesData = [
       "IoT Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/simartis",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Snep d.o.o. GreenTwin",
@@ -9171,8 +9171,8 @@ const companiesData = [
       "Architecture - Design & Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/snep-doo-greentwin",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Social Services Department",
@@ -9193,8 +9193,8 @@ const companiesData = [
       "Cloud / IoT / Smart Cities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/social-services-department",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "SPACE HELLAS",
@@ -9215,8 +9215,8 @@ const companiesData = [
       "Cloud Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/space-hellas",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Specktron Middle East DMCC",
@@ -9237,8 +9237,8 @@ const companiesData = [
       "Digital Signage - LED Signage"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/specktron-middle-east-dmcc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "STARLINK DMCC",
@@ -9259,8 +9259,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink-dmcc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "StarLink- SecurX",
@@ -9277,8 +9277,8 @@ const companiesData = [
       "Cloud Management Platform"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink--securx",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Sure Triumph Industrial Limited",
@@ -9296,8 +9296,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sure-triumph-industrial-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "TechStalwarts Software Development LLP",
@@ -9318,8 +9318,8 @@ const companiesData = [
       "Open Banking / API"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/techstalwarts-software-development-llp",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Tempo Communications",
@@ -9340,8 +9340,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tempo-communications",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "TierOne",
@@ -9362,8 +9362,8 @@ const companiesData = [
       "Satellite & Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tierone",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "TmaxTibero",
@@ -9384,8 +9384,8 @@ const companiesData = [
       "Data Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tmaxtibero",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "Transworld Technology Inc",
@@ -9406,8 +9406,8 @@ const companiesData = [
       "Cloud / IoT / Smart Cities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/transworld-technology-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "Tronix Co., Ltd.",
@@ -9421,8 +9421,8 @@ const companiesData = [
       "Smart Digitial IoT Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tronix-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "VaporVM Managed IT Services",
@@ -9443,8 +9443,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vaporvm-managed-it-services",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "VISSEM Electronics Co., Ltd - KR",
@@ -9461,8 +9461,8 @@ const companiesData = [
       "Operating Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vissem-electronics-co-ltd---kr",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Webkorps Services India Pvt. Ltd.",
@@ -9483,8 +9483,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/webkorps-services-india-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Willis College",
@@ -9505,8 +9505,8 @@ const companiesData = [
       "Artificial Intelligence & IOT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/willis-college",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Zen Networks",
@@ -9526,8 +9526,8 @@ const companiesData = [
       "Billing / OSS / BSS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zen-networks",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Zscaler, Inc.",
@@ -9547,8 +9547,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zscaler-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "A4LAB",
@@ -9564,8 +9564,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/a4lab",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Digital Aviation Solutions LLP",
@@ -9577,8 +9577,8 @@ const companiesData = [
       "Unmanned Aerial Vehicles (Drones)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-aviation-solutions-llp",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Fizix",
@@ -9588,8 +9588,8 @@ const companiesData = [
     "description": "Fizix develops end-to-end AI-powered IoT and software solutions for predictive maintenance and machine health monitoring. Our flagship product, OPRO, combines multi-sensor data—vibration, temperature, and magnetic field—with a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fizix",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Gems Essence Infotech Pvt. Ltd.",
@@ -9610,8 +9610,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gems-essence-infotech-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Giniminds Solutions Private Limited",
@@ -9632,8 +9632,8 @@ const companiesData = [
       "Neural Networks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/giniminds-solutions-private-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "GLOBALKOREA Co,. Ltd.",
@@ -9647,8 +9647,8 @@ const companiesData = [
       "Leisure, Health & Lifestyle Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globalkorea-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Hengtong Optic-Electric Co., Ltd",
@@ -9669,8 +9669,8 @@ const companiesData = [
       "Power Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hengtong-optic-electric-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "KingType",
@@ -9687,8 +9687,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kingtype",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Micropolis Robotics",
@@ -9709,8 +9709,8 @@ const companiesData = [
       "Mobility & Urbanization - Autonomous Transportation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/micropolis-robotics",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 50.0
   },
   {
     "name": "Philips Audio & Accessories",
@@ -9728,8 +9728,8 @@ const companiesData = [
       "Accessories - Batteries"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/philips-audio--accessories",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "PROSE Technologies GmbH",
@@ -9749,8 +9749,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/prose-technologies-gmbh",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Sejel Technology",
@@ -9766,8 +9766,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sejel-technology",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "StarLink - IBM",
@@ -9784,8 +9784,8 @@ const companiesData = [
       "Data & Analytics - Audience Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---ibm",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Tafsol Information Technology LLC",
@@ -9806,8 +9806,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tafsol-information-technology-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Virtual Xcellence Canada Inc",
@@ -9828,8 +9828,8 @@ const companiesData = [
       "Operating Systems Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/virtual-xcellence-canada-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Weofly",
@@ -9844,8 +9844,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/weofly",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Zhongguancun Smart City Co.,Ltd.",
@@ -9863,8 +9863,8 @@ const companiesData = [
       "Autonomous Mobile Robots (AMRs)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhongguancun-smart-city-coltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "ALADDIN LLC",
@@ -9883,8 +9883,8 @@ const companiesData = [
       "E-commerce & M-commerce - E-Commerce Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aladdin-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Aroot Co., Ltd",
@@ -9905,8 +9905,8 @@ const companiesData = [
       "Design & Product Development - Engineering and part design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aroot-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Avinika Solution Pvt. Ltd",
@@ -9927,8 +9927,8 @@ const companiesData = [
       "Influencer Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avinika-solution-pvt-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "China Zhenhua",
@@ -9945,8 +9945,8 @@ const companiesData = [
       "Switches"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/china-zhenhua",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Concept To Completion Ltd",
@@ -9967,8 +9967,8 @@ const companiesData = [
       "Radio Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/concept-to-completion-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "CZUR TECH CO., LTD",
@@ -9985,8 +9985,8 @@ const companiesData = [
       "Digital Imaging Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/czur-tech-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "G2 WIRELESS LIMITED INC",
@@ -10007,8 +10007,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/g2-wireless-limited-inc",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "GIGANET NETWORKING SOLUTIONS UK LIMITED",
@@ -10029,8 +10029,8 @@ const companiesData = [
       "Fire Prevention"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/giganet-networking-solutions-uk-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HD&P",
@@ -10050,8 +10050,8 @@ const companiesData = [
       "Bridges"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hdp",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 1,
+    "relevance_score": 0.0
   },
   {
     "name": "Iranian Confederation of Knowledge Based Associations (ICKA)",
@@ -10072,8 +10072,8 @@ const companiesData = [
       "Enterprise Software Application"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iranian-confederation-of-knowledge-based-associations-icka",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "ITALON",
@@ -10094,8 +10094,8 @@ const companiesData = [
       "Batteries - Components & Materials for Batteries"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/italon",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Karios",
@@ -10116,8 +10116,8 @@ const companiesData = [
       "Cooling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/karios",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Kivo.ai",
@@ -10127,8 +10127,8 @@ const companiesData = [
     "description": "Kivo.ai is an AI first automation platform that empowers healthcare and biotech organizations to operate smarter and faster. Our agentic AI solutions streamline complex processes such as patient onboarding, claims management, unde ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kivoai",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Lemon Yellow LLP",
@@ -10149,8 +10149,8 @@ const companiesData = [
       "Customer Relationship & Experience Management - CRM & CEM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lemon-yellow-llp",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "MDS Arabia FZ-LLC",
@@ -10171,8 +10171,8 @@ const companiesData = [
       "Digital Signage - Maintenance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mds-arabia-fz-llc",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "NEVITECH",
@@ -10193,8 +10193,8 @@ const companiesData = [
       "Content Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nevitech",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Orient Tech Limited",
@@ -10209,8 +10209,8 @@ const companiesData = [
       "Power Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/orient-tech-limited",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 1,
+    "relevance_score": 0.0
   },
   {
     "name": "Ruptela",
@@ -10230,8 +10230,8 @@ const companiesData = [
       "Mobility & Transport"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ruptela",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Shenzhen JinJiuTianshi Industry Co. Ltd.",
@@ -10245,8 +10245,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-jinjiutianshi-industry-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shenzhen Xiaodi Network Technology Co., LTD",
@@ -10267,8 +10267,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-xiaodi-network-technology-co-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "StarLink - FireMon",
@@ -10287,8 +10287,8 @@ const companiesData = [
       "Solutions for component processing - Heat treatment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---firemon",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "TEST-UPGRADED-SHELL",
@@ -10307,8 +10307,8 @@ const companiesData = [
       "Design & Product Development - Simulation & Simulators"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/test-upgraded-shell",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Union Computer Supplies Ltd.",
@@ -10329,8 +10329,8 @@ const companiesData = [
       "Digitization / services / tool and die making - Data and IT security, protection of intellectual property"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/union-computer-supplies-ltd",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "XDS DATACENTRES",
@@ -10351,8 +10351,8 @@ const companiesData = [
       "Power Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xds-datacentres",
-    "relevance_stars": 2,
-    "relevance_score": 3.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": ".lumen",
@@ -10370,8 +10370,8 @@ const companiesData = [
       "Leisure, Health & Lifestyle Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lumen",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "AOZ",
@@ -10385,8 +10385,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aoz",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "BI MATRIX. Co., Ltd",
@@ -10407,8 +10407,8 @@ const companiesData = [
       "Dashboard"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bi-matrix-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "China Electronics Shenzhen Company - CN",
@@ -10429,8 +10429,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/china-electronics-shenzhen-company---cn",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Concept Wholesale LLC",
@@ -10443,8 +10443,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/concept-wholesale-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Elanda",
@@ -10461,8 +10461,8 @@ const companiesData = [
       "Digital Signage - Digital Signage Kiosks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/elanda",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Extron",
@@ -10483,8 +10483,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/extron",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Foxit Europe GmbH",
@@ -10505,8 +10505,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/foxit-europe-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Frameo",
@@ -10526,8 +10526,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/frameo",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "GRT",
@@ -10548,8 +10548,8 @@ const companiesData = [
       "Server - Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/grt",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Hamriyah Free Zone Authority",
@@ -10568,8 +10568,8 @@ const companiesData = [
       "Supply Chain Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hamriyah-free-zone-authority",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "inno LLC",
@@ -10590,8 +10590,8 @@ const companiesData = [
       "Customer Experience & Retention - AI & Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inno-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "INTEC E&C CO., LTD.",
@@ -10610,8 +10610,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intec-ec-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Maxus Coral FZCO",
@@ -10632,8 +10632,8 @@ const companiesData = [
       "Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maxus-coral-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Mobiltech Co., Ltd.",
@@ -10654,8 +10654,8 @@ const companiesData = [
       "Facilities Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobiltech-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Mowsil",
@@ -10676,8 +10676,8 @@ const companiesData = [
       "Accessories - Data Cables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mowsil",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "OFFTEC Jordan",
@@ -10698,8 +10698,8 @@ const companiesData = [
       "Identity / Trust / Authentication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/offtec-jordan",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "PosiFlow Retail Private Limited",
@@ -10720,8 +10720,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/posiflow-retail-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "PRINTRONIX LLC",
@@ -10736,8 +10736,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/printronix-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Rolla Holdco Limited",
@@ -10755,8 +10755,8 @@ const companiesData = [
       "Leisure, Health & Lifestyle Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rolla-holdco-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "SERVICES EXPORTERS' ASSOCIATION - HİB",
@@ -10766,8 +10766,8 @@ const companiesData = [
     "description": "The General Secretariat of the “Service Exporters’ Association” was established with its headquarters in Istanbul, with the Ministry of Commerce’s Communiqué on Exports No. 2018/3 published in the Official Gazette dated 1 ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/services-exporters-association---hb",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Shenzhen Edup Electronics Technology Co., Ltd.",
@@ -10788,8 +10788,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-edup-electronics-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Shenzhen Long Island Forever Technology Co., Ltd.",
@@ -10802,8 +10802,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-long-island-forever-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "SHIN HEUNG PRECISION CO.,LTD/SAM4S",
@@ -10817,8 +10817,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shin-heung-precision-coltdsam4s",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "TP-Link MEA FZE",
@@ -10834,8 +10834,8 @@ const companiesData = [
       "Smart Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tp-link-mea-fze",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "TRENDSTRADING INTERNATIONAL CO.,LIMITED",
@@ -10856,8 +10856,8 @@ const companiesData = [
       "Console Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trendstrading-international-colimited",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "United Arab Bank",
@@ -10869,8 +10869,8 @@ const companiesData = [
       "Fintech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/united-arab-bank",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Universal Telecom FZCO",
@@ -10883,8 +10883,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/universal-telecom-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Visualsyn",
@@ -10905,8 +10905,8 @@ const companiesData = [
       "Tenant Experience"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/visualsyn",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "ZhenShi Information Technology (Shenzhen) Co., Ltd.",
@@ -10926,8 +10926,8 @@ const companiesData = [
       "Wearables - Wearables electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhenshi-information-technology-shenzhen-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.8
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "AAYAT TELECOM FZCO",
@@ -10948,8 +10948,8 @@ const companiesData = [
       "Mobile & Online games"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aayat-telecom-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Abacus Consulting Technology Limited",
@@ -10969,8 +10969,8 @@ const companiesData = [
       "Digitization / services / tool and die making - Data and IT security, protection of intellectual property"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/abacus-consulting-technology-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "ABSYZ SOFTWARE CONSULTING DMCC",
@@ -10991,8 +10991,8 @@ const companiesData = [
       "Robotic Process Automation - RPA"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/absyz-software-consulting-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "ADDITESS ADVANCED INTERGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
@@ -11013,8 +11013,8 @@ const companiesData = [
       "Design & Product Development - Intellectual property protection for technologies and software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/additess-advanced-intergrated-technology-solutions--services-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Adria Business & Technology",
@@ -11035,8 +11035,8 @@ const companiesData = [
       "Open Banking / API"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/adria-business--technology",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Aegasis Labs",
@@ -11057,8 +11057,8 @@ const companiesData = [
       "DevOps"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aegasis-labs",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 84.0
   },
   {
     "name": "AgentSense",
@@ -11079,8 +11079,8 @@ const companiesData = [
       "Merchandise Planning & Inventory Management - Inventory Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agentsense",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "alongID",
@@ -11101,8 +11101,8 @@ const companiesData = [
       "Payments / Wallets / Exchange Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alongid",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Angel Cellular LLC",
@@ -11123,8 +11123,8 @@ const companiesData = [
       "Devices -Digital Audio Player"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/angel-cellular-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Apryse Software BVBA",
@@ -11143,8 +11143,8 @@ const companiesData = [
       "Document Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/apryse-software-bvba",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "ARIS",
@@ -11165,8 +11165,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aris",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "ARpedia / Woongjin Thinkbig Co., Ltd.",
@@ -11187,8 +11187,8 @@ const companiesData = [
       "Collaborative learning and technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arpedia--woongjin-thinkbig-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "ASBIS Middle East",
@@ -11203,8 +11203,8 @@ const companiesData = [
       "Data Management Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asbis-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "ASC Technologies AG",
@@ -11225,8 +11225,8 @@ const companiesData = [
       "Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asc-technologies-ag",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 68.0
   },
   {
     "name": "AVEPOINT GULF DMCC",
@@ -11247,8 +11247,8 @@ const companiesData = [
       "Applied Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avepoint-gulf-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Axiros GmbH",
@@ -11267,8 +11267,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/axiros-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Baker Tilly",
@@ -11289,8 +11289,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/baker-tilly",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Beijing Keen Technology Co.,Ltd.",
@@ -11311,8 +11311,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-keen-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Beijing Rossum Robot Technology Co., Ltd.",
@@ -11325,8 +11325,8 @@ const companiesData = [
       "Robotics and AI in Healthcare"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-rossum-robot-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Bigap FZCO",
@@ -11347,8 +11347,8 @@ const companiesData = [
       "Accessories - Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bigap-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "BLUEVISOR SYSTEMS",
@@ -11365,8 +11365,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bluevisor-systems",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Booster Robotics Technology Co., Ltd.",
@@ -11382,8 +11382,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/booster-robotics-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "BTC SECU CO., LTD.",
@@ -11401,8 +11401,8 @@ const companiesData = [
       "Digital Signage - In-store Advertising"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/btc-secu-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Bulwark Technologies L.L.C.",
@@ -11423,8 +11423,8 @@ const companiesData = [
       "Robotic Process Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bulwark-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "CAC - YESAUTOMATE",
@@ -11445,8 +11445,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cac---yesautomate",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "CE LINK LIMITED",
@@ -11463,7 +11463,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ce-link-limited",
     "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_score": 0.0
   },
   {
     "name": "CET Electric Technology Inc.",
@@ -11484,8 +11484,8 @@ const companiesData = [
       "Facilities Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cet-electric-technology-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Cloud4C Services FZ LLC",
@@ -11495,8 +11495,8 @@ const companiesData = [
     "description": "Cloud4C is a global leader in AI-powered, hyper automation-driven, application-centric managed services and cloud infra, delivering Sovereign & Secure Industry Hybrid Cloud across 29 countries. Headquartered in Singapore, we serve ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloud4c-services-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "CommerceCX",
@@ -11513,8 +11513,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/commercecx",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "CONNECTEVE Co., Ltd",
@@ -11531,8 +11531,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/connecteve-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Contact Advisory Services",
@@ -11553,8 +11553,8 @@ const companiesData = [
       "Decentralised Finance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/contact-advisory-services",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Cooltec sp. z o.o.",
@@ -11575,8 +11575,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cooltec-sp-z-oo",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Core42",
@@ -11591,8 +11591,8 @@ const companiesData = [
       "Autonomous Vehicles / Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/core42",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Crossware",
@@ -11613,8 +11613,8 @@ const companiesData = [
       "Marketing Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/crossware",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "CyMax Technologies",
@@ -11635,8 +11635,8 @@ const companiesData = [
       "CRM (Customer Relationship Management) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cymax-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Data Bridge",
@@ -11657,8 +11657,8 @@ const companiesData = [
       "Speech Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/data-bridge",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "Databorn FZ LLC",
@@ -11679,8 +11679,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/databorn-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "DataFort Limited",
@@ -11701,8 +11701,8 @@ const companiesData = [
       "Enterprise Resource Planning Systems - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datafort-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Deep Touch",
@@ -11723,8 +11723,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deep-touch",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Dell Technologies",
@@ -11745,8 +11745,8 @@ const companiesData = [
       "Data Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dell-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Demand AI Group",
@@ -11763,8 +11763,8 @@ const companiesData = [
       "Digital Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/demand-ai-group",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Doctis",
@@ -11782,8 +11782,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/doctis",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Dronamics",
@@ -11795,8 +11795,8 @@ const companiesData = [
       "Unmanned Aerial Vehicles (Drones)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dronamics",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Dubai Taxi Company",
@@ -11817,8 +11817,8 @@ const companiesData = [
       "Autonomous Vehicles / Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-taxi-company",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Eastside Electronics FZCO",
@@ -11839,8 +11839,8 @@ const companiesData = [
       "Devices -Portable Media Players"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eastside-electronics-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Emirates Transport",
@@ -11861,8 +11861,8 @@ const companiesData = [
       "Transportation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-transport",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "ENGINEAI",
@@ -11875,8 +11875,8 @@ const companiesData = [
       "Humanoids & Humanoid Robots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/engineai",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Extreme Networks EMEA",
@@ -11897,8 +11897,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/extreme-networks-emea",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "General Women's Union",
@@ -11911,8 +11911,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-womens-union",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Goaco",
@@ -11933,8 +11933,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/goaco",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Guangzhou Winson Information Technology Co., Ltd.",
@@ -11955,8 +11955,8 @@ const companiesData = [
       "Customer Experience & Retention -Robotics & Humanoids"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-winson-information-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "HGS",
@@ -11977,8 +11977,8 @@ const companiesData = [
       "Healthcare Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hgs",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "High Tech Park Kyrgyzstan",
@@ -11999,8 +11999,8 @@ const companiesData = [
       "CRM (Customer Relationship Management) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/high-tech-park-kyrgyzstan",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Highly Professional Technology Services",
@@ -12021,8 +12021,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/highly-professional-technology-services",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "HTStyle Technology co.,Ltd.",
@@ -12035,8 +12035,8 @@ const companiesData = [
       "Autonomous Mobile Robots (AMRs)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/htstyle-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Humancloud - Your AI Transformation Partner",
@@ -12057,8 +12057,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/humancloud---your-ai-transformation-partner",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "i-TEK RFID",
@@ -12079,8 +12079,8 @@ const companiesData = [
       "Data & Analytics - Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/i-tek-rfid",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "IDOL TECHNOLOGIES LLC",
@@ -12101,8 +12101,8 @@ const companiesData = [
       "Digital Signage - Integrator"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/idol-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "IMACHINE",
@@ -12123,8 +12123,8 @@ const companiesData = [
       "Payments - Smart Cards & Readers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imachine",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "IN516HT d.o.o.",
@@ -12145,8 +12145,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/in516ht-doo",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "INTBRAINS PVT LTD",
@@ -12167,8 +12167,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intbrains-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Iris AI AS",
@@ -12189,8 +12189,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iris-ai-as",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "Kafein Yazilim Hizmetleri Ticaret Anonim Sirketi",
@@ -12211,8 +12211,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kafein-yazilim-hizmetleri-ticaret-anonim-sirketi",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "KINGSOFT OFFICE",
@@ -12233,8 +12233,8 @@ const companiesData = [
       "Natural Language Generation (NLG)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kingsoft-office",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Klugsys UG",
@@ -12255,8 +12255,8 @@ const companiesData = [
       "Lending & Mortgage Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/klugsys-ug",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "KVCHK",
@@ -12273,8 +12273,8 @@ const companiesData = [
       "Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kvchk",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "LANDE ENDÜSTRİYEL METAL ÜRÜNLER SANAYİ VE TİCARET ANONİM ŞİRKETİ",
@@ -12295,8 +12295,8 @@ const companiesData = [
       "Cabinets and Enclosures"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lande-endstryel-metal-rnler-sanay-ve-tcaret-anonm-rket",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "LightMetrics Inc",
@@ -12311,8 +12311,8 @@ const companiesData = [
       "ADAS or Advanced Driver Assistance Systems Camera System"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lightmetrics-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Link Development",
@@ -12333,8 +12333,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/link-development",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Lokdhun telemedia private limited",
@@ -12355,8 +12355,8 @@ const companiesData = [
       "Devices -Digital Audio Player"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lokdhun-telemedia-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Longfly Tech. (Guangdong) Co., Ltd.",
@@ -12372,8 +12372,8 @@ const companiesData = [
       "Merchandise Planning & Inventory Management - Smart Labels"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/longfly-tech-guangdong-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "MAGNETO IT SOLUTIONS",
@@ -12394,8 +12394,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/magneto-it-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Mangobot",
@@ -12411,8 +12411,8 @@ const companiesData = [
       "Robotic Process Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mangobot",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Mantis",
@@ -12428,8 +12428,8 @@ const companiesData = [
       "Fleet & Logistics Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mantis",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Matrix42",
@@ -12446,8 +12446,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/matrix42",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "MCDODO",
@@ -12467,8 +12467,8 @@ const companiesData = [
       "USB Gadgets - USB chargers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mcdodo",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MDS",
@@ -12489,8 +12489,8 @@ const companiesData = [
       "Telecommunication Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mds",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Mind & Matter Marketing Solutions Pvt. Ltd.",
@@ -12511,8 +12511,8 @@ const companiesData = [
       "Employee Management - E-Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mind--matter-marketing-solutions-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Ministry Of Justice",
@@ -12532,8 +12532,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-justice",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Mitsogo Technologies LLC",
@@ -12554,8 +12554,8 @@ const companiesData = [
       "Data Management Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mitsogo-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "MOCOLL",
@@ -12576,8 +12576,8 @@ const companiesData = [
       "Accessories - Cases & Covers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mocoll",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MOEBIUS LIMITED",
@@ -12596,8 +12596,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moebius-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "MONITORAPP",
@@ -12617,8 +12617,8 @@ const companiesData = [
       "Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/monitorapp",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Moscow Export Center",
@@ -12634,8 +12634,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moscow-export-center",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Naseej For Technology",
@@ -12656,8 +12656,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/naseej-for-technology",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "NDS Solutions Co., Ltd",
@@ -12674,8 +12674,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nds-solutions-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "NEUROPHET, Inc.",
@@ -12694,8 +12694,8 @@ const companiesData = [
       "Diagnostic Software and Medical Imaging"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neurophet-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Nextbridge FZE",
@@ -12716,8 +12716,8 @@ const companiesData = [
       "Robotic Process Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nextbridge-fze",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "NowGo International Co.,Ltd.",
@@ -12731,8 +12731,8 @@ const companiesData = [
       "Accessories - Headphones / earphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nowgo-international-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "NSYS Group",
@@ -12753,8 +12753,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nsys-group",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "Picterus",
@@ -12773,8 +12773,8 @@ const companiesData = [
       "Clinical Decision Support Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/picterus",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Piemonte Agency for Investment and Export",
@@ -12795,8 +12795,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/piemonte-agency-for-investment-and-export",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "PLATMA",
@@ -12817,8 +12817,8 @@ const companiesData = [
       "Enterprise Software / Operating Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/platma",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "PMD",
@@ -12837,8 +12837,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pmd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "PointofIT (Pvt) Ltd",
@@ -12859,8 +12859,8 @@ const companiesData = [
       "Insurance and Cost Assistance Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pointofit-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "PoS Tektronics Limited",
@@ -12877,8 +12877,8 @@ const companiesData = [
       "Digital Signage - Digital Signage Kiosks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pos-tektronics-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "QNR GROUP-QUALITY & RELIABILITY",
@@ -12899,8 +12899,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qnr-group-quality--reliability",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "QODEQUAY TECHNOLOGIES PRIVATE LIMITED",
@@ -12921,8 +12921,8 @@ const companiesData = [
       "Sporting Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qodequay-technologies-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Quantum Networks",
@@ -12943,8 +12943,8 @@ const companiesData = [
       "Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quantum-networks",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Reblade ApS",
@@ -12961,8 +12961,8 @@ const companiesData = [
       "Environmental Solutions - Wind"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/reblade-aps",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Redian Software Pvt Ltd",
@@ -12983,8 +12983,8 @@ const companiesData = [
       "Payments / Wallets / Exchange Gateways"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redian-software-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "RMG",
@@ -13005,8 +13005,8 @@ const companiesData = [
       "Marketing Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rmg",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "RMG Co., Ltd.",
@@ -13027,8 +13027,8 @@ const companiesData = [
       "Customer Relationship & Experience Management - CRM & CEM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rmg-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Rules Cube Inc.",
@@ -13049,8 +13049,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rules-cube-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "SelectZero",
@@ -13071,8 +13071,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/selectzero",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Shenzhen Usmart Power Technology Co., Ltd",
@@ -13090,7 +13090,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-usmart-power-technology-co-ltd",
     "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_score": 0.0
   },
   {
     "name": "Shenzhen Yale Electronics Co., Ltd. （AWEI）",
@@ -13110,8 +13110,8 @@ const companiesData = [
       "Wearables - Smart watches"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-yale-electronics-co-ltd-awei",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Shifra FZ LLC",
@@ -13132,8 +13132,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shifra-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Shree Mangalam Communication Pvt Ltd",
@@ -13153,8 +13153,8 @@ const companiesData = [
       "Accessories - Bluetooth speakers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shree-mangalam-communication-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Siha Health and Wellness (Pvt) Limited",
@@ -13175,8 +13175,8 @@ const companiesData = [
       "Healthcare Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/siha-health-and-wellness-pvt-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "SimpliTrain",
@@ -13197,8 +13197,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/simplitrain",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "solutions by stc",
@@ -13216,8 +13216,8 @@ const companiesData = [
       "Applied Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/solutions-by-stc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Starlink - Akamai",
@@ -13234,8 +13234,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---akamai",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Stellarvision Inc.",
@@ -13254,8 +13254,8 @@ const companiesData = [
       "Geospatial Solutions & Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/stellarvision-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "Sunfox Technologies Private Limited",
@@ -13274,8 +13274,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sunfox-technologies-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Sycope S.A",
@@ -13293,8 +13293,8 @@ const companiesData = [
       "Data Analytics & Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sycope-sa",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "TEB Holdings Ltd.",
@@ -13315,8 +13315,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teb-holdings-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "The Digital School",
@@ -13337,8 +13337,8 @@ const companiesData = [
       "STEAM Education & Robotics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-digital-school",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "The Сommmittee for Industrial Policy, Innovations and Trade of Saint Petersburg",
@@ -13358,8 +13358,8 @@ const companiesData = [
       "Smart Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-ommmittee-for-industrial-policy-innovations-and-trade-of-saint-petersburg",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ti5robot Technology Co., Ltd.",
@@ -13374,8 +13374,8 @@ const companiesData = [
       "Humanoids & Humanoid Robots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ti5robot-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "TrustPass",
@@ -13396,8 +13396,8 @@ const companiesData = [
       "E-KYC"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trustpass",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "TWIXOR",
@@ -13418,8 +13418,8 @@ const companiesData = [
       "Robotic Process Automation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/twixor",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Ubon",
@@ -13440,8 +13440,8 @@ const companiesData = [
       "Accessories - Car Accessories"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ubon",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Uneecops TechMatrix",
@@ -13462,8 +13462,8 @@ const companiesData = [
       "Value Added Distributor - VAD or Value Added Reseller - VAR"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uneecops-techmatrix",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "UXE",
@@ -13473,8 +13473,8 @@ const companiesData = [
     "description": "UXE is a pioneering smart city solutions provider based in the UAE, dedicated to shaping the future of global safety through innovation. With a portfolio spanning intelligent surveillance, IoT devices, smart access systems, and ad ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uxe",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Vahedna Middle East FZE",
@@ -13495,8 +13495,8 @@ const companiesData = [
       "Accessories - Bluetooth speakers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vahedna-middle-east-fze",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "VAST DATA",
@@ -13515,8 +13515,8 @@ const companiesData = [
       "Cognitive computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vast-data",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Velter LLC",
@@ -13537,8 +13537,8 @@ const companiesData = [
       "Intrusion Detection & Penetration Testing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/velter-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "VEN-DENS ACCESSORIES LTD",
@@ -13559,8 +13559,8 @@ const companiesData = [
       "Devices -Portable Media Players"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ven-dens-accessories-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "VISMAC",
@@ -13580,8 +13580,8 @@ const companiesData = [
       "Accessories - AUX cables / OTG Cable"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vismac",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "VOLTME",
@@ -13598,8 +13598,8 @@ const companiesData = [
       "Accessories - Batteries"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/voltme",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "VSORA",
@@ -13615,8 +13615,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vsora",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "WASK",
@@ -13634,8 +13634,8 @@ const companiesData = [
       "AdTech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wask",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "WAYS1 Inc.",
@@ -13652,8 +13652,8 @@ const companiesData = [
       "Autonomous Vehicles / Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ways1-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Wirelux Cables",
@@ -13674,8 +13674,8 @@ const companiesData = [
       "Fire Prevention"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wirelux-cables",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "X Red Group LLC",
@@ -13696,8 +13696,8 @@ const companiesData = [
       "Gaming Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/x-red-group-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "X TEL TRADING L.L.C",
@@ -13718,8 +13718,8 @@ const companiesData = [
       "Accessories - Memory cards"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/x-tel-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "XFactorAi Inc",
@@ -13740,8 +13740,8 @@ const companiesData = [
       "Personalization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xfactorai-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "YASH Technologies Middle East FZ LLC.",
@@ -13762,8 +13762,8 @@ const companiesData = [
       "Cobots"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yash-technologies-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "ZedPay Mobile Money",
@@ -13784,8 +13784,8 @@ const companiesData = [
       "Card Service Card"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zedpay-mobile-money",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "ZTS Infotech",
@@ -13806,8 +13806,8 @@ const companiesData = [
       "UX & UI"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zts-infotech",
-    "relevance_stars": 1,
-    "relevance_score": 2.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "AGM MOBLIE",
@@ -13826,8 +13826,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agm-moblie",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "BBI Information and Communication Technology LLC",
@@ -13848,8 +13848,8 @@ const companiesData = [
       "Structured Query Language - SQL"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bbi-information-and-communication-technology-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Chengdu ZengHong Sci-Tech Co., Ltd.",
@@ -13870,8 +13870,8 @@ const companiesData = [
       "Digital Signage - Media Players"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chengdu-zenghong-sci-tech-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Dongguan Tcang Electronics Co., Ltd.",
@@ -13886,8 +13886,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dongguan-tcang-electronics-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "DOOGEE",
@@ -13904,8 +13904,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/doogee",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "E-Z INK INC.",
@@ -13919,8 +13919,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/e-z-ink-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "GenMachine",
@@ -13935,8 +13935,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/genmachine",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "GUOSEN",
@@ -13953,8 +13953,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guosen",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "KATANA POLAND",
@@ -13975,8 +13975,8 @@ const companiesData = [
       "Production"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/katana-poland",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "NINGBO ALLINE ELECTRONIC TECHNOLOGY CO., LTD",
@@ -13993,8 +13993,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-alline-electronic-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Posiflex Technology, Inc.",
@@ -14011,8 +14011,8 @@ const companiesData = [
       "Digital Signage - Digital Signage Kiosks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/posiflex-technology-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Shanghai Sixunited Intelligent Technology Co., Ltd.",
@@ -14030,8 +14030,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shanghai-sixunited-intelligent-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Shenzhen Colmi Technology Co., Ltd.",
@@ -14052,8 +14052,8 @@ const companiesData = [
       "3D/ AR / VR"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-colmi-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Shenzhen Luckystar Technology Co., Ltd.",
@@ -14070,8 +14070,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-luckystar-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Unitek International Group Limited",
@@ -14092,8 +14092,8 @@ const companiesData = [
       "Accessories - Chargers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unitek-international-group-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Wanfo (Shenzhen) Intelligent Technology Co.,Ltd",
@@ -14106,8 +14106,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wanfo-shenzhen-intelligent-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Xiamen Maken Tech Co., Ltd.",
@@ -14121,8 +14121,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xiamen-maken-tech-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "ZheJiang Zhengdao Technologies Co.,Ltd",
@@ -14140,8 +14140,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-zhengdao-technologies-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "5sensAR",
@@ -14162,8 +14162,8 @@ const companiesData = [
       "Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/5sensar",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "AiM Future, Inc.",
@@ -14182,8 +14182,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aim-future-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Arinlabs Yapay Zekâ Teknolojileri A.Ş.",
@@ -14203,8 +14203,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arinlabs-yapay-zek-teknolojileri-a",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Asya",
@@ -14221,8 +14221,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asya",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "BlackStone AI",
@@ -14243,8 +14243,8 @@ const companiesData = [
       "Cognitive computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blackstone-ai",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "CarMonitor",
@@ -14254,8 +14254,8 @@ const companiesData = [
     "description": "CarMonitor is a fleet management and sustainability platform that transforms raw telematics data into actionable insights. We automate CO? emissions calculation, driver behavior analytics, predictive maintenance, and EV transition ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/carmonitor",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Cerebrocure Technologies Pvt Ltd",
@@ -14274,8 +14274,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cerebrocure-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Cudy International Limited",
@@ -14285,8 +14285,8 @@ const companiesData = [
     "description": "Founded in 2018 and headquartered in Shenzhen, Cudy is a highly competitive tech-driven company in the R&D and manufacturing of wireless and networking products. Our product portfolio includes Wi-Fi routers, mesh systems, 4G/5G ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cudy-international-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "CybExer",
@@ -14296,8 +14296,8 @@ const companiesData = [
     "description": "CybExer is the leading European Cyber Range provider with a focus on AI warfare and advanced digital twin environments. Trusted by NATO, the British Army, the Army of Ukraine, Fortune 500 companies, and leading banks, CybExer oper ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cybexer",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DARKWEB CYBER SECURITY SOLUTIONS",
@@ -14318,8 +14318,8 @@ const companiesData = [
       "Cryptocurrency/ ICOs/ STOs / Tokens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/darkweb-cyber-security-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Dubai Judical Inspection Authority",
@@ -14340,8 +14340,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-judical-inspection-authority",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Emaratech",
@@ -14351,8 +14351,8 @@ const companiesData = [
     "description": "part of the Investment Corporation of Dubai the principal investment arm of the government of Dubai.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emaratech",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Emirates Real Estate Solutions (ERES)",
@@ -14370,8 +14370,8 @@ const companiesData = [
       "Tenant Experience"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-real-estate-solutions-eres",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Emirati Talent Competitiveness Council",
@@ -14392,8 +14392,8 @@ const companiesData = [
       "Data Integration"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirati-talent-competitiveness-council",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "ETH Zurich - Computer Graphics Laboratory",
@@ -14414,8 +14414,8 @@ const companiesData = [
       "Neural Networks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eth-zurich---computer-graphics-laboratory",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ETH Zurich - Game Technology Center",
@@ -14436,8 +14436,8 @@ const companiesData = [
       "Web3 Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eth-zurich---game-technology-center",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "HCLSoftware",
@@ -14458,8 +14458,8 @@ const companiesData = [
       "Natural Language Generation (NLG)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hclsoftware",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Help AG, an e& enterprise company",
@@ -14469,8 +14469,8 @@ const companiesData = [
     "description": "Help AG is the cybersecurity arm of e& enterprise (formerly Etisalat Digital), providing governments and leading enterprises across the Middle East with strategic consulting and tailored cybersecurity solutions. Since 2004, Help A ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/help-ag-an-e-enterprise-company",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hygea Medical Technology Co., Ltd.",
@@ -14483,8 +14483,8 @@ const companiesData = [
       "Apprenticeship, Training and Qualification"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hygea-medical-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "IDAWELL Co., Ltd.",
@@ -14499,8 +14499,8 @@ const companiesData = [
       "Data Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/idawell-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "IDC Solutions",
@@ -14518,8 +14518,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/idc-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "InBic Inc.",
@@ -14535,8 +14535,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inbic-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "INDEVCO Group",
@@ -14547,7 +14547,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/indevco-group",
     "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_score": 0.0
   },
   {
     "name": "Intellinum",
@@ -14568,8 +14568,8 @@ const companiesData = [
       "Data Sciences"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intellinum",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "INVIZ Co., Ltd",
@@ -14590,8 +14590,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inviz-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "ITROAD Group",
@@ -14612,8 +14612,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itroad-group",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "JAIES Ministry of Digital Economy and Entrepreneurship (MODEE)",
@@ -14633,8 +14633,8 @@ const companiesData = [
       "Virtual Companions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jaies--ministry-of-digital-economy-and-entrepreneurship-modee",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Knowledge Developers Company",
@@ -14655,8 +14655,8 @@ const companiesData = [
       "Enterprise Software Application"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/knowledge-developers-company",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "KOMTAS",
@@ -14677,8 +14677,8 @@ const companiesData = [
       "Data Sciences"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/komtas",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Kreate Technologies Private Limited",
@@ -14699,8 +14699,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kreate-technologies-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Mamibot Manufacturing USA Inc",
@@ -14711,7 +14711,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mamibot-manufacturing-usa-inc",
     "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_score": 0.0
   },
   {
     "name": "Master Works",
@@ -14732,8 +14732,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/master-works",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "MIKROE",
@@ -14743,8 +14743,8 @@ const companiesData = [
     "description": "MIKROE is committed to changing the embedded electronics industry through the use of time-saving industry-standard hardware and software solutions. With unique concepts like Remote Access, One New Product/Day, Multi-Architectural ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mikroe",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Ministry of High-Tech Industry of the Republic of Armenia",
@@ -14755,7 +14755,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-high-tech-industry-of-the-republic-of-armenia",
     "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_score": 0.0
   },
   {
     "name": "MitrahSoft Solutions Pvt. Ltd.",
@@ -14776,8 +14776,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mitrahsoft-solutions-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MULTIVERSE COMPUTING SL",
@@ -14796,8 +14796,8 @@ const companiesData = [
       "Virtual Companions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/multiverse-computing-sl",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Narine",
@@ -14808,7 +14808,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/narine",
     "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_score": 0.0
   },
   {
     "name": "Netways",
@@ -14829,8 +14829,8 @@ const companiesData = [
       "Java"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netways",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Netways",
@@ -14851,8 +14851,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netways",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "NeuroVision",
@@ -14871,8 +14871,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neurovision",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NTH International Joint-Stock Company",
@@ -14888,8 +14888,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nth-international-joint-stock-company",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "OCR Studio",
@@ -14907,8 +14907,8 @@ const companiesData = [
       "Digital Forensics & Incident Response"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ocr-studio",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Quadro Consulting",
@@ -14929,8 +14929,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quadro-consulting",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Quantox Technology",
@@ -14951,8 +14951,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quantox-technology",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Shenzhen Gowin Industrial Control System Co.,Ltd",
@@ -14962,8 +14962,8 @@ const companiesData = [
     "description": "We specialize in the R&D, manufacture and export of industrial PCs ,mini computers, HTPC, car PCs, Mini itx motherboard, embedded industrial motherboard, firewall motherboard, industrial control motherboard, industrial control mac ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-gowin-industrial-control-system-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Smart Engines",
@@ -14981,8 +14981,8 @@ const companiesData = [
       "Computer Vision"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smart-engines",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Fortra",
@@ -15001,8 +15001,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---fortra",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Studio Frontier",
@@ -15023,8 +15023,8 @@ const companiesData = [
       "Python"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/studio-frontier",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Sutra Management Consultancies",
@@ -15045,8 +15045,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sutra-management-consultancies",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Tata Electronics",
@@ -15056,8 +15056,8 @@ const companiesData = [
     "description": "At Tata Electronics, we aspire to be a key player in the global electronics manufacturing supply chain, offering innovative and differentiated solutions to customers worldwide through an emerging Indian semiconductor and electroni ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tata-electronics",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "TECHNOCIT SOFTWARE SOLUTIONS LLC",
@@ -15078,8 +15078,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/technocit-software-solutions-llc",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "TomTom",
@@ -15090,7 +15090,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tomtom",
     "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_score": 0.0
   },
   {
     "name": "Tycho Technologies Pvt Ltd",
@@ -15111,8 +15111,8 @@ const companiesData = [
       "Operating Systems Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tycho-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Vercel Inc",
@@ -15122,8 +15122,8 @@ const companiesData = [
     "description": "Vercel’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized web. Customers like Under Armour, Chico’s, The Washington Post, Johnson & Johnson, and Zapier ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vercel-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "WeDoInnov",
@@ -15144,8 +15144,8 @@ const companiesData = [
       "School Supplies & Educational Aid"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wedoinnov",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Z.ai",
@@ -15162,8 +15162,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zai",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Zehntech Technologies INC.",
@@ -15184,8 +15184,8 @@ const companiesData = [
       "Frontend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zehntech-technologies-inc",
-    "relevance_stars": 1,
-    "relevance_score": 2.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Acceleronix B.V.",
@@ -15200,8 +15200,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/acceleronix-bv",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "ARLAN BIOTECH, Inc.",
@@ -15211,8 +15211,8 @@ const companiesData = [
     "description": "ARLAN BIOTECH is a StartX company (summer 2024) transforming drug discovery with its own Generative AI-powered platform, designed to generate precise antibody sequences against user-selected protein targets. Leveraging our proprie ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arlan-biotech-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Bluebird Inc. and TSC Auto ID Technology Co. LTD",
@@ -15225,8 +15225,8 @@ const companiesData = [
       "Mobile Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bluebird-inc-and-tsc-auto-id-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Dahua Technology",
@@ -15247,8 +15247,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dahua-technology",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Eyerik Intelligent Processing",
@@ -15269,8 +15269,8 @@ const companiesData = [
       "Fraud Prevention & Loss - Analytics Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eyerik-intelligent-processing",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Fanvil Link Technology Co., Ltd.",
@@ -15286,8 +15286,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fanvil-link-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Neiry & Neurotech",
@@ -15297,8 +15297,8 @@ const companiesData = [
     "description": "Russian group of companies in the field of neurotechnology offering the widest range of medical, non-medical and other BCI products in the world, including biotech laboratory and leading developer of neurotechnological products fo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neiry--neurotech",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 2,
+    "relevance_score": 2.0
   },
   {
     "name": "Netstratum Technologies Limited",
@@ -15319,8 +15319,8 @@ const companiesData = [
       "Edge Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netstratum-technologies-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "Perfect Vision",
@@ -15330,8 +15330,8 @@ const companiesData = [
     "description": "Perfect Vision is a leading technology provider specializing in AI and IoT solutions engineered to revolutionize industrial safety and productivity. Our integrated platform transforms worksites into smart, connected environments, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/perfect-vision",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "RS Research",
@@ -15341,8 +15341,8 @@ const companiesData = [
     "description": "RS Research is a clinical-stage biotech advancing Sagitta®, a validated platform for targeted oncology and smart chemotherapy, supported by integrated GMP and EMA SME status. Lead asset RS-0139 has completed Phase 1a and is in Ph ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rs-research",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Scientificcoin LLC",
@@ -15352,8 +15352,8 @@ const companiesData = [
     "description": "We have a wide expertise in various medical fields as well as biotechnology, nanotechnology, chemistry, physics, mathematics & data science. The company is part of three organizations working in the field of science, located acros ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scientificcoin-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 2,
+    "relevance_score": 2.0
   },
   {
     "name": "StarLink - Digicert",
@@ -15363,8 +15363,8 @@ const companiesData = [
     "description": "DigiCert is a global leader providing scalable TLS/SSL, IoT, and PKI (Public Key Infrastructure) solutions for identity and encryption, used by a large majority of the Fortune 500 and top banks to secure web servers and devices. T ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---digicert",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 2,
+    "relevance_score": 2.0
   },
   {
     "name": "Tianqi Satellite",
@@ -15377,8 +15377,8 @@ const companiesData = [
       "Satellite & Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tianqi-satellite",
-    "relevance_stars": 1,
-    "relevance_score": 1.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Accent Gulf Computers LLC",
@@ -15388,8 +15388,8 @@ const companiesData = [
     "description": "Accent’ is currently a Partner with HP and DIRECTLY associated with other brands like Acer, Lenovo, Canon, Brother, APC, Lexmark and many more. Our product range includes Laptops, Desktops, Printers, Ink and Toners, All in Ones, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/accent-gulf-computers-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Aclas",
@@ -15410,8 +15410,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aclas",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "AGI TECHNOLOGY CO., LTD.",
@@ -15424,8 +15424,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agi-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "AJAOM MOBILES FZCO",
@@ -15444,8 +15444,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ajaom-mobiles-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Al Amthal Group B.S.C Closed",
@@ -15466,8 +15466,8 @@ const companiesData = [
       "Cloud Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-amthal-group-bsc-closed",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Al Jammaz Technologies",
@@ -15488,8 +15488,8 @@ const companiesData = [
       "Analyst"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-jammaz-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Al Masaood LLC",
@@ -15511,7 +15511,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-masaood-llc",
     "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_score": 0.0
   },
   {
     "name": "Al Nahar Royal FZCO",
@@ -15527,8 +15527,8 @@ const companiesData = [
       "Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-nahar-royal-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Alchemy",
@@ -15549,8 +15549,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alchemy",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "AMD",
@@ -15571,8 +15571,8 @@ const companiesData = [
       "Production"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Antalya Teknokent Yonetici ve Isletici A.S.",
@@ -15593,8 +15593,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/antalya-teknokent-yonetici-ve-isletici-as",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Arabian Business",
@@ -15615,8 +15615,8 @@ const companiesData = [
       "Customer Relationship Management - CRM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arabian-business",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "AUKEY",
@@ -15637,8 +15637,8 @@ const companiesData = [
       "Accessories - Chargers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aukey",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "AV Pro DWC-LLC",
@@ -15659,8 +15659,8 @@ const companiesData = [
       "Smart Class Room Solution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/av-pro-dwc-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "AVIENTEK FZCO",
@@ -15681,8 +15681,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avientek-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "BarTender by Seagull",
@@ -15703,8 +15703,8 @@ const companiesData = [
       "Print Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bartender-by-seagull",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Beijing Soaring Electric Technology Co., Ltd.",
@@ -15720,8 +15720,8 @@ const companiesData = [
       "Manufacturing preparation / pre-processing - Metal or Resin 3D Printers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-soaring-electric-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "BIXOLON CO., LTD.",
@@ -15742,8 +15742,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bixolon-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "BlackBerry UK Limited",
@@ -15762,8 +15762,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blackberry-uk-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "BLOOMS GROUP FZCO",
@@ -15781,8 +15781,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blooms-group-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "BOYDSENSE",
@@ -15799,8 +15799,8 @@ const companiesData = [
       "Remote Patient Monitoring Tools"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/boydsense",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Bridge Wireless Solutions Inc",
@@ -15815,8 +15815,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bridge-wireless-solutions-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Celltel Middle East FZCO",
@@ -15836,8 +15836,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/celltel-middle-east-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Changkun Technology (Shenzhen) Co., Ltd.",
@@ -15850,8 +15850,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/changkun-technology-shenzhen-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Chengdu Tengting Technology Co., Ltd.",
@@ -15866,8 +15866,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chengdu-tengting-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "CI Gulf Distribution FZCO",
@@ -15888,8 +15888,8 @@ const companiesData = [
       "Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ci-gulf-distribution-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Citizen Systems Europe GmbH",
@@ -15906,8 +15906,8 @@ const companiesData = [
       "Merchandise Planning & Inventory Management - Smart Labels"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/citizen-systems-europe-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "CleanWave",
@@ -15922,8 +15922,8 @@ const companiesData = [
       "Healthcare Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cleanwave",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Clever Equine Solutions",
@@ -15936,8 +15936,8 @@ const companiesData = [
       "Mechanization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/clever-equine-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cluster TIC Galicia",
@@ -15952,8 +15952,8 @@ const companiesData = [
       "Fixed Line Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cluster-tic-galicia",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "COMPUPRINT",
@@ -15971,8 +15971,8 @@ const companiesData = [
       "Digital Imaging Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/compuprint",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Continental Technology FZCO",
@@ -15992,8 +15992,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/continental-technology-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Corporate Publishing International Limited",
@@ -16003,8 +16003,8 @@ const companiesData = [
     "description": "Our team have unparalleled and unrivaled insight into all major industry sectors enabling us to create content for our partners across print, digital and social media platforms. Our titles are Tahawultech.com, CNME, Reseller ME, S ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/corporate-publishing-international-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "DaiShin Information & Communications Co., Ltd",
@@ -16017,8 +16017,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/daishin-information--communications-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "DAREU",
@@ -16037,8 +16037,8 @@ const companiesData = [
       "Accessories - Headphones / earphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dareu",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Department of Agriculture & Livestock",
@@ -16059,8 +16059,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/department-of-agriculture--livestock",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "DEVIN TECH INC.",
@@ -16078,8 +16078,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/devin-tech-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "DG LAND ELECTRICAL & ELECTRONIC APPLIANCES SPARE PARTS TRADING L.L.C BRANCH",
@@ -16100,8 +16100,8 @@ const companiesData = [
       "Personal Care Applicances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dg-land-electrical--electronic-appliances-spare-parts-trading-llc-branch",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Digital Factors FZCO - AE",
@@ -16116,8 +16116,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-factors-fzco---ae",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "DIGIVIEW TECHNOLOGY LIMITED",
@@ -16132,8 +16132,8 @@ const companiesData = [
       "Accessories - Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digiview-technology-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Dongguan Qingwu Electronic Technology Co., Ltd",
@@ -16146,8 +16146,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dongguanqingwuelectronictechnologycoltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Dubai Computer Group",
@@ -16168,8 +16168,8 @@ const companiesData = [
       "Supply Chain Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-computer-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Dubai Computer Traders Business Group",
@@ -16190,8 +16190,8 @@ const companiesData = [
       "Mobile & Online games"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-computer-traders-business-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "DURABOOK",
@@ -16208,8 +16208,8 @@ const companiesData = [
       "Devices -Tablets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/durabook",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "DWTC Co3 banner",
@@ -16229,8 +16229,8 @@ const companiesData = [
       "Agriculture 4.0 (Crop Production and Livestock)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dwtc-co3-banner",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Easy Call General Trading",
@@ -16251,8 +16251,8 @@ const companiesData = [
       "Design & Product Development - Drawing & Document Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/easy-call-general-trading",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Egg.Exchange",
@@ -16273,8 +16273,8 @@ const companiesData = [
       "Digital Lending"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eggexchange",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Emirates Red Crescent Authority",
@@ -16295,8 +16295,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-red-crescent-authority",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Esarwa - Enterprise Softwares",
@@ -16317,8 +16317,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/esarwa---enterprise-softwares",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "EURO HOLOGRAPHY LTD",
@@ -16339,8 +16339,8 @@ const companiesData = [
       "Safety & Security Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/euro-holography-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Excellence Wire Ind. Co. Ltd.",
@@ -16358,8 +16358,8 @@ const companiesData = [
       "Data Management Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/excellence-wire-ind-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "EZPOS",
@@ -16377,8 +16377,8 @@ const companiesData = [
       "AI & Nutrition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ezpos",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Federal Ministry for Economic Affairs and Energy (BMWE)",
@@ -16390,8 +16390,8 @@ const companiesData = [
       "Business & professional services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/federal-ministry-for-economic-affairs-and-energy-bmwe",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "FIBERME",
@@ -16412,8 +16412,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fiberme",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Fire Bird Distribution FZE",
@@ -16432,8 +16432,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fire-bird-distribution-fze",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Fujifilm Middle East FZE",
@@ -16452,8 +16452,8 @@ const companiesData = [
       "Handhelds, Laptops, PCs, Printers, Monitors, Screens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujifilm-middle-east-fze",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "General Authority Of Islamic Affairs, Endowments & Zakat",
@@ -16466,8 +16466,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-authority-of-islamic-affairs--endowments--zakat",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "General Pension and Social Security Authority (GPSSA)",
@@ -16477,8 +16477,8 @@ const companiesData = [
     "description": "The General Pension and Social Security Authority (GPSSA) was established in accordance to Federal Law No. (6) of 1999.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-pension-and-social-security-authority-gpssa",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Gold Prime FZCO",
@@ -16497,8 +16497,8 @@ const companiesData = [
       "Design & Product Development - Industrial design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gold-prime-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "GOUI",
@@ -16513,8 +16513,8 @@ const companiesData = [
       "Home Entertainment Solutions / Integration Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/goui",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "gsmExchange",
@@ -16535,8 +16535,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gsmexchange",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Guangzhou City GSAN Science & Technology Co., LTD",
@@ -16553,8 +16553,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-city-gsan-science--technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Guangzhou Creat Sources Technology Development Co., Ltd.",
@@ -16570,8 +16570,8 @@ const companiesData = [
       "Accessories - Cases & Covers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-creat-sources-technology-development-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "GUANGZHOU HAVIT TECHNOLOGY CO., LTD.",
@@ -16591,8 +16591,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-havit-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Guangzhou Jiashangjia Intelligent Technology Co., Ltd.",
@@ -16607,8 +16607,8 @@ const companiesData = [
       "POS Machines & Payment Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-jiashangjia-intelligent-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "GUANGZHOU SHANGKE INFORMATION TECHNOLOGY (HK) LIMITED",
@@ -16623,8 +16623,8 @@ const companiesData = [
       "Devices -Tablets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-shangke-information-technology-hk-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Guangzhou Yuhong Technology Co.,LTD",
@@ -16644,8 +16644,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangzhou-yuhong-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "HANASIS",
@@ -16661,8 +16661,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hanasis",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Heerae Co., Ltd.",
@@ -16680,8 +16680,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/heerae-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "HENA GROUP",
@@ -16695,8 +16695,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hena-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Hengyang Ritar Power Co., Ltd.",
@@ -16717,8 +16717,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hengyang-ritar-power-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "HGC TECHNOLOGIES LLC",
@@ -16739,8 +16739,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hgc-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "HK Byfone Technology Co.,Limited",
@@ -16760,8 +16760,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hk-byfone-technology-colimited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "HOLOTECH HUB",
@@ -16782,8 +16782,8 @@ const companiesData = [
       "Metaverse"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/holotech-hub",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "HOSTING B2B LTD",
@@ -16804,8 +16804,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hosting-b2b-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "HP Computing and Printing Middle East FZ-LLC",
@@ -16822,8 +16822,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hp-computing-and-printing-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Hsing Chau Industrial Co. Ltd.",
@@ -16844,8 +16844,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hsing-chau-industrial-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Hunan Dlsum Technology Co., Ltd",
@@ -16860,8 +16860,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hunan-dlsum-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "iEPM",
@@ -16875,8 +16875,8 @@ const companiesData = [
       "Digitization / services / tool and die making - Data and IT security, protection of intellectual property"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iepm",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Imaqliq Service LLC",
@@ -16897,8 +16897,8 @@ const companiesData = [
       "Fuel & Oil Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imaqliq-service-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "j5create",
@@ -16919,8 +16919,8 @@ const companiesData = [
       "Accessories & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/j5create",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Jass Way Europe",
@@ -16936,8 +16936,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jass-way-europe",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "JIAXING JINLIDA ELECTRON CO., LTD.",
@@ -16958,8 +16958,8 @@ const companiesData = [
       "Telecommunication Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jiaxing-jinlida-electron-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Jishu India Electronics Pvt. Ltd.",
@@ -16980,8 +16980,8 @@ const companiesData = [
       "Healthcare Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jishu-india-electronics-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "KARIMCO. AI-ANALYST KACEY TO SPEED UP YOUR BUSINESS PROCESS",
@@ -17002,8 +17002,8 @@ const companiesData = [
       "Data & Analytics - Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/karimco-ai-analyst-kacey--to-speed-up-your-business-process",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Khalid Lemar General Trading LLC",
@@ -17019,8 +17019,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/khalid-lemar-general-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Kingdom Group FZCO",
@@ -17041,8 +17041,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kingdom-group-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "KingSpec",
@@ -17063,8 +17063,8 @@ const companiesData = [
       "In-Vehicle Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kingspec",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Kinpower",
@@ -17077,8 +17077,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kinpower",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "KOTRA (Korea Trade Investment Promotion Agency)",
@@ -17099,8 +17099,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kotra-korea-trade-investment-promotion-agency",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Lagos State Government",
@@ -17118,8 +17118,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lagos-state-government",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "LEONARDA-SERVICE LLC",
@@ -17140,8 +17140,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/leonarda-service-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "LM TEK d.o.o.",
@@ -17162,8 +17162,8 @@ const companiesData = [
       "Data Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lm-tek-doo",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Logiverse Fzco",
@@ -17184,8 +17184,8 @@ const companiesData = [
       "Accessories - Cases & Covers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logiverse-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Loqus Services Limited",
@@ -17206,8 +17206,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/loqus-services-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "LUCKY STAR COMPUTERS LLC",
@@ -17228,8 +17228,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lucky-star-computers-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Majra UAE | National CSR Fund",
@@ -17239,8 +17239,8 @@ const companiesData = [
     "description": "Majra National CSR Fund is a purpose-driven federal government entity, dedicated to supporting impactful, sustainable projects that foster economic empowerment, environmental conservation, and social well-being. By uniting private ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/majra-uae--national-csr-fund",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Manhattan & Intellinet Network Solutions | IC Intracom",
@@ -17261,8 +17261,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/manhattan--intellinet-network-solutions--ic-intracom",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Maxi Electronic FZCO",
@@ -17281,8 +17281,8 @@ const companiesData = [
       "Accessories & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maxi-electronic-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "MBCOM | Broadcom",
@@ -17303,8 +17303,8 @@ const companiesData = [
       "Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mbcom--broadcom",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "MCDODO",
@@ -17325,8 +17325,8 @@ const companiesData = [
       "Accessories - Power Banks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mcdodo",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "MEKING",
@@ -17341,8 +17341,8 @@ const companiesData = [
       "POS Machines & Payment Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/meking",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Metapercept",
@@ -17363,8 +17363,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/metapercept",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Metreon",
@@ -17385,8 +17385,8 @@ const companiesData = [
       "PC Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/metreon",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Midis Services FZ-LLC",
@@ -17407,8 +17407,8 @@ const companiesData = [
       "Facial / Iris Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/midis-services-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Ministry of Community Empowerment",
@@ -17418,8 +17418,8 @@ const companiesData = [
     "description": "We, at the Ministry of Community Empowerment, embody the principle of empowerment as a fundamental pillar in achieving sustainable social development. Our vision is anchored in a comprehensive strategy that shifts our role from a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-community-empowerment",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Ministry of Industry and Advanced Technology",
@@ -17432,8 +17432,8 @@ const companiesData = [
       "Manufacturing preparation / pre-processing - Molding machine, tools"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-industry-and-advanced-technology",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MOBI KING PHONES FZCO",
@@ -17448,8 +17448,8 @@ const companiesData = [
       "Smart Appliances / Gadgets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobi-king-phones-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Mohammed Bin Rashid Housing Establishment",
@@ -17462,8 +17462,8 @@ const companiesData = [
       "Design & Product Development - Digitizing of Components"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mohammed-bin-rashid-housing-establishment",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Moro Hub",
@@ -17484,8 +17484,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moro-hub",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Movil Impex LLP",
@@ -17500,8 +17500,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/movil-impex-llp",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Naam Electronics FZE",
@@ -17522,8 +17522,8 @@ const companiesData = [
       "Accessories - Chargers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/naam-electronics-fze",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "National Association of Software & Service Companies (NASSCOM)",
@@ -17533,8 +17533,8 @@ const companiesData = [
     "description": "Nasscom is a purpose-driven association that works with industry, government, and academia to position India as a trusted hub for products, talent, and impact. With 3000+ member companies, from startups to multinationals, products ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/national-association-of-software--service-companies-nasscom",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "National Information Technology Board",
@@ -17555,8 +17555,8 @@ const companiesData = [
       "Private Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/national-information-technology-board",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Neat",
@@ -17577,8 +17577,8 @@ const companiesData = [
       "Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neat",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Netsweeper Inc.",
@@ -17588,8 +17588,8 @@ const companiesData = [
     "description": "Netsweeper strives to create a safer society through the use of our web content filtering services for educational institutions, government organizations, businesses, and service providers. Netsweeper uses advanced AI technology t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netsweeper-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "NGT TECHNOLOGY",
@@ -17610,8 +17610,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ngt-technology",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "Ninestar",
@@ -17624,8 +17624,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ninestar",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Ningbo Newboao communication equipment Co.,Ltd",
@@ -17646,8 +17646,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-newboao-communication-equipment-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "OPTOTECH CABLES",
@@ -17668,8 +17668,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/optotech-cables",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Parekh Group",
@@ -17690,8 +17690,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/parekh-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "PLAUD Inc.",
@@ -17701,8 +17701,8 @@ const companiesData = [
     "description": "Plaud.ai is the world's #1 Al note-taking brand, transforming how we capture, extract and utilize intelligence from conversations. Trusted by 1M+ users globally with enterprise-grade security (SOC2/HIPAA/GDPR). Powered by Plaud In ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/plaud-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Poyraz Buro Malzemeleri Dis. Tic. Ltd. Sti.",
@@ -17716,8 +17716,8 @@ const companiesData = [
       "Printing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/poyraz-buro-malzemeleri-dis-tic-ltd-sti",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Prime Commerce",
@@ -17735,8 +17735,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/prime-commerce",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Prinker Korea Inc.",
@@ -17757,8 +17757,8 @@ const companiesData = [
       "Smart Appliances / Gadgets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/prinker-korea-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "PROMVR",
@@ -17779,8 +17779,8 @@ const companiesData = [
       "Procurement Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/promvr",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Prow Information Technology LLC",
@@ -17801,8 +17801,8 @@ const companiesData = [
       "Data Visualisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/prow-information-technology-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "RecirQ",
@@ -17818,8 +17818,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/recirq",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "REDCELL GENERAL TRADING LLC",
@@ -17840,8 +17840,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redcell-general-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Refine Industrial (Asia) Ltd.",
@@ -17862,8 +17862,8 @@ const companiesData = [
       "Mobile Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/refine-industrial-asia-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "REXOD CO.,LTD.",
@@ -17879,8 +17879,8 @@ const companiesData = [
       "Gaming Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rexod-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "RingConn",
@@ -17894,8 +17894,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ringconn",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Room Alert",
@@ -17905,8 +17905,8 @@ const companiesData = [
     "description": "Established in 1988, AVTECH Software is a leading manufacturer of innovative environmental monitoring solutions. We specialize in Room Alert monitors, sensors, and software that help organizations worldwide safeguard critical faci ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/room-alert",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "S TRACK",
@@ -17925,8 +17925,8 @@ const companiesData = [
       "Audio, Pod Casts & Video Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/s-track",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Sahara FZCO",
@@ -17947,8 +17947,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sahara-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "SAUDISOFT. CO .LTD.",
@@ -17969,8 +17969,8 @@ const companiesData = [
       "Hardware Resources"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/saudisoft-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "SDET Technologies Pvt. Ltd.",
@@ -17991,8 +17991,8 @@ const companiesData = [
       "Governance & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sdet-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "SEMIQA",
@@ -18002,8 +18002,8 @@ const companiesData = [
     "description": "SemiQa is delivering HW based solutions for AI and accelerators for Graph algorithms based on the off-the-shelf devices as well as custom FPGA implementations and custom ASIC designs. Its main area of focus is design and applicat ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/semiqa",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Seodong Medical Co.",
@@ -18016,8 +18016,8 @@ const companiesData = [
       "Leisure, Health & Lifestyle Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/seodong-medical-co",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SGTech",
@@ -18027,8 +18027,8 @@ const companiesData = [
     "description": "SGTech is the leading trade association for Singapore's tech industry. Representing over 1,400 member companies ranging from top multinational corporations, large local enterprises, vibrant small and medium-sized enterprises, and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sgtech",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Shah Teelani & Associates",
@@ -18047,8 +18047,8 @@ const companiesData = [
       "Governance & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shah-teelani--associates",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SHAPOOR TRADING LLC",
@@ -18069,8 +18069,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shapoor-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Shenzhen GMK Technology Co., Ltd.",
@@ -18091,8 +18091,8 @@ const companiesData = [
       "IP Communications & Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-gmk-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "SHENZHEN HONGSHENGDA PHOTOELECTRIC TECHNOLOGY CO.,LTD",
@@ -18111,8 +18111,8 @@ const companiesData = [
       "Tablets / Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-hongshengda-photoelectric-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "ShenZhen iTeaQ Power Co.,Ltd.",
@@ -18133,8 +18133,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-iteaq-power-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Shenzhen Jiayz Photo Industrial.,Ltd",
@@ -18149,8 +18149,8 @@ const companiesData = [
       "Audio, Pod Casts & Video Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-jiayz-photo-industrialltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Shenzhen Jiuzhou Electric Co., Ltd",
@@ -18171,8 +18171,8 @@ const companiesData = [
       "IP Communications & Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-jiuzhou-electric-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "SHENZHEN MARVO TECHNOLOGY CO.,LTD",
@@ -18189,8 +18189,8 @@ const companiesData = [
       "Accessories & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-marvo-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shenzhen OSCOO Tech Co., Limited",
@@ -18211,8 +18211,8 @@ const companiesData = [
       "Computer and Mobile Hardware, Storage & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-oscoo-tech-co-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Shenzhen Shiguangxiu Technology Co., Ltd.",
@@ -18226,8 +18226,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-shiguangxiu-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shenzhen SYN technology Co., Ltd",
@@ -18243,8 +18243,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-syn-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Shenzhen VIP Technology Co., Ltd",
@@ -18254,8 +18254,8 @@ const companiesData = [
     "description": "Our products covers live broadcast bracket, tripod, quadripod, selfie stick, face tracking, single axis PTZ, three-axis PTZ, fill light and mobile phone accessories. Our company has obtained the certification of lSO9001 quality ma ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-vip-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Shenzhen Yunji Intelligent Technology Co. Ltd",
@@ -18273,8 +18273,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-yunji-intelligent-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shenzhen ZCS Technology Co.,Ltd.",
@@ -18290,8 +18290,8 @@ const companiesData = [
       "Store Operations - Scanners/ Hand-Held Terminals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-zcs-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Sichuan Guoxin Zhonghui Digital Technology Co., Ltd.",
@@ -18308,8 +18308,8 @@ const companiesData = [
       "Wearables"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sichuan-guoxin-zhonghui-digital-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "SIGMA GROUP",
@@ -18326,8 +18326,8 @@ const companiesData = [
       "Gaming Laptops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sigma-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Situm Wayfinding & Interactive Maps",
@@ -18348,8 +18348,8 @@ const companiesData = [
       "Smart Homes & Buildings"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/situm-wayfinding--interactive-maps",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Skynapse Business Technology Pte. Ltd.",
@@ -18365,8 +18365,8 @@ const companiesData = [
       "Smart Homes & Buildings"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/skynapse-business-technology-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Smart Telecomm LLC",
@@ -18383,8 +18383,8 @@ const companiesData = [
       "Mobile & Online games"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smart-telecomm-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Smile Computers LLC / Savvy Impex FZCO",
@@ -18403,8 +18403,8 @@ const companiesData = [
       "In-Vehicle Electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smile-computers-llc---savvy-impex-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "StarLink - Beyond Trust",
@@ -18422,8 +18422,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---beyond-trust",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Sunstrike International Limited",
@@ -18444,8 +18444,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sunstrike-international-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "SWISS Pavilion",
@@ -18455,8 +18455,8 @@ const companiesData = [
     "description": "In cooperation with industry associations, T-LINK, as general contractor, organizes official Swiss joint appearances as part of the Business Network Switzerland. We also support the associations in marketing the joint stands. In a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/swiss-pavilion",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "TARLOGIC",
@@ -18466,8 +18466,8 @@ const companiesData = [
     "description": "Tarlogic Cybersecurity Service Offer: Advanced Penetration - Red Team - External & internal pentesting - Social Engineering - Wi-Fi Pentest Security Assessment: - AI Security Testing - Web / Mobile Application/ Cloud I ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tarlogic",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Technoland Plus Electronics Trading L.L.C",
@@ -18486,8 +18486,8 @@ const companiesData = [
       "Gaming Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/technoland-plus-electronics-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "TecPro (HK) Limited",
@@ -18504,8 +18504,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tecpro-hk-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "TEXUB FZCO",
@@ -18526,8 +18526,8 @@ const companiesData = [
       "Electronic Components (Connection Devices, Electron Tubes, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/texub-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "THT FZCO",
@@ -18548,8 +18548,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tht-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 58.0
   },
   {
     "name": "Times Recycling Limited",
@@ -18565,8 +18565,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/times-recycling-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "TOUCH TEL L.L.C.",
@@ -18583,8 +18583,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/touch-tel-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "UCL/UCL SWIFT",
@@ -18604,8 +18604,8 @@ const companiesData = [
       "Physical Servers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uclucl-swift",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Uniqbe Limited",
@@ -18624,8 +18624,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uniqbe-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "United Arab Emirates University",
@@ -18635,8 +18635,8 @@ const companiesData = [
     "description": "UAEU offers a full range of accredited, high-quality graduate and undergraduate programs through nine Colleges: Business and Economics; Education; Engineering; Agriculture & Veterinary Medicine; Humanities and Social Sciences; IT; ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/united-arab-emirates-university",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "V2COM",
@@ -18651,8 +18651,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/v2com",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Valerion by AWOL Vision",
@@ -18667,8 +18667,8 @@ const companiesData = [
       "Video Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/valerion-by-awol-vision",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "VEGA INNOVATIONS",
@@ -18689,8 +18689,8 @@ const companiesData = [
       "Electric Vehicle OEMs (Passenger)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vega-innovations",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Venuetech LLC",
@@ -18711,8 +18711,8 @@ const companiesData = [
       "Headphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/venuetech-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "VeSync",
@@ -18729,8 +18729,8 @@ const companiesData = [
       "Smart Appliances / Gadgets"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vesync",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "VIISAN TECHNOLOGY CO., LTD",
@@ -18748,8 +18748,8 @@ const companiesData = [
       "Interactive Boards / Touch Panels"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/viisan-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "VTC TRADING L.L.C",
@@ -18762,8 +18762,8 @@ const companiesData = [
       "Audio Systems & Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vtc-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "VUSIONGROUP",
@@ -18784,8 +18784,8 @@ const companiesData = [
       "Food Losses & Waste"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vusiongroup",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Wadhwa Trading LLC",
@@ -18800,8 +18800,8 @@ const companiesData = [
       "Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wadhwa-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "We Sell Cellular LLC",
@@ -18819,8 +18819,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/we-sell-cellular-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "WhaleFlux",
@@ -18841,8 +18841,8 @@ const companiesData = [
       "Industrial Software & Process Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/whaleflux",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "WINDBILLION",
@@ -18857,8 +18857,8 @@ const companiesData = [
       "Home Appliances"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/windbillion",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Xiamen Cashino Technology Co., Ltd",
@@ -18879,8 +18879,8 @@ const companiesData = [
       "Electronic Equipment & Instruments (Barcode Readers, POS Machines, Etc)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xiamen-cashino-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Yudiz Solutions Limited",
@@ -18901,8 +18901,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yudiz-solutions-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "ZHEJIANG GUANGDA PUTE COMMUNICATION TECHNOLOGY CO.,LTD.",
@@ -18923,8 +18923,8 @@ const companiesData = [
       "Telecoms & Mobility"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-guangda-pute-communication-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Zhuhai Elmer Technology Co., Ltd.",
@@ -18945,8 +18945,8 @@ const companiesData = [
       "Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhuhai-elmer-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Zycoo",
@@ -18963,8 +18963,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zycoo",
-    "relevance_stars": 1,
-    "relevance_score": 1.5
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "7X",
@@ -18974,8 +18974,8 @@ const companiesData = [
     "description": "7X, (Emirates Post Group PJSC) is a Public Joint Stock Company under the Emirates Investment Authority. 7X operates as a trade, transport, and logistics holding group, headquartered in Dubai, overseeing and managing its diverse ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/7x",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Aark Technology FZCO",
@@ -18985,8 +18985,8 @@ const companiesData = [
     "description": "Founded in 2022, Aark Technology FZCO is a leading wholesaler and trader of consumer electronics, headquartered in Dubai, UAE, with warehouses located in DAFZA, JAFZA, India, and Hong Kong. We provide a comprehensive selection of ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aark-technology-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ACPM IT",
@@ -19007,8 +19007,8 @@ const companiesData = [
       "Security Architecture & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/acpm-it",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "AFRITECHIA",
@@ -19029,8 +19029,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/afritechia",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Amrut Software Private Limited",
@@ -19051,8 +19051,8 @@ const companiesData = [
       "Consultancy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amrut-software-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ANTlabs Pte. Ltd.",
@@ -19073,8 +19073,8 @@ const companiesData = [
       "Cloud Management Platform"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/antlabs-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Arabic.AI",
@@ -19095,8 +19095,8 @@ const companiesData = [
       "Natural Language Generation (NLG)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arabicai",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Beijing Creative Group Co.,Ltd.",
@@ -19115,7 +19115,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-creative-group-coltd",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Beijing Haixin Energy Technology Co., Ltd.，",
@@ -19128,8 +19128,8 @@ const companiesData = [
       "Bioenergy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-haixin-energy-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Bright vision components limited",
@@ -19140,7 +19140,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bright-vision-components-limited",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "BroadNet Technologies LLC",
@@ -19153,8 +19153,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/broadnet-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "CALLANYWHERE",
@@ -19172,8 +19172,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/callanywhere",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "CapitalNumbers Infotech Limited",
@@ -19194,8 +19194,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/capitalnumbers-infotech-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Cavintek Software Private Limited",
@@ -19205,8 +19205,8 @@ const companiesData = [
     "description": "Cavintek builds simple yet powerful software to help businesses work smarter. Our flagship product, Cflow, is a AI powered no-code workflow automation tool that allows companies to design and run business processes without any pr ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cavintek-software-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Celltech (HK) Limited",
@@ -19216,8 +19216,8 @@ const companiesData = [
     "description": "At Celltech, we don’t just trade devices — we power the mobile supply chain for modern businesses. As a trusted global distributor headquartered in Hong Kong, we specialize in wholesale trading, e-commerce fulfillment, and int ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/celltech-hk-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cellutech FZCO",
@@ -19236,8 +19236,8 @@ const companiesData = [
       "Console Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cellutech-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Cerebra",
@@ -19248,7 +19248,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cerebra",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Chicago Phones Wholesale LLC",
@@ -19269,8 +19269,8 @@ const companiesData = [
       "Creativity & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chicago-phones-wholesale-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Cleverpark",
@@ -19285,8 +19285,8 @@ const companiesData = [
       "Facilities Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cleverpark",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Codetrade India Pvt. Ltd",
@@ -19307,8 +19307,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/codetrade-india-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Comify",
@@ -19329,8 +19329,8 @@ const companiesData = [
       "Personalization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/comify",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Crayon DMCC",
@@ -19351,8 +19351,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/crayon-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Creative Middle East Media FZ LLC",
@@ -19362,8 +19362,8 @@ const companiesData = [
     "description": "MEA Business is a quarterly business magazine committed to reporting positive business developments in the Middle East and Africa, providing a platform for business leaders to share ideas, engage in constructive debate and form st ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/creative-middle-east-media-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cyprus Trade Center",
@@ -19379,8 +19379,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cyprus-trade-center",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DATWYLER MIDDLE EAST FZE",
@@ -19391,7 +19391,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datwyler-middle-east-fze",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Dr. Perkz Healthcare Mobile App",
@@ -19401,8 +19401,8 @@ const companiesData = [
     "description": "The next-generation rewards programme is here. Dr. Perkz isn’t just another mobile app—it’s your go-to lifestyle companion for smarter, more rewarding healthcare. We connect you with top clinics, hospitals, and wellness cent ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dr-perkz-healthcare-mobile-app",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DRONESHUB LLC",
@@ -19412,8 +19412,8 @@ const companiesData = [
     "description": "DRONESHUB LLC is a Russian diversified technology company, founded in 2017, specializing in advanced robotic solutions, software, and integrated systems that drive business transformation and growth. The Piranha rover carries up t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/droneshub-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "DTG Neo Scientific Ltd (OCPC)",
@@ -19424,7 +19424,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dtg-neo-scientific-ltd-ocpc",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Dubai Health",
@@ -19444,8 +19444,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-health",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Ebana For Information Technology Company",
@@ -19455,8 +19455,8 @@ const companiesData = [
     "description": "Enabling faster decision-making through integrated interactive tools. · Enhancing transparency and accountability with accurate reports and intelligent analytics. · Saving time and effort through automation (minutes, alerts, t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ebana-for-information-technology-company",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "EDGESMART PTE. LTD.",
@@ -19477,8 +19477,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/edgesmart-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "EMECE YAZILIM EGİTİM VE DANISMANLIK LTD",
@@ -19499,8 +19499,8 @@ const companiesData = [
       "Healthcare Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emece-yazilim-egtm-ve-danismanlik-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "EMPA Business Solutions",
@@ -19520,8 +19520,8 @@ const companiesData = [
       "Critical Power"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/empa-business-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Enterprise Greece",
@@ -19533,8 +19533,8 @@ const companiesData = [
       "Business & professional services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/enterprise-greece",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Focus Softnet FZ LLC",
@@ -19555,8 +19555,8 @@ const companiesData = [
       "Procurement Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/focus-softnet-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "FUJIKURA LTD",
@@ -19567,7 +19567,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujikura-ltd",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Fusion AI",
@@ -19588,8 +19588,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fusion-ai",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Gallabox WhatsApp CX Platform",
@@ -19610,8 +19610,8 @@ const companiesData = [
       "Real time translation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gallabox-whatsapp-cx-platform",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "GARPIX",
@@ -19621,8 +19621,8 @@ const companiesData = [
     "description": "GARPIX is a Russian developer of hardware and software solutions for logistics, warehousing, and transportation automation. Our key products include: Garpix 3D Scan — precise cargo dimensioning and weighing system; Visioner � ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/garpix",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Getmobit LLC",
@@ -19643,8 +19643,8 @@ const companiesData = [
       "Network & Infrastructure Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/getmobit-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "GlobalDWS Corporation",
@@ -19654,8 +19654,8 @@ const companiesData = [
     "description": "Founded in 2013, GlobalDWS is a leading systems integrator specializing in Digital Workplace Services (DWS). We enable Smart Workplaces with AI-driven automation, digital twins, and robotics that make buildings safer, greener, and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globaldws-corporation",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "GlobeServe Tech International Co., Ltd",
@@ -19676,8 +19676,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globeserve-tech-international-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "Globussoft",
@@ -19698,8 +19698,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globussoft",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "GOLDEN SYSTEMS MIDDLE EAST FZCO",
@@ -19709,8 +19709,8 @@ const companiesData = [
     "description": "Company Overview Golden Systems Middle East FZCO is renowned IT and Technology value added distributor, head quartered in Dubai, UAE. Catering enterprise, retail, and broad market channels across MENA region. Products & Brand Port ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/golden-systems-middle-east-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GRAND PCD GROUP OF COMPANIES",
@@ -19720,8 +19720,8 @@ const companiesData = [
     "description": "Grand PCD, a trusted supplier of premium IT products in the UAE, has its headquarters in Dubai. Our main objective, as a team of seasoned industry specialists, is to guarantee client happiness. Grand PCD has established itself as ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/grand-pcd-group-of-companies",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GZ Leangle Co., Ltd",
@@ -19732,7 +19732,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gz-leangle-co-ltd",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "H2O Hospitality",
@@ -19746,8 +19746,8 @@ const companiesData = [
       "Customer Relationship Management - CRM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/h2o-hospitality",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Honeywell Middle East",
@@ -19761,8 +19761,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/honeywell-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "IBM - Netaways",
@@ -19772,8 +19772,8 @@ const companiesData = [
     "description": "Netways is a leading digital transformation and technology consulting company founded in 1996, with headquarters in Riyadh and offices across the MENA region and North America. As a top Microsoft Gold Partner, Netways helps organi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibm---netaways",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "iMEDWAY",
@@ -19790,8 +19790,8 @@ const companiesData = [
       "Digital Counselling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imedway",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "iMEDWAY Technology Co., Ltd",
@@ -19808,8 +19808,8 @@ const companiesData = [
       "Electronic Medical Record, Electronic Health Record Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imedway-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Inc. Arabia",
@@ -19819,8 +19819,8 @@ const companiesData = [
     "description": "Inc. Arabia is a dynamic media platform that aims to inspire, inform, and document the most fascinating people in the MENA business landscape: the risk-takers, the innovators, and the ultra-driven go-getters that represent the mos ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inc-arabia",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Inflectra Corporation",
@@ -19831,7 +19831,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inflectra-corporation",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Inspire-Tech Pte Ltd",
@@ -19849,8 +19849,8 @@ const companiesData = [
       "Data Governance, Risk & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inspire-tech-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Intuit QuickBooks",
@@ -19866,8 +19866,8 @@ const companiesData = [
       "Planning and Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intuit-quickbooks",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "ISON Co., Ltd",
@@ -19877,8 +19877,8 @@ const companiesData = [
     "description": "ISON is a defense-focused technology company that develops unmanned surveillance and reconnaissance systems. We integrate drone stations, rail robots, smart poles, and AI video stitching to build fully autonomous border monitoring ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ison-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "ITCN Asia",
@@ -19888,8 +19888,8 @@ const companiesData = [
     "description": "ITCN Asia, Pakistan’s largest & most influential technology showcase, is the ultimate gateway for innovation, business growth & global collaboration. It has become the premier stage where global tech leaders, investors, entrepre ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itcn-asia",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "ITFORCE TECHNOLOGY DMCC",
@@ -19899,8 +19899,8 @@ const companiesData = [
     "description": "ITforce Technology is global IT company found in 2010. Now Dubai company is the Headquarters and with branch companies all over the world .",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itforce-technology-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "KABi",
@@ -19910,8 +19910,8 @@ const companiesData = [
     "description": "KABi is transforming HR through Agentic AI, driving automation, intelligence, and precision across hiring, assessments, workforce intelligence, and professional development. KABi is revolutionizing HR with AI-driven automation, p ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kabi",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "KANOO CONSULTING SERVICES",
@@ -19921,8 +19921,8 @@ const companiesData = [
     "description": "Kanoo Consulting Services (KCS) is an Oracle Partner head quartered in Bahrain providing implementation & support on Apps, DB, OCI, OCA & Hyperion KCS provides Oracle E-Business Suite (EBS) Implementation, Upgrade and Support serv ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kanoo-consulting-services",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "KISAN ELECTRONICS CO., LTD",
@@ -19935,8 +19935,8 @@ const companiesData = [
       "Banking Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kisan-electronics-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "KOREA OPTRON CORP.",
@@ -19957,8 +19957,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/korea-optron-corp",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "LEION",
@@ -19972,7 +19972,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/leion",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "LETITBEX AI",
@@ -19993,8 +19993,8 @@ const companiesData = [
       "Network & Infrastructure Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/letitbex-ai",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Libromi - Ai Agents & WhatsApp Automation",
@@ -20015,8 +20015,8 @@ const companiesData = [
       "Platform as a Service - PaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/libromi---ai-agents--whatsapp-automation",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Linkreal Co., Ltd.",
@@ -20037,8 +20037,8 @@ const companiesData = [
       "Big Data / Digitisation / Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/linkreal-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "LogicEra DMCC",
@@ -20059,8 +20059,8 @@ const companiesData = [
       "IT Service Management - ITSM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logicera-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "LogRhythm | Exabeam",
@@ -20070,8 +20070,8 @@ const companiesData = [
     "description": "Exabeam is a leader in intelligence and automation that powers security operations for the world’s smartest companies. As a global cybersecurity innovator, Exabeam provides industry-proven, security-focused, and flexible solutio ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logrhythm--exabeam",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "LONG SMART",
@@ -20082,7 +20082,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/long-smart",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Maxvision",
@@ -20093,7 +20093,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maxvision",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Mindfire Technologies LLC",
@@ -20114,8 +20114,8 @@ const companiesData = [
       "Network & Infrastructure Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mindfire-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ministry Of Energy and Infrastructure",
@@ -20136,8 +20136,8 @@ const companiesData = [
       "Bioenergy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-energy-and-infrastructure",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MOC",
@@ -20158,8 +20158,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Moving Walls Group",
@@ -20169,8 +20169,8 @@ const companiesData = [
     "description": "Moving Walls is a global leader in media technology and enterprise software for Digital Out-of-Home (DOOH) and in-store retail media. Headquartered in Singapore and operating across the world’s most dynamic markets, we are on a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moving-walls-group",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "N3XGEN IO INC",
@@ -20189,8 +20189,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/n3xgen-io-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Nebius",
@@ -20211,8 +20211,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nebius",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "NEUROWATT PTE. LTD",
@@ -20226,8 +20226,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neurowatt-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "NORMA",
@@ -20237,8 +20237,8 @@ const companiesData = [
     "description": "Norma is a pioneering South Korean company specializing in quantum security and quantum computing. With headquarters in Seoul, Norma develops a full-stack quantum ecosystem that integrates hardware, software, cloud platforms, and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/norma",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ODINN",
@@ -20259,8 +20259,8 @@ const companiesData = [
       "Networking - Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/odinn",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Oracle",
@@ -20281,8 +20281,8 @@ const companiesData = [
       "Professional Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oracle",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Phykon Solutions Private Limited",
@@ -20292,8 +20292,8 @@ const companiesData = [
     "description": "Phykon is a global provider of AI-powered customer experience and business process solutions, built on 18+ years of service excellence. Our platforms combine intelligent automation with human expertise to help enterprises scale fa ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/phykon-solutions-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Posbank Co., Ltd.",
@@ -20309,8 +20309,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/posbank-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Potel Cable Group Co., Ltd.",
@@ -20331,8 +20331,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/potel-cable-group-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "PROJECTLAND",
@@ -20351,8 +20351,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/projectland",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Reachware",
@@ -20362,8 +20362,8 @@ const companiesData = [
     "description": "Reachware is a Saudi-made technology company specializing in integration and automation solutions that empower organizations to connect, optimize, and scale seamlessly. From compliance and payments to CRM, ERP, and POS systems, Re ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/reachware",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Redbrick Inc.",
@@ -20384,8 +20384,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redbrick-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Redington Gulf FZE",
@@ -20395,8 +20395,8 @@ const companiesData = [
     "description": "Redington Group is a leading global technology solutions provider and supply chain specialist headquartered in Dubai, UAE. Operating across more than 40 countries, Redington connects over 290 international technology brands with a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redington-gulf-fze",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Scale Computing",
@@ -20406,8 +20406,8 @@ const companiesData = [
     "description": "Scale Computing is the industry’s largest edge-first platform company, uniquely positioned to power the AI-driven future of distributed enterprises. Providing edge computing, managed network security, re-virtualization and hyper ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scale-computing",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "SER Software Solutions Middle East",
@@ -20417,8 +20417,8 @@ const companiesData = [
     "description": "SER Group is a leading provider of intelligent content automation and document management solutions. Our Doxis platform seamlessly connects people, processes, and information to drive efficiency, compliance, and better decision-ma ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ser-software-solutions-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Sharjah Entrepreneurship Center (Sheraa)",
@@ -20429,7 +20429,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sharjah-entrepreneurship-center-sheraa",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Shenzhen Paipai Technology Co., Ltd.",
@@ -20445,8 +20445,8 @@ const companiesData = [
       "Accessories - Headphones / earphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-paipai-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Silversea Media",
@@ -20467,8 +20467,8 @@ const companiesData = [
       "Customer Experience & Retention - XR and Metaverse for Immersive Shopping"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/silversea-media",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "SKYLINE&TELARVO",
@@ -20487,8 +20487,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/skylinetelarvo",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Smart CJM GmbH",
@@ -20503,8 +20503,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smart-cjm-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SoDa",
@@ -20514,8 +20514,8 @@ const companiesData = [
     "description": "We’re a team of 410+ data scientists, engineers, and architects helping enterprises turn complexity into clarity. Headquartered in the UAE with global reach, SoDa delivers full-cycle Data & AI solutions that scale. We don’t c ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/soda",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Sparksupport Infotech Pvt Ltd",
@@ -20536,8 +20536,8 @@ const companiesData = [
       "Video for learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sparksupport-infotech-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Spideradio Telecommunication Technology Co., Ltd.",
@@ -20552,8 +20552,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spideradio-telecommunication-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SPIRE SOLUTIONS DMCC",
@@ -20574,8 +20574,8 @@ const companiesData = [
       "Platform as a Service - PaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spire-solutions-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 72.0
   },
   {
     "name": "SPIRIT Slovenia Business Development Agency",
@@ -20596,8 +20596,8 @@ const companiesData = [
       "Operations Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spirit-slovenia-business-development-agency",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SPRT",
@@ -20612,8 +20612,8 @@ const companiesData = [
       "Store Operations - Scanners/ Hand-Held Terminals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sprt",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Palo Alto Networks",
@@ -20623,8 +20623,8 @@ const companiesData = [
     "description": "lo Alto Networks is a global leader in cybersecurity, providing a platform-based approach to protect organizations from cyber threats using AI-powered network, cloud, and security operations (SecOps) solutions. Headquartered in Sa ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---palo-alto-networks",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "STULZ",
@@ -20640,7 +20640,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/stulz",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "Sulava MEA",
@@ -20658,8 +20658,8 @@ const companiesData = [
       "Cloud Service Provider - CSP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sulava-mea",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Super Micro Computer, B.V.",
@@ -20669,8 +20669,8 @@ const companiesData = [
     "description": "Supermicro® (NASDAQ: SMCI), founded and headquartered in San Jose, California, is a global leader in Application-Optimized Total IT Solutions committed to delivering first-to-market innovation for AI, Enterprise, Cloud, and 5G Te ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/super-micro-computer-bv",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Suzhou BlackShields Environment Co., Ltd.",
@@ -20684,8 +20684,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/suzhou-blackshields-environment-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Synology Incorporated",
@@ -20695,8 +20695,8 @@ const companiesData = [
     "description": "Synology Inc. is a leading provider of network-attached storage (NAS), surveillance, and networking solutions, committed to delivering secure, reliable, and scalable data management. Founded in 2000 and headquartered in Taipei, Ta ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/synology-incorporated",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Tally Software Solutions FZCO",
@@ -20715,7 +20715,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tally-software-solutions-fzco",
     "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_score": 0.0
   },
   {
     "name": "TechBiz Global GmbH",
@@ -20734,8 +20734,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/techbiz-global-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "TECHx Media",
@@ -20745,8 +20745,8 @@ const companiesData = [
     "description": "Headquartered in the Dubai, TECHx Media, a full-service Media & Publication House exclusively dedicated to ICT ecosystem across MEA region. Registered with the National Media Council of the UAE, we are at the forefront of technolo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/techx-media",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Telecom Worldwide Magazine Ltd.",
@@ -20759,8 +20759,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/telecom-worldwide-magazine-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Tenstorrent",
@@ -20770,8 +20770,8 @@ const companiesData = [
     "description": "Tenstorrent is a next-generation computing company that builds computers for AI. Headquartered in the U.S. with offices in Austin, Texas, and Silicon Valley, and global offices in Toronto, Belgrade, Seoul, Tokyo, and Bangalore, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tenstorrent",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "The DataTech Labs Inc",
@@ -20781,8 +20781,8 @@ const companiesData = [
     "description": "The DataTech Labs (TDTL) is an AI transformation company specializing in agentic AI, full-stack platforms, and intelligent automation to deliver scalable, production-ready AI systems for enterprises and governments. We empower en ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-datatech-labs-inc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Timekettle",
@@ -20797,8 +20797,8 @@ const companiesData = [
       "Speech Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/timekettle",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "TORRY HARRIS BUSINESS SOLUTIONS PRIVATE LIMITED",
@@ -20819,8 +20819,8 @@ const companiesData = [
       "Patient Engagement and Experience Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/torry-harris-business-solutions-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Tymor Technologies LLC",
@@ -20841,8 +20841,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tymor-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "UiPath",
@@ -20852,8 +20852,8 @@ const companiesData = [
     "description": "UiPath (NYSE: PATH) is a global leader in agentic automation, empowering enterprises to harness the full potential of AI agents to autonomously execute and optimize complex business processes. The UiPath Platform™ uniquely combi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uipath",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "VISHWAGURU INFOTECH PRIVATE LIMITED",
@@ -20874,8 +20874,8 @@ const companiesData = [
       "Healthcare Information Systems, Software (HIS)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vishwaguru-infotech-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "WAPPNET SYSTEMS PVT LTD",
@@ -20896,8 +20896,8 @@ const companiesData = [
       "Optical character recognition (OCR)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wappnet-systems-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Webuters Technologies Pvt Ltd",
@@ -20918,8 +20918,8 @@ const companiesData = [
       "CRM (Customer Relationship Management) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/webuters-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "White Blink",
@@ -20940,8 +20940,8 @@ const companiesData = [
       "Data Storage Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/white-blink",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Worklife Tech.",
@@ -20951,8 +20951,8 @@ const companiesData = [
     "description": "Worklife Tech – Empowering Digital Transformation & Innovation - is a trusted IT services and staffing partner helping businesses accelerate digital transformation, drive innovation, and scale with agility. Headquartered in Indi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/worklife-tech",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "World Wide Technology",
@@ -20973,8 +20973,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/world-wide-technology",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 60.0
   },
   {
     "name": "XDK Communication Equipment (Huizhou) Co., Ltd.",
@@ -20995,8 +20995,8 @@ const companiesData = [
       "Data Centre Next Generation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xdk-communication-equipment-huizhou-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Xebia Middle East Software Trading L.L.C.",
@@ -21006,8 +21006,8 @@ const companiesData = [
     "description": "Xebia is a leading digital transformation consultancy, providing innovative IT solutions and training. Xebia unites cloud and data modernization, AI, software craftsmanship, and intelligent automation to help companies create digi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xebia-middle-east-software-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Xebia Middle East Software Trading L.L.C.",
@@ -21017,8 +21017,8 @@ const companiesData = [
     "description": "Xebia is a leading digital transformation consultancy, providing innovative IT solutions and training. Xebia unites cloud and data modernization, AI, software craftsmanship, and intelligent automation to help companies create digi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xebia-middle-east-software-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "xFusion",
@@ -21037,8 +21037,8 @@ const companiesData = [
       "Data Centre Next Generation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xfusion",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Zebra Technologies Europe Ltd.",
@@ -21048,8 +21048,8 @@ const companiesData = [
     "description": "Zebra (NASDAQ: ZBRA) provides the tools to help businesses grow with asset visibility, connected frontline workers and intelligent automation. The company operates in more than 100 countries, and our customers include over 80% of ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zebra-technologies-europe-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "ZTT Middle East DMCC",
@@ -21070,8 +21070,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ztt-middle-east-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 1.2
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "EchoTwin Ai",
@@ -21081,8 +21081,8 @@ const companiesData = [
     "description": "EchoTwin AI is a technology innovator enabling the transition to Cognizant Cities—urban environments that sense, understand, and respond to real-world conditions in real time. Using advanced computer vision, visual language mode ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/echotwin-ai",
-    "relevance_stars": 1,
-    "relevance_score": 1.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Finder Group AI FZE",
@@ -21103,8 +21103,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/finder-group-ai-fze",
-    "relevance_stars": 1,
-    "relevance_score": 1.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Advanced Electronics Company",
@@ -21114,8 +21114,8 @@ const companiesData = [
     "description": "SAMI Advanced Electronics Company (SAMI-AEC) is a regional leader in electronics manufacturing and AI-driven smart technology solutions. By integrating proven manufacturing excellence with next-generation artificial intelligence, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/advanced-electronics-company",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "AgileSoftLabs",
@@ -21136,8 +21136,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agilesoftlabs",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ArtygenSpace",
@@ -21158,8 +21158,8 @@ const companiesData = [
       "Immersive technologies - Virtual, Augmented, Mixed Realities - VR, AR, MR"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/artygenspace",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ASYS Inc.",
@@ -21172,7 +21172,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asys-inc",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "BitTwoByte Technology Pvt Ltd",
@@ -21193,8 +21193,8 @@ const companiesData = [
       "Planning and Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bittwobyte-technology-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "COMBA TELECOM",
@@ -21204,8 +21204,8 @@ const companiesData = [
     "description": "Comba is a globally recognized leader in wireless communication solutions, renowned for its cutting-edge R&D, advanced manufacturing capabilities, and comprehensive service network. The Group offers a full suite of products and so ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/comba-telecom",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "D3minds - Smart Factory & AI Solutions",
@@ -21215,8 +21215,8 @@ const companiesData = [
     "description": "A digital transformation partner specializing in innovative software solutions for industries like energy, real estate, manufacturing, insurance, construction, and healthcare. Since 2018, we have focused on engineering, technology ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/d3minds---smart-factory--ai-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DATALEC LLC",
@@ -21233,8 +21233,8 @@ const companiesData = [
       "Security - Physical"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datalec-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Display and Life Co., Ltd.",
@@ -21254,8 +21254,8 @@ const companiesData = [
       "Digital Signage - Video Walls"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/display-and-life-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DONGGUAN TECNOMALL TECHNOLOGY CO., LIMITED",
@@ -21269,7 +21269,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dongguan-tecnomall-technology-co-limited",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "FoxSec",
@@ -21280,7 +21280,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/foxsec",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "GIGABYTE",
@@ -21301,8 +21301,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gigabyte",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "HPRT",
@@ -21313,7 +21313,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hprt",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "Hytera Communications Corporation Limited",
@@ -21324,7 +21324,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hytera-communications-corporation-limited",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "IMILAB",
@@ -21334,8 +21334,8 @@ const companiesData = [
     "description": "At IMILAB, we believe that small families have unique needs for home security solutions, allowing them to care for their property and loved ones without all the fuss. Founded in 2014, IMILAB is a smart home brand dedicated to serv ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imilab",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "INVT DOO Novi Sad",
@@ -21356,8 +21356,8 @@ const companiesData = [
       "Developer Tools / Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/invt-doo-novi-sad",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ISN Spolka z Ograniczona Odpwiedzialnoscia",
@@ -21367,8 +21367,8 @@ const companiesData = [
     "description": "IS-Wireless is a provider of reliable Private 5G solutions addressing use cases of industry 4.0, mission-critical, and campus networks. At the heart of Private 5G is Liquid RAN, a new generation of open, disaggregated radio, which ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/isn-spolka-z-ograniczona-odpwiedzialnoscia",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "I’mU Inc.",
@@ -21381,8 +21381,8 @@ const companiesData = [
       "POS Machines & Payment Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/imu-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Jassway Europe",
@@ -21395,8 +21395,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jassway-europe",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Kerno Enterprises FZE",
@@ -21415,8 +21415,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kerno-enterprises-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Lanner Electronics Inc.",
@@ -21426,8 +21426,8 @@ const companiesData = [
     "description": "Lanner Electronics Inc. (TAIEX 6245) is a world-leading hardware provider in design, engineering, and manufacturing services for advanced network appliances and rugged industrial computers. Lanner provides reliable and customizabl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lanner-electronics-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "MOONCHANG CO.,LTD.",
@@ -21441,8 +21441,8 @@ const companiesData = [
       "Transport Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moonchang-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "NURIFONS CO., LTD.",
@@ -21460,8 +21460,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nurifons-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Odoo Middle East DWC-LLC",
@@ -21472,7 +21472,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/odoo-middle-east-dwc-llc",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "Oman Fiber Optic S.A.O.C",
@@ -21493,8 +21493,8 @@ const companiesData = [
       "Accessories & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oman-fiber-optic-saoc",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Promate Technologies",
@@ -21504,8 +21504,8 @@ const companiesData = [
     "description": "Promate Technologies is a global leader in electronic and computing DMS (Design and Manufacturing Services), with deep expertise in product development and vertically integrated capabilities. Since our inception in Taipei in 2004 ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/promate-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Q-net International Ltd",
@@ -21515,8 +21515,8 @@ const companiesData = [
     "description": "Q-net International Ltd. has been manufacturing hardware (kiosks, displays, banknote detectors) and developing software for queue management systems for over 20 years. We work with resellers, train them and provide technical suppo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/q-net-international-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "REDRAGON",
@@ -21533,7 +21533,7 @@ const companiesData = [
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redragon",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "Shenzhen Itian Technology Co., Ltd",
@@ -21543,8 +21543,8 @@ const companiesData = [
     "description": "Shenzhen ltian Technology Co.,Ltd was established in 2013, is a Qi TX/RXModule supplier also is in a business of ODM & OEM manufacturing for QiWireless Charging product. We have joined WPC (Wireless Power Consortium)in April, 2015 ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-itian-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shenzhen Jeidar Electronics Co.,Ltd",
@@ -21562,8 +21562,8 @@ const companiesData = [
       "Energy Storage Technologies"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-jeidar-electronics-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Shenzhen Unicair Communication Technology Co.,Ltd",
@@ -21576,8 +21576,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-unicair-communication-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Simpl Group (PI-IT.LLC)",
@@ -21598,8 +21598,8 @@ const companiesData = [
       "Carbon Management & Storage - CSS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/simpl-group-pi-itllc",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Sysmate Co., Ltd - KR",
@@ -21619,8 +21619,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sysmate-co-ltd---kr",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Thinkview International Ltd",
@@ -21631,7 +21631,7 @@ const companiesData = [
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thinkview-international-ltd",
     "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_score": 0.0
   },
   {
     "name": "ZYDCO ERP",
@@ -21641,8 +21641,8 @@ const companiesData = [
     "description": "ZYDCO is a next-generation ERP solutions provider, built to empower businesses with AI-driven intelligence, flexibility, and compliance-ready frameworks. Designed for enterprises embracing Industry 4.0, ZYDCO combines advanced aut ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zydco-erp",
-    "relevance_stars": 1,
-    "relevance_score": 0.8
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "247connect by NetSupport",
@@ -21685,8 +21685,8 @@ const companiesData = [
       "Air Quality & Pollution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/3pillars-companies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "42Gears",
@@ -21707,8 +21707,8 @@ const companiesData = [
       "Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/42gears",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "7Generation LLC",
@@ -21735,8 +21735,8 @@ const companiesData = [
       "Cryptocurrency/ ICOs/ STOs / Tokens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/a2co-advisory-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AAI Labs",
@@ -21746,8 +21746,8 @@ const companiesData = [
     "description": "AAI Labs is a leading AI solutions company. Our team of over 40 AI specialists excels in machine learning, data science, and AI product development, delivering cutting-edge solutions across finance, healthcare, logistics, and publ ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aai-labs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Aaryan Telecom FZCO",
@@ -21775,8 +21775,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aayan-trading-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "AB Ark Private Limited",
@@ -21797,8 +21797,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ab-ark-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Able Tech SPA",
@@ -21819,8 +21819,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/able-tech-spa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "AC AI Convergence LLC",
@@ -21880,8 +21880,8 @@ const companiesData = [
       "Blockchain for Healthcare"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/acronis-international-gmbh---ch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Actual I.T. D.D.",
@@ -21902,8 +21902,8 @@ const companiesData = [
       "Network & Infrastructure Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/actual-it-dd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Adaptive Recognition",
@@ -21919,8 +21919,8 @@ const companiesData = [
       "Government Authorities & Municipalities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/adaptive-recognition",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Adtran",
@@ -21930,8 +21930,8 @@ const companiesData = [
     "description": "Adtran is a leading global fiber networking provider focused on open, disaggregated fiber access platforms, intelligent SaaS applications and connected home solutions. With the merger of ADVA, the portfolio expands to include open ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/adtran",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Advanced Innovation Trading Company",
@@ -21952,8 +21952,8 @@ const companiesData = [
       "Digitization / services / tool and die making - Digitization and software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/advanced-innovation-trading-company",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Aegasis Labs",
@@ -21985,8 +21985,8 @@ const companiesData = [
     "description": "Agents Stack is a full-stack AI consulting firm and technology platform primarily focused on providing enterprise-grade AI agent solutions. The company offers a low-code platform that allows organizations to build and deploy custo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agents-stack",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Agile Agilist",
@@ -21996,8 +21996,8 @@ const companiesData = [
     "description": "We transform enterprises with innovation and Scaled Agile practices to lead technology change at scale. Our services combine consulting, training, and coaching to accelerate adoption of new technologies, modernize operations, and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/agile-agilist",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AHA Co., Ltd.",
@@ -22012,8 +22012,8 @@ const companiesData = [
       "Smart Class Room Solution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aha-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AI School LLP",
@@ -22040,8 +22040,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ai71",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ailat Holding Ltd.",
@@ -22062,8 +22062,8 @@ const companiesData = [
     "description": "A Forbes Asia “100 companies to Watch” company who specializes in the research and development of artificial intelligence technologies in laboratory diagnostics, the production of related diagnostics hardware and provision of ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aimagine-care-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Airia",
@@ -22073,8 +22073,8 @@ const companiesData = [
     "description": "Airia revolutionizes enterprise AI adoption with our innovative platform, integrating advanced models and data sources to streamline workflows into AI-powered agents and assistants. Our platform ensures robust security and respons ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/airia",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "aitnews",
@@ -22090,8 +22090,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aitnews",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Ajman Bank",
@@ -22110,8 +22110,8 @@ const companiesData = [
       "Augmented Reality (AR)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ajman-bank",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Ajman Chamber",
@@ -22165,8 +22165,8 @@ const companiesData = [
     "description": "AKTAWA is the world's only integrated platform covering the entire international trade cycle - from supplier discovery to payment, delivery and customs clearance. Our hybrid model combines - ?cutting-edge digital technology with ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aktawa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Al Hussein Technical University",
@@ -22198,8 +22198,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-jazeera-soft",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Al Manar For Audivisual Media Production",
@@ -22242,8 +22242,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-nahal-it-park--data-center",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Al Thanayyan International One Person Company FZCO",
@@ -22264,8 +22264,8 @@ const companiesData = [
       "Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/al-thanayyan-international-one-person-company-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Alaqan Technologies LLP",
@@ -22297,8 +22297,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/albert-health",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Algebra Intelligence",
@@ -22330,8 +22330,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/algotech-doo-beograd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 62.0
   },
   {
     "name": "Alibaba Cloud (Singapore) Private Limited",
@@ -22341,8 +22341,8 @@ const companiesData = [
     "description": "Founded in 2009, Alibaba Cloud is a prominent global provider of cloud computing and AI technology. Serving as the digital backbone for Alibaba Group, it offers a wide range of services including infrastructure, platform, and appl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alibaba-cloud-singapore-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Almoayyed Computers Middle East (ACME)",
@@ -22352,8 +22352,8 @@ const companiesData = [
     "description": "Almoayyed Computers Middle East (ACME), part of Almoayyed International Group, is a leading Cloud & Managed Service Provider and System Integrator in Bahrain. With more than four decades of experience, ACME implements technology s ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/almoayyed-computers-middle-east-acme",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Alpha Data",
@@ -22363,8 +22363,8 @@ const companiesData = [
     "description": "Alpha Data is one of the leading Digital Transformation providers & Systems Integrator in the Middle East. The company’s diverse portfolio of offerings includes new technologies that encompass Artificial Intelligence (AI). Mobi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alpha-data",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ALPHA DATA",
@@ -22374,8 +22374,8 @@ const companiesData = [
     "description": "Alpha Data is one of the leading Digital Transformation providers & Systems Integrator in the Middle East. The company’s diverse portfolio of offerings includes new technologies that encompass Artificial Intelligence (AI). Mobi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alpha-data",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Alpha Data",
@@ -22390,8 +22390,8 @@ const companiesData = [
       "Design & Product Development - Digitizing of Components"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/alpha-data",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Altarqea Co.",
@@ -22432,8 +22432,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aman-powered-by-themis",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Amazon Web Services EMEA SARL (Branch)",
@@ -22443,8 +22443,8 @@ const companiesData = [
     "description": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—use AWS to be more agi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amazon-web-services-emea-sarl-branch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Ameer Mirzae general trading llc",
@@ -22454,8 +22454,8 @@ const companiesData = [
     "description": "Joyroom UAE, operated by the Ameer Mirzai Group (established 1977), is the authorized distributor of premium Joyroom digital accessories in the UAE. We offer a comprehensive range of innovative products—from smart chargers, powe ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ameer-mirzae-general-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AMIVIZ DMCC",
@@ -22465,8 +22465,8 @@ const companiesData = [
     "description": "We represent over 40 top-tier and niche cybersecurity vendors, covering the full spectrum of solutions—from Endpoint Protection and Identity Management to Threat Intelligence, Cloud Security, Network & Data Analytics, and Risk & ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amiviz-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Amzur Technologies, Inc.",
@@ -22487,8 +22487,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/amzur-technologies-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Anomali",
@@ -22501,8 +22501,8 @@ const companiesData = [
       "Operations Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/anomali",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Antino",
@@ -22523,8 +22523,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/antino",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "AppsCode Inc.",
@@ -22534,8 +22534,8 @@ const companiesData = [
     "description": "Kubernetes Native Data Platform",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/appscode-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Apptunix Technologies LLC",
@@ -22556,8 +22556,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/apptunix-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "AppXite",
@@ -22578,8 +22578,8 @@ const companiesData = [
       "E-Commerce Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/appxite",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Aptec Distribution FZ LLC",
@@ -22600,8 +22600,8 @@ const companiesData = [
       "Digital Forensics & Incident Response"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aptec-distribution-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Aquila",
@@ -22622,8 +22622,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aquila",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "AQUILA I - FZCO",
@@ -22644,8 +22644,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aquila-i----fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ARAB FINANCIAL SERVICES CO. B.S.C.",
@@ -22674,8 +22674,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/aram-huvis-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Arctera Operations Limited",
@@ -22685,8 +22685,8 @@ const companiesData = [
     "description": "Arctera helps organizations around the world thrive by ensuring they can trust, access, and illuminate their data from creation to retirement. Created in 2024 from Veritas Technologies, an industry leader in secure multi-cloud dat ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arctera-operations-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Areen Solutions",
@@ -22718,8 +22718,8 @@ const companiesData = [
     "description": "ARNA is an AI, Big Data Analytics and BI Expert Company operating in three key areas: 1. Safety, Security, and Surveillance Solutions **Enables smart video management and video analytics (iVms) through smart object and multi-obje ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/arna-technology-group-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ARRAY Innovation",
@@ -22740,8 +22740,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/array-innovation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "ASCANIO",
@@ -22762,8 +22762,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ascanio",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ASRock Rack Incorporation",
@@ -22773,8 +22773,8 @@ const companiesData = [
     "description": "ASRock Rack Inc., established in 2013, specialized in the field of Cloud Computing server hardware. While inheriting ASRock’s design concepts, “Creativity, Consideration, Cost-effectiveness”, the company is dedicated to brin ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asrock-rack-incorporation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AST MIDDLE EAST DMCC",
@@ -22795,8 +22795,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ast-middle-east-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Astrome Technologies Pvt Ltd",
@@ -22815,8 +22815,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/astrome-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Asura Technologies",
@@ -22826,8 +22826,8 @@ const companiesData = [
     "description": "ASURA is an AI-driven technology and solution provider based in Budapest, Hungary. From the very beginning in 2017, ASURA has been developing its own innovative software platform, supplying video analytics solutions free of physic ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asura-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ASUS MIDDLE EAST FZCO DUBAI BRANCH",
@@ -22837,8 +22837,8 @@ const companiesData = [
     "description": "ASUS is a Taiwan-based, multinational computer hardware and consumer electronics company that was established in 1989. Dedicated to creating products for today’s and tomorrow’s smart life, ASUS is the world’s No. 1 motherboa ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/asus-middle-east-fzco-dubai-branch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ATME B.S.C.",
@@ -22853,8 +22853,8 @@ const companiesData = [
       "E-Commerce Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/atme-bsc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Avahi Inc",
@@ -22875,8 +22875,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/avahi-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "AVM AI Partners LLP",
@@ -22897,8 +22897,8 @@ const companiesData = [
     "description": "Axigen is a premium, scalable, all-in-one Windows & Linux mail server software. A free mail server version is available for personal and lab use, along with the business mail server and the MSP mail server, for Managed Service Pro ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/axigen",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "AXIOMIO IT SERVICES PRIVATE LIMITED",
@@ -22919,8 +22919,8 @@ const companiesData = [
       "Cost Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/axiomio-it-services-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ayvo",
@@ -22955,8 +22955,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/babbar-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Bahrain Economic Development Board",
@@ -22966,8 +22966,8 @@ const companiesData = [
     "description": "Bahrain Economic Development Board (Bahrain EDB) is an investment promotion agency with overall responsibility for attracting investment into the Kingdom and supporting initiatives that enhance the investment climate. Bahrain ED ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bahrain-economic-development-board",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Bakson Ltd",
@@ -22988,8 +22988,8 @@ const companiesData = [
       "R Programming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bakson-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Barracuda",
@@ -22999,8 +22999,8 @@ const companiesData = [
     "description": "Barracuda is a leading cybersecurity company providing complete protection against complex threats. Hundreds of thousands of IT professionals and managed service providers worldwide trust Barracuda to protect and support them. Our ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/barracuda",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Basatne",
@@ -23010,8 +23010,8 @@ const companiesData = [
     "description": "Basatne is a global leader in circular technology and sustainable commerce, providing end-to-end solutions in electronics distribution, reverse logistics, and device lifecycle management. Operating across North America, Middle Eas ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/basatne",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "BaseCam Electronics",
@@ -23021,8 +23021,8 @@ const companiesData = [
     "description": "BaseCam Electronics offers all the essential products to build high-quality stabilization systems for photo and video cameras. Our technology is based on direct-drive brushless motors, ensuring smooth movement or complete stillnes ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/basecam-electronics",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "BCCS Cluster",
@@ -23043,8 +23043,8 @@ const companiesData = [
       "Cryptocurrency/ ICOs/ STOs / Tokens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bccs-cluster",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Beijing Go Global Hub for Digital Economy Enterprise",
@@ -23054,8 +23054,8 @@ const companiesData = [
     "description": "Beijing Go Global Hub is China's first one stop service platform for facilitating the globalization of Chinese enterprises.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-go-global-hub-for-digital-economy-enterprise",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Beijing Guang'an Xuanguang",
@@ -23097,8 +23097,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beijing-yvniao-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Bestvantage Investments",
@@ -23130,8 +23130,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/beyon",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Big Dream Lab",
@@ -23152,8 +23152,8 @@ const companiesData = [
       "Vocational Training – Software & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/big-dream-lab",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Bimser",
@@ -23174,8 +23174,8 @@ const companiesData = [
       "ESG Business Services - Advisory"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bimser",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Birla Cable Limited",
@@ -23192,8 +23192,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/birla-cable-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Biruni Technopark",
@@ -23223,8 +23223,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blackbelt360",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Blackstone eIT",
@@ -23234,8 +23234,8 @@ const companiesData = [
     "description": "BlackStone eIT is a global leader and partner in digital transformation, functioning as both a premier System Integrator (SI) and an innovative Independent Software Vendor (ISV). Our core mission is to enable organizations worldwi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/blackstone-eit",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Bluerush Inc.",
@@ -23267,8 +23267,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bluetec-computers-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "BOOPRO TECHNOLOGY DOO",
@@ -23321,8 +23321,8 @@ const companiesData = [
       "Design & Product Development - Industrial design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/botpenguin-ai-agents-ai-voicebots-ai-chatbots",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Bottobo Robotics",
@@ -23354,8 +23354,8 @@ const companiesData = [
       "Critical Power"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bpc-energy-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "BPS",
@@ -23368,8 +23368,8 @@ const companiesData = [
       "Video"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bps",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Brain Station 23 LLC",
@@ -23390,8 +23390,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/brain-station-23-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Branch Austin McCormick LLP",
@@ -23403,8 +23403,8 @@ const companiesData = [
       "Business & professional services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/branch-austin-mccormick-llp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Briticom",
@@ -23425,8 +23425,8 @@ const companiesData = [
       "Military Communication Equipment & Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/briticom",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "BROADBIT BATTERIES OY",
@@ -23447,8 +23447,8 @@ const companiesData = [
       "Smart Grids"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/broadbit-batteries-oy",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "BROTHER",
@@ -23498,8 +23498,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/business-experts-m-e-a-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Business Line",
@@ -23520,8 +23520,8 @@ const companiesData = [
     "description": "Büyütech develops and manufactures AI-powered camera and perception systems that enhance safety, compliance, and autonomy across mobility industries. Its products include Driver and Occupant Monitoring Systems, Surround View and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/buyutech",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "BVI Hong Kong Office",
@@ -23536,8 +23536,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/bvi-hong-kong-office",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "CALIBERFOCUS BUSINESS SOLUTIONS PRIVATE LIMITED",
@@ -23558,8 +23558,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/caliberfocus-business-solutions-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Cambridge Industries USA Inc",
@@ -23580,8 +23580,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cambridge-industries-usa-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "Canakkale Teknoloji Gelistirme Bolgesi A.S.",
@@ -23604,8 +23604,8 @@ const companiesData = [
     "description": "Y Combinator-backed AI-powered smart fleet operations platform that saves companies time and money. We are accepting UAE investors for our Series B!",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/carma",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "CASTLE ADVANCED TECHNOLOGIES & SYSTEMS PVT. LTD.",
@@ -23637,8 +23637,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cdnnow",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Cell Axis FZE",
@@ -23653,8 +23653,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cell-axis-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Cell Nation FZE - AE",
@@ -23697,8 +23697,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cerebras-systems-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Cestel d.o.o.",
@@ -23730,8 +23730,8 @@ const companiesData = [
       "Procurement Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cetas-information-technology-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Changzhou CO-NET Electronic Technology Co., Ltd",
@@ -23747,8 +23747,8 @@ const companiesData = [
       "Data Management Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/changzhou-co-net-electronic-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Changzhou LINKET Electronic Technology Co., Ltd",
@@ -23765,8 +23765,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/changzhou-linket-electronic-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Charity Coordination Council",
@@ -23787,8 +23787,8 @@ const companiesData = [
     "description": "Check Point Software Technologies Ltd. (www.checkpoint.com) is a leading protector of digital trust, utilizing AI-powered cyber security solutions to safeguard over 100,000 organizations globally. Through its Infinity Platform and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/check-point-software-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Chengdu Huajing Communication Equipment Co., Ltd.",
@@ -23802,8 +23802,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chengdu-huajing-communication-equipment-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "ChicMic Studios",
@@ -23824,8 +23824,8 @@ const companiesData = [
       "Console Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chicmic-studios",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "China Electronics Information Services Co LTD.",
@@ -23835,8 +23835,8 @@ const companiesData = [
     "description": "China Electronics Information Service Co, LTD (referred to as \\\"CEClS\\\") is the professional group of CEC, which dedicates in supply chain services for electronics & information industry. With long-term deep cultivation of the suppl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/china-electronics-information-services-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "China Telecom Global Limited",
@@ -23857,8 +23857,8 @@ const companiesData = [
     "description": "Established in 2004 and located in Shenzhen, CHUWI Innovation Technology Co., Ltd. is a consumer electronic comprehensive High-Tech company. As a TOP3 Internet PC brand in China, it has its own extraordinary R&D ability, great rep ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/chuwi-innovation-and-technology-shenzhencoltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "CimTrak by Cimcor",
@@ -23868,8 +23868,8 @@ const companiesData = [
     "description": "Cimcor is a U.S.-based cybersecurity software company dedicated to helping organizations protect critical systems, maintain compliance, and strengthen resilience. Our flagship solution, CimTrak, is trusted by enterprises and gover ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cimtrak-by-cimcor",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cisco Systems International FZ-LLC",
@@ -23890,8 +23890,8 @@ const companiesData = [
     "description": "MiCloudSW Ltd. (an Affiliate of Midis Group) is Cloud Software Group’s Strategic Partner for the majority of Africa, Eastern Europe and Middle East. A leading technology partner providing managed IT services and consultancy, sys ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/citrix",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "CLA Malta",
@@ -23905,8 +23905,8 @@ const companiesData = [
       "ESG Business Services - Advisory"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cla-malta",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cleverence Middle East FZCO",
@@ -23938,8 +23938,8 @@ const companiesData = [
       "Training materials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloudin",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Cloudangles",
@@ -23960,8 +23960,8 @@ const companiesData = [
       "Data Management - Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloudangles",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "cloudDFN",
@@ -23979,8 +23979,8 @@ const companiesData = [
       "Application Security, Testing & Control"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/clouddfn",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Cloudera Middle East FZ-LLC",
@@ -23990,8 +23990,8 @@ const companiesData = [
     "description": "Cloudera is the only true hybrid platform for data, analytics, and AI.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloudera-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Cloudflare Middle East FZ-LLC",
@@ -24010,8 +24010,8 @@ const companiesData = [
       "Ransomware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloudflare-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Cloudiogram",
@@ -24032,8 +24032,8 @@ const companiesData = [
       "Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cloudiogram",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "CMV TEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI",
@@ -24052,8 +24052,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cmv-teknoloji-sanayi-ve-ticaret-limited-sirketi",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "CODE81",
@@ -24074,8 +24074,8 @@ const companiesData = [
       "Data Sciences"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/code81",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Codepresso Inc",
@@ -24088,8 +24088,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/codepresso-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Cohesity",
@@ -24099,8 +24099,8 @@ const companiesData = [
     "description": "Cohesity is the leader in AI-powered data security. Over 12,000 enterprise customers, including over 85 of the Fortune 100 and nearly 70% of the Global 500, rely on Cohesity to strengthen their resilience while providing Gen AI ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cohesity",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Colendi",
@@ -24142,8 +24142,8 @@ const companiesData = [
       "Enterprise Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/comitas",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "COMMSCOPE SOLUTIONS INTERNATIONAL, INC.",
@@ -24164,8 +24164,8 @@ const companiesData = [
     "description": "The Community Development Authority (CDA) is a dedicated public-sector organization focused on the holistic development and revitalization of communities. Established to promote sustainable growth, the CDA plays a pivotal role in ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/community-development-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "CommVault Systems Dubai",
@@ -24186,8 +24186,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/commvault-systems-dubai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Comply.Land",
@@ -24208,8 +24208,8 @@ const companiesData = [
       "VOIP Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/complyland",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Computer World WLL",
@@ -24230,8 +24230,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/computer-world-wll",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Comtinu",
@@ -24248,8 +24248,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/comtinu",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Conacent Consulting Pvt Ltd",
@@ -24270,8 +24270,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/conacent-consulting-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Connect Communication FZCO",
@@ -24292,8 +24292,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/connect-communication-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "CoolIT Systems",
@@ -24336,8 +24336,8 @@ const companiesData = [
       "Ransomware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cpx-holding---llc---opc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Creatio EMEA LTD",
@@ -24347,8 +24347,8 @@ const companiesData = [
     "description": "Creatio is a global vendor of an AI-native platform to automate CRM and workflows with no-code. Millions of workflows are launched on our platform daily in 100 countries by thousands of clients. Genuine care for our clients and pa ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/creatio-emea-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Creative Solutions",
@@ -24369,8 +24369,8 @@ const companiesData = [
       "Supply Chain & Logistics - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/creative-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Crowdstrike Middle East DMCC",
@@ -24380,8 +24380,8 @@ const companiesData = [
     "description": "CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with the world’s most advanced cloud-native platform for protecting critical areas of enterprise risk — endpoints and cloud workloads, id ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/crowdstrike-middle-east-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Crowe LLP",
@@ -24402,8 +24402,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/crowe-llp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "CTL Spain SL",
@@ -24424,8 +24424,8 @@ const companiesData = [
     "description": "Founded in 1987, CWS Digital Solutions has been a system integrator and software house for 35 years, supporting organizations in the digitalization of work, consumption, entertainment and production with innovative solutions that ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cws",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "CybelAngel",
@@ -24444,8 +24444,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cybelangel",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Cyber Dexterity",
@@ -24466,8 +24466,8 @@ const companiesData = [
       "Learning strategy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cyber-dexterity",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Cyber Infrastructure - CIS",
@@ -24488,8 +24488,8 @@ const companiesData = [
       "Virtual Reality (VR)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/cyber-infrastructure---cis",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Cyber Security Council",
@@ -24532,8 +24532,8 @@ const companiesData = [
     "description": "Daisytek computers was once just a vision of a man who dreamed big. With ambitious goals and a fearless gut the company was founded in 1991 to capture a market that was yet unknown in this region. Over the years Daisytek has grow ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/daisytek-computers-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DAON C&T Co.,Ltd",
@@ -24580,8 +24580,8 @@ const companiesData = [
       "Data Warehouse"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/data-under-control-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "DataCanvas",
@@ -24602,8 +24602,8 @@ const companiesData = [
       "Cloud Service Provider - CSP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datacanvas",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "DataCouch",
@@ -24624,8 +24624,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datacouch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Datadog",
@@ -24646,8 +24646,8 @@ const companiesData = [
       "Data Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/datadog",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Dataiku - CODE81",
@@ -24690,8 +24690,8 @@ const companiesData = [
     "description": "The Universal AI Platform™ for Orchestrating Enterprise AI Unlock the creation of analytics, models, & agents that people trust — with the control you need to scale. Dataiku was founded on the principle that in order to succe ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dataiku-ai-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "DataoceanAI",
@@ -24701,8 +24701,8 @@ const companiesData = [
     "description": "We empower more than 1100 AI enterprises and academic institutes on R&D with constantly offering over 1790 high quality OTS datasets and customized services, including Generative AI, Ethical AI and Machine Learning, that enable cl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dataoceanai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "DATAPROTECT",
@@ -24712,8 +24712,8 @@ const companiesData = [
     "description": "With its 250 cybersecurity pool, it delivers a 360° cybersecurity offering that spans Cyber Defense, Managed Security Services (MSSP), Offensive Security, Governance, Risk & Compliance, Security Intelligence, cloud security and c ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dataprotect",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dawnergy Technologies (Shanghai) Co.,Ltd",
@@ -24731,8 +24731,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dawnergy-technologies-shanghai-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "DBLINK",
@@ -24760,8 +24760,8 @@ const companiesData = [
       "Digital Signage - LED Signage"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ddfpos-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Deel",
@@ -24771,8 +24771,8 @@ const companiesData = [
     "description": "Deel is the all-in-one payroll and HR platform for global teams. It helps companies simplify every aspect of managing a workforce, from onboarding, compliance and performance management, to global payroll, HRIS and immigration sup ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deel",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DEEPNOID",
@@ -24785,8 +24785,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/deepnoid",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Deki Electronics Limited- SureSolutions",
@@ -24813,8 +24813,8 @@ const companiesData = [
       "Security Credentials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/delinea-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Dell Technologies",
@@ -24857,8 +24857,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/delphi-consulting-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Demis",
@@ -24898,8 +24898,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/department-of-economic-development",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Department of Finance",
@@ -24975,8 +24975,8 @@ const companiesData = [
     "description": "Development Agency of Serbia (RAS) is a government organization offering a wide range of services including support to direct investments, competitiveness and export promotion, leading the implementation of projects aiming to impr ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/development-agency-of-serbia--rs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dexatel",
@@ -24997,8 +24997,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dexatel",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "DFLUX INC.",
@@ -25017,8 +25017,8 @@ const companiesData = [
       "Advertising"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dflux-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dhanguard Consultancy",
@@ -25032,8 +25032,8 @@ const companiesData = [
       "Document Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dhanguard-consultancy",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dibba Municipality",
@@ -25051,8 +25051,8 @@ const companiesData = [
       "Apprenticeship, Training and Qualification"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dibba-municipality",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DIFC Courts",
@@ -25065,8 +25065,8 @@ const companiesData = [
       "ESG Business Services - Legal"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/difc-courts",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dify",
@@ -25087,8 +25087,8 @@ const companiesData = [
     "description": "Digital Dubai was established by His Highness Sheikh Mohammed Bin Rashid Al Maktoum, Vice-President & Prime Minister of the UAE, and Ruler of Dubai, in June 2021 to develop and oversee the implementation of city-wide digital trans ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-dubai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Digital Processing Systems Kuwait",
@@ -25109,8 +25109,8 @@ const companiesData = [
       "Devops"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-processing-systems-kuwait",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Digital Walls Consulting Pvt. Ltd",
@@ -25131,8 +25131,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digital-walls-consulting-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "DigitalOcean Cloud",
@@ -25153,8 +25153,8 @@ const companiesData = [
       "Private Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/digitalocean-cloud",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Direct Cursus Technology L.L.C",
@@ -25191,8 +25191,8 @@ const companiesData = [
       "Video"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dob-studio-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Dongguan Yingdi Commercial Equipment Co., Ltd",
@@ -25205,8 +25205,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dongguan-yingdi-commercial-equipment-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dr Fones Ltd",
@@ -25220,8 +25220,8 @@ const companiesData = [
       "Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dr-fones-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Dream Field General Trading llc",
@@ -25242,8 +25242,8 @@ const companiesData = [
     "description": "Dremio is the intelligent lakehouse platform trusted by hundreds of global enterprises, including Digital Dubai, Turkish Airlines, Commercial Bank of Qatar, Tanobel Food, Amazon and Shell. AI and analytics initiatives face signi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dremio",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Drivesec Srl",
@@ -25253,8 +25253,8 @@ const companiesData = [
     "description": "Drivesec supports its clients in providing the best available security solutions, all capable of ensuring top-notch secure coding prac-tices and compliance with current regulations. Key success factors include significant knowledg ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/drivesec-srl",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Airports",
@@ -25275,8 +25275,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-airports",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Dubai Chambers",
@@ -25289,8 +25289,8 @@ const companiesData = [
       "eCommerce Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-chambers",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Civil Aviation Authority",
@@ -25311,8 +25311,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-civil-aviation-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Dubai Civil Defense",
@@ -25325,8 +25325,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-civil-defense",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Dubai Corporation for Ambulance Services",
@@ -25336,8 +25336,8 @@ const companiesData = [
     "description": "Dubai Corporation for Ambulance Services: Leading the Future of Emergency Care The Dubai Corporation for Ambulance Services (DCAS) is a pioneering government entity in the Emirate of Dubai, dedicated to providing innovative, worl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-corporation-for-ambulance-services",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Courts",
@@ -25347,8 +25347,8 @@ const companiesData = [
     "description": "The Dubai Court of First Instance, Appeal and Cassation were established under consecutive laws, the first law was passed on September 8,1970 determining to establish Dubai Courts, specifying its chief judges, and divided into per ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-courts",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Culture & Arts Authority",
@@ -25377,8 +25377,8 @@ const companiesData = [
       "eCommerce Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-customs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Dubai Economy and Tourism",
@@ -25392,8 +25392,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-economy-and-tourism",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Dubai Electricity & Water Authority",
@@ -25403,8 +25403,8 @@ const companiesData = [
     "description": "Dubai Electricity and Water Authority (DEWA), established in 1992, resulted from the merger of Dubai Electricity Company and Dubai Water Department, which had operated separately since 1959. Supported by Dubai’s Government, DEWA ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-electricity--water-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Finance",
@@ -25425,8 +25425,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-finance",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Dubai Financial Market",
@@ -25436,8 +25436,8 @@ const companiesData = [
     "description": "Dubai Financial Market (DFM) is the leading financial market in the region, operating as a thriving and powerful multi-platform marketplace for raising capital, listing and trading across a range of securities and asset classes. ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-financial-market",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Dubai Financial Services Authority",
@@ -25458,8 +25458,8 @@ const companiesData = [
       "Data Governance, Risk & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-financial-services-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Future Foundation",
@@ -25469,8 +25469,8 @@ const companiesData = [
     "description": "Our aim is to make Dubai one of the world’s foremost future cities.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-future-foundation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Government Human Resources Department",
@@ -25491,8 +25491,8 @@ const companiesData = [
       "Governance & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-government-human-resources-department",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Dubai Health Authority",
@@ -25509,8 +25509,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-health-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Dubai Humanitarian",
@@ -25531,8 +25531,8 @@ const companiesData = [
     "description": "Established in 2021, the Dubai Integrated Economic Zones Authority (DIEZ) was formed with the aim of strengthening Dubai’s position as a leading global business hub by offering a state-of-the-art multimodal ecosystem, a worldwid ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-integrated-economic-zones-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai International Financial Center",
@@ -25545,8 +25545,8 @@ const companiesData = [
       "Asset Management / Personal Finance / Wealth Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-international-financial-center",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Internet City",
@@ -25556,8 +25556,8 @@ const companiesData = [
     "description": "Dubai Internet City is the region’s leading tech hub #WhereMindsClick. We believe innovation is not a formula, it’s a collective effort and nobody does it better than our tech community comprising brilliant minds and businesse ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-internet-city",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Dubai Judicial Institute",
@@ -25596,8 +25596,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dubai-police-ghq",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Dubai Public Prosecution",
@@ -25640,8 +25640,8 @@ const companiesData = [
       "Video Game Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dworld-malta",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "DWTC Co2 banner",
@@ -25660,8 +25660,8 @@ const companiesData = [
       "Data Management Technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dwtc-co2-banner",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "DWTC Co4 banner",
@@ -25682,8 +25682,8 @@ const companiesData = [
       "Data Governance, Compliance & Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dwtc-co4-banner",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "DWTC Co5 banner",
@@ -25732,8 +25732,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/dynatrace",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "e& etisalat and",
@@ -25753,8 +25753,8 @@ const companiesData = [
       "Converged / Unified Communications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/e-etisalat-and",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "East Photonics Inc.",
@@ -25773,8 +25773,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/east-photonics-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Eastern Trade wings limited",
@@ -25806,8 +25806,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ebos-technologies-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ecoATM",
@@ -25820,8 +25820,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ecoatm",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "ECOBLOX DWC-LLC",
@@ -25842,8 +25842,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ecoblox-dwc-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Economy Middle East",
@@ -25864,8 +25864,8 @@ const companiesData = [
       "Event Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/economy-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "EDB",
@@ -25883,8 +25883,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/edb",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Edeaplatz Co.,Ltd",
@@ -25900,8 +25900,8 @@ const companiesData = [
       "Digital Signage - Content Creators"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/edeaplatz-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Edgecore Networks Corporation",
@@ -25920,8 +25920,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/edgecore-networks-corporation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "EdgeNext",
@@ -25942,8 +25942,8 @@ const companiesData = [
       "Private Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/edgenext",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Edis",
@@ -25986,8 +25986,8 @@ const companiesData = [
       "Web Hosting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/efacility--enterprise-facility-management-software-iwms--cafm-software",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "EFM S.A.",
@@ -25997,8 +25997,8 @@ const companiesData = [
     "description": "EFM is an Invention Driven Enterprise, which aims to significantly accelerate the diagnosis of two critical diseases - Chronic Heart Failure and Chronic Obstructive Pulmunary Disease. Currently, doctors don't have a tool to quickl ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/efm-sa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "EI-Technologies MENA",
@@ -26008,8 +26008,8 @@ const companiesData = [
     "description": "EI-Technologies MENA, part of the NEO-DIS.COM Group, is a CRM and AI-focused consultancy helping businesses across the GCC leverage Salesforce and cloud solutions to enhance customer and employee experiences. With offices in Dubai ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ei-technologies-mena",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "EJAF Co.",
@@ -26034,8 +26034,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ekinops",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Electronics and Computer Software Export Promotion Council",
@@ -26078,8 +26078,8 @@ const companiesData = [
     "description": "Emirates Auction specializes in automobiles, vehicle license plates, real estate, properties, asset liquidation, VIP mobile numbers, jewelry, time-sensitive items, and heavy machinery, along with plant and construction equipment. ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-auction",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Emirates Courier Express",
@@ -26119,8 +26119,8 @@ const companiesData = [
       "Facial / Iris Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-face-recognition-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Emirates Global Aluminium",
@@ -26152,8 +26152,8 @@ const companiesData = [
     "description": "du adds life to life with a comprehensive portfolio of mobile, fixed, broadband, ICT, and fintech solutions. Through a digital-first approach powered by ultra-reliable fiber and 5G technology, du delivers bespoke solutions leverag ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emirates-integrated-telecommunications-company-pjsc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Emircom LLC",
@@ -26163,8 +26163,8 @@ const companiesData = [
     "description": "Emircom is a leading regional systems integrator driving digital transformation across the UAE and Saudi Arabia. With strong capabilities in cybersecurity, cloud, data centers, AI, and managed services, Emircom helps public and pr ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emircom-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Emolo",
@@ -26182,8 +26182,8 @@ const companiesData = [
       "Console Gaming"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/emolo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Empinity",
@@ -26215,8 +26215,8 @@ const companiesData = [
       "Web Hosting"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eney-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Engineersmind Corp.",
@@ -26237,8 +26237,8 @@ const companiesData = [
       "Patient Engagement and Experience Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/engineersmind-corp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Enigmatry",
@@ -26259,8 +26259,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/enigmatry",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ENQURA",
@@ -26281,8 +26281,8 @@ const companiesData = [
       "E-KYC"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/enqura",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ENTREPRENEUR MIDDLE EAST",
@@ -26314,8 +26314,8 @@ const companiesData = [
       "Security Credentials"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/entrust",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Envnt KSA",
@@ -26336,8 +26336,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/envnt-ksa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "EPFL Innovation Park",
@@ -26347,8 +26347,8 @@ const companiesData = [
     "description": "The EPFL Innovation Park supports disruptive innovations and the transfer of technologies of the EPFL and other regional academic partners. It provides flexible office space, training, acceleration and coaching services to 250 hig ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/epfl-innovation-park",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "EPIN Co., Ltd.",
@@ -26375,8 +26375,8 @@ const companiesData = [
     "description": "EPM – Empowering Innovation with Cutting-Edge IT Solutions With over 10,000 successful product installations, EPM is a leading provider of advanced IT solutions across the Middle East. Specializing in Biometrics, AI, CCTV, RFID ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/epm",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Ergomania UX",
@@ -26397,8 +26397,8 @@ const companiesData = [
       "Web App, Design and Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ergomania-ux",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "ERICSSON AB DUBAI BRANCH",
@@ -26416,8 +26416,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ericsson-ab-dubai-branch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Esol",
@@ -26430,8 +26430,8 @@ const companiesData = [
       "EdTech & Smart Classroom Solution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/esol",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "espresso Displays",
@@ -26452,8 +26452,8 @@ const companiesData = [
     "description": "Estonia’s competitive economy supports multinational companies and high-growth startups alike. Estonian businesses use innovative technologies and clean raw materials, investing in sustainability and providing well-priced, world ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/estonian-business-and-innovation-agency",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Eticsoft Bilgi Teknolojilleri A.S.",
@@ -26474,8 +26474,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/eticsoft-bilgi-teknolojilleri-as",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Etihad Water and Electricity",
@@ -26532,8 +26532,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/exclusive-networks",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Expertflow",
@@ -26554,8 +26554,8 @@ const companiesData = [
       "Unified Communications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/expertflow",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Experts Computer LLC",
@@ -26587,8 +26587,8 @@ const companiesData = [
       "Developer Tools / Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/expertware",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "EXPO-VITA Limited Liability Company (EXPO-VITA LLC)",
@@ -26654,8 +26654,8 @@ const companiesData = [
     "description": "FAHR Cater for federal government employees and provide service like: Bayanati System: Smart HR platform for leaves, payroll, promotions, and performance. Training & Development: E-learning, leadership, and future skills programs. ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/federal-authority-for-government-human-resources",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Federal Authority for Nuclear Regulation",
@@ -26683,8 +26683,8 @@ const companiesData = [
       "Taxation Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/federal-tax-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "FEIP",
@@ -26705,8 +26705,8 @@ const companiesData = [
       "Creativity & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/feip",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "FEIP LLC",
@@ -26727,8 +26727,8 @@ const companiesData = [
       "Creativity & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/feip-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Feroot Security",
@@ -26738,8 +26738,8 @@ const companiesData = [
     "description": "Product & AI Capabilities Feroot delivers an AI-powered platform that automates compliance and security for the client-side ecosystem: PaymentGuard AI – Automates PCI DSS 4.0.1 compliance (Requirements 6.4.3 & 11.6.1) for paymen ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/feroot-security",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Filings.ae",
@@ -26752,8 +26752,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/filingsae",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Finance Department",
@@ -26785,8 +26785,8 @@ const companiesData = [
       "Intrusion Detection & Penetration Testing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/finesse-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Five Exceptions Software Solutions",
@@ -26807,8 +26807,8 @@ const companiesData = [
       "Auditing Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/five-exceptions-software-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Flitto",
@@ -26824,8 +26824,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/flitto",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Flyin Group Co., Ltd",
@@ -26846,8 +26846,8 @@ const companiesData = [
       "Cabinets and Enclosures"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/flyin-group-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Forcepoint",
@@ -26879,8 +26879,8 @@ const companiesData = [
       "Banking Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/forcs-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Forescout Technologies",
@@ -26923,8 +26923,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/frappe-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Freshworks",
@@ -26939,8 +26939,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/freshworks",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Fujairah Culture and Media Authority",
@@ -26950,8 +26950,8 @@ const companiesData = [
     "description": "The Fujairah Culture and Media Authority was established in 2006 by an Emiri Decree, with the aim of enhancing performance and actively contributing to fostering a vibrant cultural and media landscape in the United Arab Emirates i ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujairah-culture-and-media-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Fujairah Customs Dept",
@@ -26972,8 +26972,8 @@ const companiesData = [
     "description": "Fujairah Digital Government (FDG) is the official governmental entity responsible for driving the digital transformation and technological advancement of the Emirate of Fujairah. It operates under the vision of His Highness Sheikh ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujairah-digital-government",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Fujairah Environment Authority",
@@ -27005,8 +27005,8 @@ const companiesData = [
     "description": "We are the Fujairah GIS Center, the official authority for geographical and survey information in the Emirate of Fujairah, established under Law No. 3 of 2017. We collect and maintain geospatial datasets such as aerial photography ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujairah-geographic-information-systems-center",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Fujairah Human Resource",
@@ -27038,8 +27038,8 @@ const companiesData = [
     "description": "Established in 1969, Fujairah Municipality manages public services, urban planning, health and safety regulations, and commercial licensing across the Emirate. It is one of the largest government authorities in terms of the servic ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujairah-municipality",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Fujairah Natural Resources Corporation",
@@ -27056,8 +27056,8 @@ const companiesData = [
       "Apprenticeship, Training and Qualification"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fujairah-natural-resources-corporation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Fujairah University",
@@ -27085,8 +27085,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/furiosaai-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Fushion Germany",
@@ -27096,8 +27096,8 @@ const companiesData = [
     "description": "Fushion was founded in Germany in 2016 and focuses on the sales of computers. Fushion maintains long-term and stable cooperative relationships with many excellent Chinese manufacturers. The products exhibited at this exhibition ar ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/fushion-germany",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Futuretech Limited Company",
@@ -27132,8 +27132,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/g42",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "G42",
@@ -27143,8 +27143,8 @@ const companiesData = [
     "description": "Core42, a G42 company, empowers individuals, enterprises, and nations to unlock the full potential of AI through its comprehensive enablement capabilities. As a leading provider of sovereign cloud, AI infrastructure, and Cloud & A ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/g42",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Galaxy Weblinks Inc",
@@ -27171,8 +27171,8 @@ const companiesData = [
       "Control Modules & Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/galileosky--tlt",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Garaj/ Quantica",
@@ -27193,8 +27193,8 @@ const companiesData = [
     "description": "Gazinformservice: Your Trusted Cybersecurity Partner Gazinformservice is a leading developer and integrator of advanced cybersecurity solutions and security engineering systems in Russia. With 21 years of expertise, we deliver tai ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gazinformservice-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GBS GULF TRADING FZE",
@@ -27204,8 +27204,8 @@ const companiesData = [
     "description": "We are a leading Distributor and exporter offering top-tier consumer electronics at unbeatable prices. Our extensive selection includes digital and video cameras, memory cards, laptops, and accessories from renowned brands like Ca ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gbs-gulf-trading-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GC INFORMTEKHNIKA",
@@ -27225,8 +27225,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gc-informtekhnika",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "GEEKAY DISTRIBUTION",
@@ -27236,8 +27236,8 @@ const companiesData = [
     "description": "Geekay Group MEA, based in Dubai, has been a leading name in the Middle East’s gaming industry since 1968. Under the leadership of Mr. Kishan Deepak Palija, the company has grown into a regional powerhouse in Video Games, Toys, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/geekay-distribution",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Gemini Software Solutions Pvt Ltd",
@@ -27258,8 +27258,8 @@ const companiesData = [
       "Digital Transformation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gemini-software-solutions-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "General Civil Aviation Authority - AE",
@@ -27280,8 +27280,8 @@ const companiesData = [
       "Solutions for component processing - Heat treatment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-civil-aviation-authority---ae",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "General Directorate of Residency and Foreigners Affairs",
@@ -27299,8 +27299,8 @@ const companiesData = [
       "Predictive APIs"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/general-directorate-of-residency-and-foreigners-affairs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "General Secretariat of Judicial Council (GSJC)",
@@ -27321,8 +27321,8 @@ const companiesData = [
     "description": "Genesys empowers more than 8,000 organizations in over 100 countries to improve loyalty and business outcomes by creating the best experiences for their customers and employees. Through Genesys Cloud, the AI-Powered Experience Orc ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/genesys",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Genians",
@@ -27365,8 +27365,8 @@ const companiesData = [
       "Visual Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/geointellect-center-for-spatial-research-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Geolab Information Technology",
@@ -27387,8 +27387,8 @@ const companiesData = [
       "Surveying & Mapping"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/geolab-information-technology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 44.0
   },
   {
     "name": "Ghalam LLP",
@@ -27442,8 +27442,8 @@ const companiesData = [
       "PABX Equipment & Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/global-call-forwarding",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "GLOBAL CHIP INDUSTRIAL CO.,LIMITED",
@@ -27456,8 +27456,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/global-chip-industrial-colimited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Global Digital Innovation Network",
@@ -27478,8 +27478,8 @@ const companiesData = [
       "Bioenergy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/global-digital-innovation-network",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Global Genesis Block",
@@ -27489,8 +27489,8 @@ const companiesData = [
     "description": "Our company specializes in blockchain technology, cryptocurrency, and the Web 3.0 domain. During the registration process for GITEX, our company was listed under the name ((Investment And Digital Technology)) with the register nu ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/global-genesis--block",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Globalis International",
@@ -27511,8 +27511,8 @@ const companiesData = [
     "description": "Globe Mobility, which was started as a small-scale distributor has now developed into an extensive distribution house supplying to over 4000+ retail outlets in India. Globe Mobility currently employs 100+ employees. The company is ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globe-mobility-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Globitel UAE (FZ) LLC",
@@ -27533,8 +27533,8 @@ const companiesData = [
       "Networking - Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/globitel-uae-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Glowza Digital",
@@ -27555,8 +27555,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/glowza-digital",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "GNX B.V.",
@@ -27577,8 +27577,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gnx-bv",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Goldor.net",
@@ -27599,8 +27599,8 @@ const companiesData = [
       "E-Commerce Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/goldornet",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Google Cloud",
@@ -27616,8 +27616,8 @@ const companiesData = [
       "Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/google--cloud",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Government of Ajman",
@@ -27627,8 +27627,8 @@ const companiesData = [
     "description": "The Department Digital Ajman is the government entity responsible for driving Ajman's digital transformation. The department develops smart services, data strategies, and digital policies to enhance government efficiency, customer ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/government-of-ajman",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GP Systems",
@@ -27649,8 +27649,8 @@ const companiesData = [
       "Smart Grids"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gp-systems",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "GREAT Britain & Northern Ireland Pavilion",
@@ -27660,8 +27660,8 @@ const companiesData = [
     "description": "Visit the GREAT Britain & Northern Ireland Pavilion at GITEX Global 2025 in Hall 1, Stand H1-B52. Showcasing a diverse group of innovative UK companies, the Pavilion highlights cutting-edge technologies and solutions across a wide ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/great-britain--northern-ireland-pavilion",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "GreenAds Global Pvt Ltd",
@@ -27674,8 +27674,8 @@ const companiesData = [
       "Service Providers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/greenads-global-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Groad",
@@ -27700,8 +27700,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gs---amlcftc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "GSIL Co., Ltd.",
@@ -27721,8 +27721,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gsil-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Gsquare Web technologies Pvt Ltd",
@@ -27743,8 +27743,8 @@ const companiesData = [
       "Enterprise Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gsquare-web-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Guangdong Amplitec Tech Development Co.,Ltd",
@@ -27760,8 +27760,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/guangdong-amplitec-tech-development-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "GUANGZHOU BINGO ELECTRONICS TECHNOLOGY CO.,LTD",
@@ -27810,8 +27810,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/gulf-it-network-distribution-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "H3C Technologies Co., Ltd",
@@ -27821,8 +27821,8 @@ const companiesData = [
     "description": "H3C, a leading provider of digital and AI solutions, is committed to becoming the most trusted partner for customers in their business innovation and digital transformation. Through the deep layout of the whole industrial chain of ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/h3c-technologies-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "HACKBOX PTE.LTD,",
@@ -27843,8 +27843,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hackbox-pteltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Hamdan Bin Mohammed Smart University",
@@ -27859,8 +27859,8 @@ const companiesData = [
       "Mobile learning solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hamdan-bin-mohammed-smart-university",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HAMOOR COMPUTERS LLC + F1 SYSTEMS LLC",
@@ -27881,8 +27881,8 @@ const companiesData = [
     "description": "Hamburg Chamber of Commerce represents 180,000 enterprises as the self-governing body of Hamburg’s business community. Independent of parties yet politically active, we advocate fair competition, market-oriented regulation, and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/handelskammer-hamburg--hamburg-chamber-of-commerce",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hangzhou Zion Communication Co., Ltd",
@@ -27901,8 +27901,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hangzhou-zion-communication-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "hannun3D",
@@ -27923,8 +27923,8 @@ const companiesData = [
       "EdTech & Smart Classroom Solution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hannun3d",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HansaWorld",
@@ -27950,8 +27950,8 @@ const companiesData = [
     "description": "Hansen was established in 1985, located in Zhuhai China. After 40 years of development, Hansen becomes the leading telecom cable manufacturer in China. The main product portfolio includes: 1? High speed cables for Data centers 2 ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hansen-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Harjai Technologies",
@@ -27972,8 +27972,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/harjai-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Harness",
@@ -27983,8 +27983,8 @@ const companiesData = [
     "description": "Harness is a leading software delivery platform designed to help engineering and DevOps teams build, test, deploy, and optimize applications with speed, safety, and efficiency. By combining powerful modules such as CI/CD, Feature ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/harness",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hawsabah | حوسبة",
@@ -28005,8 +28005,8 @@ const companiesData = [
       "Private Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hawsabah--",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Haystack",
@@ -28031,8 +28031,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hebei-far-east-communication-system-engineering-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "HEITEC Hungary Ltd.",
@@ -28042,8 +28042,8 @@ const companiesData = [
     "description": "HEITEC Hungary Ltd., a subsidiary of HEITEC AG (Germany), delivers high-quality engineering services across various industries, focusing on product development (power electronics, hardware, software) and tailored engineering solut ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/heitec-hungary-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "HENEX (GUANGZHOU) TECHNOLOGY CO,.LTD",
@@ -28053,8 +28053,8 @@ const companiesData = [
     "description": "HENEX provides world-wide customers with HENEX brand and OEM/ODM products of omni-directional barcode scanner, 2D desktop barcode scanner, 2D image barcode scanner,CCD barcode scanner, wireless barcode scanners, barcode scanner mo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/henex-guangzhou-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "HEPA Hungarian Export Promotion Agency Nonprofit Ltd. limited by Shares",
@@ -28064,8 +28064,8 @@ const companiesData = [
     "description": "HEPA Hungarian Export Promotion Agency provides professional services to Hungarian companies to launch their products and services abroad through international trade fairs, so thus world-class Hungarian products are represented to ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hepa-hungarian-export-promotion-agency-nonprofit-ltd-limited-by-shares",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hewlett-Packard Middle East FZ-LLC",
@@ -28085,8 +28085,8 @@ const companiesData = [
       "Infrastructure as a Service - IaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hewlett-packard-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "HEXAPRIME TECHNOLOGY CO. LLC",
@@ -28096,8 +28096,8 @@ const companiesData = [
     "description": "At HexaPrime, we want to reach out with the message “We can help. We’ve been there”. Our vision united us and brought us together with the firm belief that we can contribute innovatively and remain on par with the growth and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hexaprime-technology-co-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HFSecurity",
@@ -28118,8 +28118,8 @@ const companiesData = [
       "POS Machines & Payment Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hfsecurity",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HID Corporation Ltd.",
@@ -28156,8 +28156,8 @@ const companiesData = [
       "Ransomware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hillstone-network",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Hindavi",
@@ -28291,8 +28291,8 @@ const companiesData = [
       "Video"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hindavi",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "HNW Research and Management Consultancy",
@@ -28302,8 +28302,8 @@ const companiesData = [
     "description": "HNW helps governments navigate the complexity of public service transformation. We walk alongside leaders who want to deliver services that citizens can trust. We aim to be a catalyst for the next era of government services. ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hnw-research-and-management-consultancy",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "HOLLYLAND",
@@ -28313,8 +28313,8 @@ const companiesData = [
     "description": "Hollyland is a fast-growing wireless technology brand in the global content production market. Since 2013, the brand has grown to be recognized as a leading provider of premium wireless products. Hollyland designs, develops, manuf ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hollyland",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "HOLOGRAM JoyJung",
@@ -28341,8 +28341,8 @@ const companiesData = [
       "Digital Signage - Holograms & Mixed Reality"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hololab-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hong Kong Trade Development Council",
@@ -28352,8 +28352,8 @@ const companiesData = [
     "description": "The Hong Kong Trade Development Council (HKTDC) is a statutory body established in 1966 to promote, assist and develop Hong Kong's trade. With 51 offices globally, including 13 in Mainland China, the HKTDC promotes Hong Kong as a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hong-kong-trade-development-council",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hongan",
@@ -28367,8 +28367,8 @@ const companiesData = [
       "Communication Equipment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hongan",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "HONOR GCC",
@@ -28378,8 +28378,8 @@ const companiesData = [
     "description": "HONOR is a global leading AI device ecosystem company. It is committed to revolutionizing human-to-device interactions to bridge the AI ecosystem with all consumers in the agentic AI era and beyond. The company endeavors to open i ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/honor-gcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hoon Artis",
@@ -28389,8 +28389,8 @@ const companiesData = [
     "description": "\\\"Hoon Artis\\\" is an XR/VR creative technology company that merges culture, education, and innovation into immersive experiences. We build training programs, cultural heritage projects, and interactive festival content that connect ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hoon-artis",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Horizon Information Technology - SA",
@@ -28411,8 +28411,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/horizon-information-technology---sa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Horizontal Digital",
@@ -28433,8 +28433,8 @@ const companiesData = [
     "description": "Founded in 1987, Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. We have more than 208,000 employees, and we operate in more than 170 countries and regions, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/huawei-tech-uae-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "HUCO FZCO",
@@ -28472,8 +28472,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hudsonrock",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Hunan GL Technology Co.,Ltd",
@@ -28491,8 +28491,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hunan-gl-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Hunter Buildings International BV",
@@ -28532,8 +28532,8 @@ const companiesData = [
       "Patient Engagement and Experience Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/huralya",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "HYBON",
@@ -28562,8 +28562,8 @@ const companiesData = [
       "High Performance Computing - HPC"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hyperfusion",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Hypermonk Games",
@@ -28589,8 +28589,8 @@ const companiesData = [
       "Safety & Security Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/hyundai-mib-international",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "IBIK LLC",
@@ -28607,8 +28607,8 @@ const companiesData = [
       "Private Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibik-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "IBM",
@@ -28621,8 +28621,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibm",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "IBM - Adobe",
@@ -28665,8 +28665,8 @@ const companiesData = [
     "description": "Founded in 1990, Gulf Business Machines (GBM) is a leading end-to-end IT solutions provider and systems integrator in the Gulf region. With a strong presence across the UAE, Qatar, Kuwait, Bahrain, and Oman, GBM delivers innovativ ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibm---gbm",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "IBM - iSolutions",
@@ -28676,8 +28676,8 @@ const companiesData = [
     "description": "iSolution is a tech solution company dedicated to providing innovation thus empowering businesses to thrive in the digital age. With a strong focus on delivering exceptional results, iSolution aims to transform the way organizatio ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibm---isolutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "IBM- JBS",
@@ -28687,8 +28687,8 @@ const companiesData = [
     "description": "Jordan Business Systems (JBS) is a leading IT solutions provider in Jordan, offering services in system integration, cloud solutions, cybersecurity, and managed IT services. The company partners with global tech leaders like Cisco ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ibm--jbs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "ICE Information Technology",
@@ -28709,8 +28709,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ice-information-technology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Iceotope Technologies Limited",
@@ -28748,8 +28748,8 @@ const companiesData = [
       "IT Service Management - ITSM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ict-division-bangladesh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "ID Quantique SA",
@@ -28781,8 +28781,8 @@ const companiesData = [
     "description": "IDENTT is a Swiss-Polish technology company with over 20 years of experience in identity verification. We offer proprietary, AI-powered Identity Verification Solutions designed to enhance security, compliance, and customer onboar ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/identt-spzoo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "iFLYTEK Co.,Ltd",
@@ -28802,8 +28802,8 @@ const companiesData = [
       "Data Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/iflytek-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "IGEL Technology GmbH",
@@ -28824,8 +28824,8 @@ const companiesData = [
       "Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/igel-technology-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ilger.com S.r.l.",
@@ -28835,8 +28835,8 @@ const companiesData = [
     "description": "ilger.com’s business strategy focuses on two core beliefs: Open source technology is the future. Cloud delivery is the smart choice. Federico Germi, founder and CEO of ilger.com, said, “The choice to become a Zimbra BSP was ea ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ilgercom-srl",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ILOVEPDF SL",
@@ -28854,8 +28854,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ilovepdf-sl",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Imagine Hub Project Management L.L.C",
@@ -28876,8 +28876,8 @@ const companiesData = [
     "description": "IceWarp is a global leader in developing business email communication and collaboration solutions serving more than 50 million paid users and 50,000 customers worldwide across 50+ countries and has already acquired more than 150+ ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/immenzza-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Incomedia",
@@ -28898,8 +28898,8 @@ const companiesData = [
       "Publishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/incomedia",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "INDATACORE",
@@ -28920,8 +28920,8 @@ const companiesData = [
       "E-Commerce Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/indatacore",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "INDUS LABS",
@@ -28942,8 +28942,8 @@ const companiesData = [
       "Merchandise Planning & Inventory Management - Product Lifecycle Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/indus-labs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Indus Net Technologies (INT.)",
@@ -28964,8 +28964,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/indus-net-technologies-int",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "INFOCUS TECHNOLOGIES PVT LTD",
@@ -28986,8 +28986,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/infocus-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "INFOMATIKA",
@@ -29008,8 +29008,8 @@ const companiesData = [
     "description": "Infor is a global leader in business cloud software products for companies in industry specific markets. Infor builds complete industry suites in the cloud and efficiently deploys technology that puts the user experience first, le ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/infor",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Informatica",
@@ -29028,8 +29028,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/informatica",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Infosys Ltd.",
@@ -29042,8 +29042,8 @@ const companiesData = [
       "IP Communications & Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/infosys-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "INGECYS TECHNOLOGIES",
@@ -29064,8 +29064,8 @@ const companiesData = [
       "Enterprise Software Application"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ingecys-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "inMalta",
@@ -29075,8 +29075,8 @@ const companiesData = [
     "description": "The inMalta working group comprises of Tech.mt, Malta Enterprise, FinanceMalta, GamingMalta and the Malta Digital Innovation Authority (MDIA), who together are forging a way forward for promotional synergies with the aim of prom ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inmalta",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "INNO3D",
@@ -29101,8 +29101,8 @@ const companiesData = [
     "description": "InnoPulse was established in 2023 to tackle the challenging task of AI computing and storage hardware how to optimize to fit variable requirements.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/innopulse",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Innovation Agency Lithuania",
@@ -29158,8 +29158,8 @@ const companiesData = [
     "description": "Inspur is a leading cloud computing and big data service provider in China, owning three listed companies: Inspur Information, Inspur Software, and Inspur Digital Enterprise. Its main businesses cover computing equipment, softwar ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inspur-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Intel Corporation Middle East",
@@ -29191,8 +29191,8 @@ const companiesData = [
     "description": "Intellya is a product-first AI software company specializing in enterprise-grade solutions that help organizations transform the way they operate and engage. With a decade of applied AI expertise, Intellya’s portfolio is powered ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intellya",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Interactive Saudi Arabia Limited",
@@ -29213,8 +29213,8 @@ const companiesData = [
       "Web3 Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/interactive-saudi-arabia-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "International Smart Worldwide Limited",
@@ -29228,8 +29228,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/international-smart-worldwide-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "International Turnkey Systems Group K.S.C.C.",
@@ -29239,8 +29239,8 @@ const companiesData = [
     "description": "ITS offers cutting-edge technology solutions tailored for financial institutions, governmental bodies, and private sector enterprises across diverse industries. With a proven track record of technological proficiency and an extens ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/international-turnkey-systems-group-kscc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "InTimeTec Middle East FZ-LLC",
@@ -29261,8 +29261,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/intimetec-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "InTWO DMCC",
@@ -29286,8 +29286,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/invenger-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Inventco Software Pvt. Ltd.",
@@ -29308,8 +29308,8 @@ const companiesData = [
       "Mobility Enterprise Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/inventco-software-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "INVERBIS ANALYTICS, SL",
@@ -29344,8 +29344,8 @@ const companiesData = [
       "Freezone"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/invest-qatar",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Investment and Development Agency of Latvia (LIAA)",
@@ -29377,8 +29377,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/invo-pos-technologies-wll",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "IonQ, Inc.",
@@ -29395,8 +29395,8 @@ const companiesData = [
       "Quantum Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ionq-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "IP Pashkevich A.V.",
@@ -29453,8 +29453,8 @@ const companiesData = [
       "Data Architecture"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/irion---it",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Islamic Affairs & Charitable Activities Department",
@@ -29464,8 +29464,8 @@ const companiesData = [
     "description": "The Islamic Affairs and Charitable Department in Dubai",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/islamic-affairs--charitable-activities-department",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "iSoftStone Information Technology (Group) Co., Ltd.",
@@ -29486,8 +29486,8 @@ const companiesData = [
       "Enterprise Solutions / ERP / CRM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/isoftstone-information-technology-group-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ITAUROS",
@@ -29497,8 +29497,8 @@ const companiesData = [
     "description": "ITAUROS is an IT consulting firm founded in 2020, specialized in building custom digital solutions for innovation-driven companies. With an agile, cross-functional team, we help clients embrace cloud transformation, data analytics ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itauros",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "ITGLOBAL.COM",
@@ -29518,8 +29518,8 @@ const companiesData = [
       "Cloud Service Provider - CSP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itglobalcom",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ITP.NET",
@@ -29539,8 +29539,8 @@ const companiesData = [
       "Billing / OSS / BSS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/itpnet",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "IVA Technologies",
@@ -29565,8 +29565,8 @@ const companiesData = [
       "Application Control"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ivanti",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "IX.0 Innovation Hub",
@@ -29603,8 +29603,8 @@ const companiesData = [
       "Accessories - Headphones / earphones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/japan-digital-company-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "JARLTECH Gulf General Trading LLC",
@@ -29617,8 +29617,8 @@ const companiesData = [
       "Supply Chain Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jarltech-gulf-general-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "JetBrains s.r.o.",
@@ -29628,8 +29628,8 @@ const companiesData = [
     "description": "JetBrains creates intelligent software development tools used by over 11.4 million professionals and 88 Fortune Global Top 100 companies. Its lineup of more than 30 products includes award-winning IDEs like IntelliJ IDEA and PyCha ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jetbrains-sro",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "JFS LOGISTICS FZCO",
@@ -29650,8 +29650,8 @@ const companiesData = [
       "Last Mile"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jfs-logistics-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 10.0
   },
   {
     "name": "Jinhua Guanyang Electronic Technology Co., Ltd.",
@@ -29661,8 +29661,8 @@ const companiesData = [
     "description": "Jinhua Guanyang Electronic Technology Co., Ltd. is a professional structured cabling manufacturer specializing in LAN cables, patch cords, and related copper accessories such as modular plugs, keystone jacks, and patch panels. Wit ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jinhua-guanyang-electronic-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Jlstandard",
@@ -29676,8 +29676,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jlstandard",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "JNS MEDIA International MFZE",
@@ -29709,8 +29709,8 @@ const companiesData = [
       "Gaming Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jollify-games",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Jothi Software Pvt Ltd",
@@ -29731,8 +29731,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jothi-software-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "JSC \\\"RPC \\\"Istok\\\" named after Shokin\\\"",
@@ -29742,8 +29742,8 @@ const companiesData = [
     "description": "Currently, \\\"JSC \\\"RPC \\\"Istok\\\" named after Shokina\\\" supports about 30% of the entire range of microwave electronics products manufactured in Russia, which determines its leading role in the industry. Implements the company's digital ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jsc-rpc-istok-named-after-shokin",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "JUHEYUAN SCIENCE & TECHNOLOGY CO.,LTD",
@@ -29764,8 +29764,8 @@ const companiesData = [
       "Carbon Management & Storage - CSS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/juheyuan--science--technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Jwcompany",
@@ -29780,8 +29780,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/jwcompany",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Kalibios AG",
@@ -29827,8 +29827,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/karsaaz-ebs-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "KAYTUS",
@@ -29838,8 +29838,8 @@ const companiesData = [
     "description": "KAYTUS is a provider of IT infrastructure products and solutions, offering a range of cutting-edge, open, and environmentally-friendly infrastructure products for cloud, Al, edge, and other emerging scenarios. With a customer-cent ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kaytus",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "KazAeroSpace LLP",
@@ -29871,8 +29871,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/keypasco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Khazna Data Center",
@@ -29882,8 +29882,8 @@ const companiesData = [
     "description": "As one of the fastest-growing hyperscale data center platforms globally, Khazna Data Centers enables the growth of artificial intelligence (AI) and digital economies by delivering advanced infrastructure with unparalleled energy e ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/khazna-data-center",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Khorfakkan City Municipality",
@@ -29926,8 +29926,8 @@ const companiesData = [
       "Infrastructure as a Service - IaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kloa-yazilim-ve-danimanlik-tcaret-ltdt",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "KNET Co., Ltd.",
@@ -29942,8 +29942,8 @@ const companiesData = [
       "Fixed Line Telecommunications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/knet-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Knodl LLC",
@@ -29964,8 +29964,8 @@ const companiesData = [
       "Cognitive computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/knodl-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Knowbe4",
@@ -29986,8 +29986,8 @@ const companiesData = [
     "description": "About Us Dubai never stands still, and neither can education. In a world-class education city, the best educators and operators in the world are drawn to Dubai, and education in Dubai is among the best in the world. Quality, acc ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/knowledge--human-development-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "KOC SISTEM BILGI VE ILETISIM HIZMETLERI ANONIM SIRKETI",
@@ -30027,8 +30027,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kpmg",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "KREEMO Inc.",
@@ -30046,8 +30046,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kreemo-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "KTI TRADING LLC",
@@ -30068,8 +30068,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kti-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Kusters Engineering India Private Limited",
@@ -30090,8 +30090,8 @@ const companiesData = [
       "Digital Signage - LED Signage"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/kusters-engineering-india-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Lanbowan Communication Ltd",
@@ -30106,8 +30106,8 @@ const companiesData = [
       "Wireless"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lanbowan-communication-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "LDT Technology L.L.C.-FZ",
@@ -30128,8 +30128,8 @@ const companiesData = [
       "Customer Relationship & Experience Management - CRM & CEM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ldt-technology-llc-fz",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Leap Media Solutions LLC",
@@ -30161,8 +30161,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lee--nee-softwares-exports-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Legal Affairs Department",
@@ -30172,8 +30172,8 @@ const companiesData = [
     "description": "Home About Department About Department Historically, prior to the establishment of the Government of Dubai Legal Affairs Department the late Sheikh Rashid Bin Saeed Al Maktoum, in the early seventies, recognized the evolving leg ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/legal-affairs-department",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Lemon Technologies Pvt Ltd",
@@ -30194,8 +30194,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lemon-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Lemorele",
@@ -30205,8 +30205,8 @@ const companiesData = [
     "description": "Lemorele is a leading brand in the tech industry, specializing in high-quality video connectivity and transmission devices. With over a decade of development, we have sold over 1 million products annually, backed by a team of ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lemorele",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "LIDIX Co., Ltd.",
@@ -30219,8 +30219,8 @@ const companiesData = [
       "Payments - Cash Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lidix-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "LifeLogic Sp. Z o.o.",
@@ -30241,8 +30241,8 @@ const companiesData = [
       "Sustainable Systems - Carbon Fintech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lifelogic-sp-z-oo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Liferay Middle East FZ LLC",
@@ -30258,8 +30258,8 @@ const companiesData = [
       "Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/liferay-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Lime Access Sp. z o.o.",
@@ -30269,8 +30269,8 @@ const companiesData = [
     "description": "Lime Access is a provider of modern systems that support safety, compliance, and operational efficiency in organizations. Our solutions digitize key processes – from managing safety training, high-risk work, and visitor access t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lime-access-sp-z-oo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "LinkShadow DMCC",
@@ -30280,8 +30280,8 @@ const companiesData = [
     "description": "LinkShadow is revolutionizing cybersecurity with its Unified Platform, integrating Identity Threat Detection and Response (ITDR), Data Security Posture Management (DSPM), and Network Detection and Response (NDR). Designed to prote ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/linkshadow-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "LLP \\\"bilim.app\\\"",
@@ -30327,8 +30327,8 @@ const companiesData = [
     "description": "Locofy.ai accelerates frontend development by converting web and mobile app designs into frontend code in a flash using LocoAI. It leverages its proprietary foundational Large Design Models to help launch digital products 10x fast ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/locofyai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Logicom FZE",
@@ -30338,8 +30338,8 @@ const companiesData = [
     "description": "Logicom is a leading Distributor of Technology Solutions and Services and Cloud Solution Provider covering a wide geography in Europe, the Middle East and North Africa. Providing an indispensable link in the technology supply chai ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logicom-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Logitech FZ-LLC",
@@ -30371,8 +30371,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/logstag",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "LongXing",
@@ -30391,8 +30391,8 @@ const companiesData = [
       "Energy Efficiency"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/longxing",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "LUISUANTECH",
@@ -30406,8 +30406,8 @@ const companiesData = [
       "Data Extraction"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/luisuantech",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Luminous Source Trading Limited",
@@ -30424,8 +30424,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/luminous-source-trading-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Lumofy",
@@ -30435,8 +30435,8 @@ const companiesData = [
     "description": "Lumofy is an AI-powered talent management platform that empowers organizations with data-driven insights to understand, develop, and optimize their workforce skills. The platform's holistic skills-first approach delivers hyper-per ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/lumofy",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "LuxQuanta",
@@ -30457,8 +30457,8 @@ const companiesData = [
       "Security - Data & Virtual"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/luxquanta",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "M3 Mobile",
@@ -30479,8 +30479,8 @@ const companiesData = [
       "Data & Analytics - Price Tracking, Conversion Tools & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/m3-mobile",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 52.0
   },
   {
     "name": "Maanz AI",
@@ -30501,8 +30501,8 @@ const companiesData = [
       "eHealth, Telemedicine, Telematics, Telemetry"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/maanz-ai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 36.0
   },
   {
     "name": "Macellan",
@@ -30519,8 +30519,8 @@ const companiesData = [
       "Business Intelligence Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/macellan",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Magic Quantum Co.",
@@ -30552,8 +30552,8 @@ const companiesData = [
       "Intelligent Transportation Solutions (ITS)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/magment-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Mainloop",
@@ -30574,8 +30574,8 @@ const companiesData = [
       "Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mainloop",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Majestic Freight Forwarders FZCO",
@@ -30596,8 +30596,8 @@ const companiesData = [
       "Telecoms & Mobility"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/majestic-freight-forwarders-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Majjane Agency",
@@ -30618,8 +30618,8 @@ const companiesData = [
       "Cloud Computing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/majjane-agency",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Malta Business Registry",
@@ -30640,8 +30640,8 @@ const companiesData = [
     "description": "The Malta Digital Innovation Authority (MDIA) is Malta’s national entity fostering trust in digital technologies. It plays a key role in implementing the EU AI Act, Data Act, and Data Governance Act, offering tools to help busin ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/malta-digital-innovation-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Malta Enterprise",
@@ -30665,8 +30665,8 @@ const companiesData = [
     "description": "ManageEngine is a division of Zoho Corporation and a leading provider of IT management solutions for organizations across the world. With a powerful, flexible, and AI-powered digital enterprise management platform, we help busines ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/manageengine",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ManageEngine",
@@ -30679,8 +30679,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/manageengine",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Manli Technology Group Limited",
@@ -30707,8 +30707,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mannapov-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Marshal's Office of Lower Silesia",
@@ -30729,8 +30729,8 @@ const companiesData = [
     "description": "Control Cash, Simplify Life Established in 2004, Masterwork Automodules has transformed cash handling for industries like retail, banking, restaurants, casinos, and cannabis. Our solutions are known for performance, reliability, e ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/masterwork-automodules-tech-corp-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MAZAD",
@@ -30740,8 +30740,8 @@ const companiesData = [
     "description": "Mazad B.S.C. © , known as \\\"Mazad\\\", was founded in April 2017 to organize and supervise auctions in the Kingdom of Bahrain. Tasked with managing auctions for a variety of assets, Mazad collaborates with governments and top tier c ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mazad",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Mazik Global",
@@ -30761,8 +30761,8 @@ const companiesData = [
       "Enterprise Resource Planning - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mazik-global",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "MCI (Mobile Communications of Iran)",
@@ -30783,8 +30783,8 @@ const companiesData = [
       "Energy Efficiency"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mci-mobile-communications-of-iran",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Media Electronics SL",
@@ -30812,8 +30812,8 @@ const companiesData = [
       "Speech Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mediazen-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "MEJIX",
@@ -30834,8 +30834,8 @@ const companiesData = [
       "ERP / Business Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mejix",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "MENA TECH GROUP FZ-LLC",
@@ -30845,8 +30845,8 @@ const companiesData = [
     "description": "Mena Tech is a premium Arabic media portal specialized in technology and business. It earned its position as a main media partner of prominent events and companies in the MENA region through enriching technology and business conte ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mena-tech-group-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MenaMoney Technology WLL",
@@ -30859,8 +30859,8 @@ const companiesData = [
       "Digitization / services / tool and die making - Data and IT security, protection of intellectual property"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/menamoney-technology-wll",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "meshX",
@@ -30881,8 +30881,8 @@ const companiesData = [
       "Data Visualisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/meshx",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Microsoft Gulf FZ LLC",
@@ -30901,8 +30901,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/microsoft-gulf-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "MINDEO",
@@ -30915,8 +30915,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mindeo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Mindware FZ LLC",
@@ -30926,8 +30926,8 @@ const companiesData = [
     "description": "Mindware's comprehensive offering encompasses a selection of leading brands in infrastructure, networking, security, storage, and artificial intelligence solutions. As part of its Value-Added Distribution (VAD) methodology, Mindwa ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mindware-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MinIO",
@@ -30937,8 +30937,8 @@ const companiesData = [
     "description": "MinIO is the company behind AIStor, the world’s most widely adopted exascale object store for enterprise AI data, agentic computing, and analytics. Trusted by 77% of the Fortune 100 and built for performance at scale, AIStor uni ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/minio",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Ministry of Climate Change & Environment",
@@ -30959,8 +30959,8 @@ const companiesData = [
     "description": "To develop a flexible economy of the future that ensures a prosperous business environment and encourages investment and talent attraction through the development of proactive policies, to raise the standard of living and prosperi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-economy--tourism",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Ministry of Family",
@@ -31022,8 +31022,8 @@ const companiesData = [
       "Employee Management - HR Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-human-resources--emiratisation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Ministry of ICT and Innovation- RWANDA",
@@ -31062,8 +31062,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-investment",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Ministry Of Investments",
@@ -31073,8 +31073,8 @@ const companiesData = [
     "description": "The Ministry of Investment plays a pivotal role in solidifying the UAE’s position as a global investment hub with world-class connectivity to international markets. By attracting foreign direct investment in critical sectors and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-investments",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Ministry of State for Federal National Council Affairs",
@@ -31086,8 +31086,8 @@ const companiesData = [
       "Business & professional services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ministry-of-state-for-federal-national-council-affairs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Minutus Computing",
@@ -31108,8 +31108,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/minutus-computing",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Mio AI",
@@ -31124,8 +31124,8 @@ const companiesData = [
       "Education Technology Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mio-ai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 38.0
   },
   {
     "name": "Mitigator Global",
@@ -31146,8 +31146,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mitigator-global",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Mka Electronics FZCO",
@@ -31168,8 +31168,8 @@ const companiesData = [
       "Wearables - Wearables electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mka-electronics-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Mobile 2000",
@@ -31179,8 +31179,8 @@ const companiesData = [
     "description": "Mobile 2000 is a premier retailer and distributor of mobile phones, accessories, and smart devices based in Kuwait. Since its establishment, the company has built a strong reputation for offering high-quality products from the wor ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobile-2000",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "MOBILE BUSINESS COMPANY JSC DUBAI BRANCH",
@@ -31195,8 +31195,8 @@ const companiesData = [
       "Cabinets and Enclosures"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobile-business-company-jsc-dubai-branch",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Mobilint, Inc.",
@@ -31215,8 +31215,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobilint-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Mobiokart Overseas FZCO",
@@ -31233,8 +31233,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mobiokart-overseas-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "MODDAKIR",
@@ -31255,8 +31255,8 @@ const companiesData = [
     "description": "Modo Technologies is an innovative company specialising in cutting-edge solutions for digital transformation. Established with a mission to empower businesses, Modo Technologies provides advanced products and services that streaml ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/modosmart-technologies-co-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Modulos AG",
@@ -31274,8 +31274,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/modulos-ag",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Mohammed Bin Rashid Al Maktoum Knowledge Foundation",
@@ -31285,8 +31285,8 @@ const companiesData = [
     "description": "Launched by His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai in May 2007, the Mohammed bin Rashid Al Maktoum Knowledge Foundation (MBRF) has led and implemented pi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mohammed-bin-rashid-al-maktoum-knowledge-foundation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Mohammed Bin Rashid School Of Government",
@@ -31296,8 +31296,8 @@ const companiesData = [
     "description": "Mohammed Bin Rashid School of Government (MBRSG) was launched in 2005 under the patronage of His Highness Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister, and Ruler of Dubai. As the first research and te ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mohammed-bin-rashid-school-of-government",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Mohammed Bin Rashid Space Center - AE",
@@ -31329,8 +31329,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/momentum91-a-devx-company",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "monday.com ltd",
@@ -31350,8 +31350,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mondaycom-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "MongoDB Middle East FZ-LLC",
@@ -31361,8 +31361,8 @@ const companiesData = [
     "description": "MongoDB is a modern NoSQL database optimized for managing large-scale, unstructured, and semi-structured data, making it an ideal foundation for AI-driven applications. Why MongoDB for AI? Scalable architecture: Easily handles h ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mongodb-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "MONTRANS LLC",
@@ -31383,8 +31383,8 @@ const companiesData = [
     "description": "MooseFS is a breakthrough in Big Data storage, combining data storage and processing in a single system using commodity hardware, delivering exceptional ROI. Trusted worldwide, it handles massive volumes of data. We provide profes ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moosefs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Moreh",
@@ -31400,8 +31400,8 @@ const companiesData = [
       "Planning and Optimization"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/moreh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Mori Co.,Ltd.,",
@@ -31414,8 +31414,8 @@ const companiesData = [
       "Payments - Cash Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/mori-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Moscow Region",
@@ -31470,8 +31470,8 @@ const companiesData = [
       "Networks"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/myz-computers-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "NAG",
@@ -31492,8 +31492,8 @@ const companiesData = [
       "Routers"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nag",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "NAIZAK GES GENERAL TRADING ESTABLISHMENT",
@@ -31503,8 +31503,8 @@ const companiesData = [
     "description": "Naizak is a leading provider of innovative technology solutions with a strong presence across the UAE and GCC region. As a trusted Value Added Distributor, we specialize in IT, Cybersecurity, Infrastructure, Networking & Communica ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/naizak-ges-general-trading-establishment",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Nanjing Jilong Optical Communication Co., Ltd - CN",
@@ -31519,8 +31519,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nanjing-jilong-optical-communication-co-ltd---cn",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "National Bank of Fujairah PJSC",
@@ -31530,8 +31530,8 @@ const companiesData = [
     "description": "NBF is a corporate bank with over 40 years in the UAE. Our Technology Finance division empowers the IT ecosystem, including vendors, distributors, system integrators, and end-users, by providing tailored financial solutions essent ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/national-bank-of-fujairah-pjsc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "National Emergency Crisis and Disasters Management Authority",
@@ -31548,8 +31548,8 @@ const companiesData = [
       "Government Authorities & Municipalities"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/national-emergency-crisis-and-disasters-management-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "National IT Industry Promotion Agency",
@@ -31594,8 +31594,8 @@ const companiesData = [
     "description": "Navleb is a technology company specializing in advanced GPS tracking and fleet management solutions. Since 2006, we’ve been helping businesses optimize their operations through real-time vehicle tracking, route planning, fuel mo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/navleb-sal",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Navlungo Teknoloji Lojistik",
@@ -31627,8 +31627,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/navori-labs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Nedaa",
@@ -31645,8 +31645,8 @@ const companiesData = [
       "Consulting System & Integration Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nedaa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "NEOSOFT Private Limited",
@@ -31667,8 +31667,8 @@ const companiesData = [
       "Enterprise Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neosoft-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "neotek",
@@ -31682,8 +31682,8 @@ const companiesData = [
       "Open Banking / API"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/neotek",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Nerdio Inc",
@@ -31700,8 +31700,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nerdio-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NETSCOUT Systems Inc",
@@ -31722,8 +31722,8 @@ const companiesData = [
       "Data Lake"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netscout-systems-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Netskope",
@@ -31744,8 +31744,8 @@ const companiesData = [
       "Secure Access Service Edge - SASE"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netskope",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "NetU Consultants Ltd",
@@ -31766,8 +31766,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/netu-consultants-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Network International LLC",
@@ -31780,8 +31780,8 @@ const companiesData = [
       "Real-Time Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/network-international-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Neurovision LLC",
@@ -31811,8 +31811,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/new-trend-computer-networks-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NEXIGN",
@@ -31844,8 +31844,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/next-step-logistics-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "NEXTBRIDGE LIMITED",
@@ -31866,8 +31866,8 @@ const companiesData = [
       "AI-optimized Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nextbridge-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "NGBS",
@@ -31888,8 +31888,8 @@ const companiesData = [
       "Customer Relationship Management - CRM"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ngbs",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NINGBO DAN-CHIEF NETWORK TECHNOLOGIES CO., LTD.",
@@ -31903,8 +31903,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-dan-chief-network-technologies-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "NINGBO GEYIDA CABLE TECHNOLOGY CO., LTD.",
@@ -31918,8 +31918,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-geyida-cable-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "NINGBO HYCONNECT COMMUNICATION TECHNOLOGY CO.,LTD",
@@ -31929,8 +31929,8 @@ const companiesData = [
     "description": "Ningbo Hyconnect Communication Technology Co., Ltd was established in 2012, located in Ningbo, Zhejiang, China. We operate fully automated production lines with a minimum daily output of 100,000 units, ensuring both consistent pro ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-hyconnect-communication-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "NINGBO SHIP IMPORT & EXPORT CO., LTD",
@@ -31944,8 +31944,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ningbo-ship-import--export-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "NINGMEI",
@@ -31977,8 +31977,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ninjaone-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Nintex UK Ltd",
@@ -31988,8 +31988,8 @@ const companiesData = [
     "description": "Nintex, the possibility engine™, helps companies unlock the power of endless possibilities. Today, more than 7,000 public and private sector organizations across 90 countries turn to the Nintex platform to automate how work gets ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nintex-uk-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "NIPA (National IT Industry Promotion Agency)",
@@ -32039,8 +32039,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nlight-media",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NMK Electronics Trading LLC",
@@ -32061,8 +32061,8 @@ const companiesData = [
     "description": "At Nokia, we create technology that helps the world act together. We put the world’s people, machines and devices in sync to create a more sustainable, productive and accessible future. In today’s interconnected world networ ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nokia-solutions-and-networks-mea-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Nomad Ventures Ltd.",
@@ -32094,8 +32094,8 @@ const companiesData = [
       "Blockchain"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/noorisys-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Norden",
@@ -32105,8 +32105,8 @@ const companiesData = [
     "description": "At Norden Communication, we are dedicated to crafting innovative technology that enhances global safety, security, and communication. Our mission is to protect lives, secure assets, and facilitate seamless connectivity by deliveri ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/norden",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "NORDES EMS",
@@ -32138,8 +32138,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nourglobal",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "NSEARCH GLOBAL PTE LTD/NSEARCH TECHNOLOGIES FZ LLC",
@@ -32160,8 +32160,8 @@ const companiesData = [
       "Operational Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nsearch-global-pte-ltdnsearch-technologies-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "NSG",
@@ -32182,8 +32182,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nsg",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "NTG Clarity Networks Inc.",
@@ -32193,8 +32193,8 @@ const companiesData = [
     "description": "NTG Clarity is a leading provider of digital transformation solutions with 32 years of proven expertise across North America and the Middle East. We specialize in delivering outsourced software development, offshoring, and managed ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ntg-clarity-networks-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Nutanix",
@@ -32215,8 +32215,8 @@ const companiesData = [
       "Storage"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nutanix",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "nVent Electric Plc",
@@ -32234,8 +32234,8 @@ const companiesData = [
       "Power Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/nvent-electric-plc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "NVIDIA",
@@ -32267,8 +32267,8 @@ const companiesData = [
       "Predictive APIs"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oreilly",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "OBIT Ltd",
@@ -32289,8 +32289,8 @@ const companiesData = [
       "Anti-spam, Anti-Malware & Anti-Virus & Email Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/obit-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "OCTATCO",
@@ -32311,8 +32311,8 @@ const companiesData = [
       "Legal, Regulations, Investigations & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/octatco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Omnissa",
@@ -32333,8 +32333,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/omnissa",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "One X Group",
@@ -32361,8 +32361,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/onlyoffice",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Ontario Ministry of Economic Development, Job Creation and Trade",
@@ -32372,8 +32372,8 @@ const companiesData = [
     "description": "Ontario Ministry of Economic Development, Job Creation and Trade Ontario suppliers produce high-quality, innovative goods and services at a competitive price. The province's sophisticated supply chain caters to customers’ speci ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ontario-ministry-of-economic-development-job-creation-and-trade",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Open Text Inc",
@@ -32383,8 +32383,8 @@ const companiesData = [
     "description": "OpenText™, is The Information Company™. We are the No. 1 information management software and services company in the world. We power and protect information to elevate every person and every organization to gain the informatio ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/open-text-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Orange Business",
@@ -32405,8 +32405,8 @@ const companiesData = [
     "description": "OrangeKloud, a next-generation AI-powered and No-Code App Development Platform, empowers businesses to build mobile applications quickly and efficiently. With pre-built functions and seamless ERP integration, it accelerates digita ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/orangekloud-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Orbit Analytics",
@@ -32434,8 +32434,8 @@ const companiesData = [
       "eCommerce Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oreem",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Ori",
@@ -32456,8 +32456,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ori",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "Oryxlabs Technologies LLC.",
@@ -32467,8 +32467,8 @@ const companiesData = [
     "description": "ORYXLABS was founded in 2020 in UAE to address a gap in the market for an agile cyber security-focused engineering firm that could deliver tailored solutions for unique client requirements. A proudly diverse staff hailing from mo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oryxlabs-technologies-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Oskar Phone L.L.C.",
@@ -32478,8 +32478,8 @@ const companiesData = [
     "description": "Since the foundation in 1999, Oskar Group LLC has grown from a small family business in Dubai to a proud pioneer of the tech accessories industry with multiple offices, warehouses, and retail outlets across the Middle East, North ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oskar-phone-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "OTM Trading FZCO",
@@ -32496,8 +32496,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/otm-trading-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Oupiin Enterprise Co. Ltd",
@@ -32507,8 +32507,8 @@ const companiesData = [
     "description": "OUPIIN is a professional electronic connector manufacturer.",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/oupiin-enterprise-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Pakistan Software Export Board - PK",
@@ -32528,8 +32528,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pakistan-software-export-board---pk",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "PAKISTAN TELECOM CABLES LIMITED",
@@ -32550,8 +32550,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pakistan-telecom-cables-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Palit Microsystems Ltd.",
@@ -32572,8 +32572,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/palit-microsystems-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Palm Stays Real Estate Rental Platform",
@@ -32588,8 +32588,8 @@ const companiesData = [
       "Listings & Brokerage Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/palm-stays-real-estate-rental-platform",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Palo Alto Networks FZ-LLC",
@@ -32599,8 +32599,8 @@ const companiesData = [
     "description": "Palo Alto Networks is the global cybersecurity leader, committed to making each day safer than the one before with industry-leading, AI-powered solutions in network security, cloud security and security operations. Powered by Prec ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/palo-alto-networks-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "PARKIN COMPANY P.J.S.C.",
@@ -32610,8 +32610,8 @@ const companiesData = [
     "description": "Parkin Company PJSC is Dubai’s exclusive public parking operator managing the Emirate’s largest and most advanced parking network under a 49 year concession agreement with the Dubai's Roads and Transport Authority (RTA). With ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/parkin-company-pjsc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Partners Pay LLP",
@@ -32643,8 +32643,8 @@ const companiesData = [
     "description": "PCS Wireless has been a global leader in the secondary markets. We partner with the world’s largest manufacturers, service providers, and retailers to offer both pre-owned and new smartphones, laptops, tablets, wearables, and ac ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pcs-wireless-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Penny Software",
@@ -32657,8 +32657,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/penny-software",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Pepagora",
@@ -32679,8 +32679,8 @@ const companiesData = [
       "Creativity & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pepagora",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "PHAEDRA SOLUTIONS",
@@ -32701,8 +32701,8 @@ const companiesData = [
       "CRM (Customer Relationship Management) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/phaedra-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Phishman, LLC",
@@ -32717,8 +32717,8 @@ const companiesData = [
       "Applied Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/phishman-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Phonesmart FZCO",
@@ -32738,8 +32738,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/phonesmart-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "PiA - People In Action",
@@ -32752,8 +32752,8 @@ const companiesData = [
       "CRM (Customer Relationship Management) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pia---people-in-action",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Pingyang Jienuo Elec-tech Co., Ltd - CN",
@@ -32772,8 +32772,8 @@ const companiesData = [
       "Store Operations - Scanners/ Hand-Held Terminals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pingyang-jienuo-elec-tech-co-ltd---cn",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Pitch Avatar | Softprom",
@@ -32794,8 +32794,8 @@ const companiesData = [
       "Blended learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pitch-avatar--softprom",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Pixel Values",
@@ -32816,8 +32816,8 @@ const companiesData = [
       "eLogistics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pixel-values",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "PLAI",
@@ -32849,8 +32849,8 @@ const companiesData = [
       "Digital Transformation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/planisware",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "PLP",
@@ -32867,8 +32867,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/plp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Plus Banking Machines Co.,Ltd.",
@@ -32904,8 +32904,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pmobytes",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "PNY Technologies Middle East Fze",
@@ -32945,8 +32945,8 @@ const companiesData = [
     "description": "The Ports, Customs and Free Zone Corporation (PCFC) is a Dubai government agency, officially established in 2001. It comprises several entities and authorities operating under its umbrella. The corporation relies on the innovative ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ports-customs-and-free-zone-corporation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Premium-Line Systems GmbH",
@@ -32967,8 +32967,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/premium-line-systems-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "PRESIGHT",
@@ -32989,8 +32989,8 @@ const companiesData = [
       "Data Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/presight",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Printcom LLC",
@@ -33033,8 +33033,8 @@ const companiesData = [
       "Unified Communications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/private-discuss",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 54.0
   },
   {
     "name": "Privia Security Bilisim ve Danismanlik Hiz. A.S.",
@@ -33066,8 +33066,8 @@ const companiesData = [
       "Speech Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/process-9",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "PROCURAL W.L.L.",
@@ -33077,8 +33077,8 @@ const companiesData = [
     "description": "Procural is an AI-powered platform that revolutionizes procurement for buyers and serves as a powerful lead generation tool for suppliers. For buyers, platform offers a centralized hub to manage entire purchasing lifecycle—from ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/procural-wll",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Profi Group LLC (ADAPTIK)",
@@ -33088,8 +33088,8 @@ const companiesData = [
     "description": "Profi Group experts have been collaborating for more than 15 years so far. The main activity of the company has been repair, overhaul and modernization of existing railway track machines and their components. Our specialists are e ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/profi-group-llc-adaptik",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "PROFIT OKRS - FZCO",
@@ -33099,8 +33099,8 @@ const companiesData = [
     "description": "Profit.co is an award-winning enterprise software built for strategy execution. Recognized for its powerful OKR (Objectives and Key Results) platform, Profit.co enables organizations to align vision with execution, foster accounta ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/profit-okrs---fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Progress Software Corporation",
@@ -33121,8 +33121,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/progress-software-corporation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 72.0
   },
   {
     "name": "Proofpoint",
@@ -33138,8 +33138,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/proofpoint",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Proove",
@@ -33184,8 +33184,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/protalk",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Proventeq",
@@ -33195,8 +33195,8 @@ const companiesData = [
     "description": "We specializes in ECM Modernization, AI-powered Information Management and Modern Work solutions. Our primary focus is migrating and integrating non-Microsoft ECM platforms to Microsoft 365/Azure. We facilitate the adoption of Mi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/proventeq",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Proximus Global",
@@ -33210,8 +33210,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/proximus-global",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Public Prosecution",
@@ -33243,8 +33243,8 @@ const companiesData = [
       "Virtual Companions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pulpoar",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Pure Storage UK Limited",
@@ -33254,8 +33254,8 @@ const companiesData = [
     "description": "Pure Storage (NYSE: PSTG) delivers the industry’s most advanced data storage platform to store, manage, and protect the world’s data at any scale. With Pure Storage, organisations have ultimate simplicity and flexibility, savi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/pure-storage-uk-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "PUTY",
@@ -33268,8 +33268,8 @@ const companiesData = [
       "Merchandise Planning & Inventory Management - Smart Labels"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/puty",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "PwC",
@@ -33309,8 +33309,8 @@ const companiesData = [
     "description": "Q-SYS is a full stack, audio, video, and control platform built around a modern, standards-based IT architecture. Since 2009, Q-SYS has been focused on delivering personalized, connected, and engaging AV experiences. Our solutions ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/q-sys",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "QA Ltd",
@@ -33320,8 +33320,8 @@ const companiesData = [
     "description": "QA is the largest tech training company in the UK and the fastest-growing in the US. We teach the critical AI, technology, digital and human skills needed to transform and succeed in a changing world. We believe that consiste ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qa-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "QROWNTECH LLC",
@@ -33342,8 +33342,8 @@ const companiesData = [
       "Healthcare Information Systems, Software (HIS)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qrowntech-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Qsalary",
@@ -33375,8 +33375,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/qsecure-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Quadrant Technologies",
@@ -33397,8 +33397,8 @@ const companiesData = [
       "Workload Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quadrant-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Quadron Cybersecurity Services Ltd",
@@ -33415,8 +33415,8 @@ const companiesData = [
       "Analytics as a service"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quadron-cybersecurity-services-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "QUALITY COMPUTER LLC",
@@ -33470,8 +33470,8 @@ const companiesData = [
       "Business Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quantum-computer-systems",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "QUANTUM POINT ELECTRONICS TRADING LLC",
@@ -33492,8 +33492,8 @@ const companiesData = [
     "description": "Quantum Security Systems was founded to help organizations stand and defend against daily cyber threats through unique and collaborative security platforms. QSS products empower an organization to improve the efficiency and effect ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/quantum-security-systems",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Quobis",
@@ -33547,8 +33547,8 @@ const companiesData = [
       "Consultancy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rackspace-technology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "RAINBOWPINTOS MEDIA Co., Ltd.",
@@ -33558,8 +33558,8 @@ const companiesData = [
     "description": "RAINBOWPINTOS specializes in advanced 3D optical holography with its proprietary Real 3D Hologram technology, delivering depth and clarity without 3D glasses. Using floating display methods, the company creates immersive, glasses- ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rainbowpintos-media-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Rapid7 International",
@@ -33580,8 +33580,8 @@ const companiesData = [
       "Data Centre Next Generation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rapid7-international",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "re.life",
@@ -33613,8 +33613,8 @@ const companiesData = [
       "Security / Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/recorded-future-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Red Hat",
@@ -33624,8 +33624,8 @@ const companiesData = [
     "description": "Red Hat is the open hybrid cloud technology leader, delivering a trusted, consistent and comprehensive foundation for transformative IT innovation and artificial intelligence (AI) applications in the enterprise. Through its portfo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/red-hat",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "RedBlox Technologies Pvt Ltd",
@@ -33635,8 +33635,8 @@ const companiesData = [
     "description": "Redblox Technologies is a future-focused digital innovation company delivering immersive 3D, AI-powered, and custom software solutions. At Redblox, we specialize in building metaverse platforms, intelligent web/mobile applications ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/redblox-technologies-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "RedBox Technologies",
@@ -33679,8 +33679,8 @@ const companiesData = [
       "Data Centres"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/refroid-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "REG4TECH LTD",
@@ -33701,8 +33701,8 @@ const companiesData = [
       "Data Governance, Risk & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/reg4tech-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Regula",
@@ -33734,8 +33734,8 @@ const companiesData = [
     "description": "RemoteApps is a leading Bahrain-based Digital Solutions and HR Tech provider, offering a comprehensive cloud-first, AI-powered HCM platform tailored to the needs of GCC organizations. From recruitment to payroll, performance, bene ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/remoteapps",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Rental Disputes Center",
@@ -33745,8 +33745,8 @@ const companiesData = [
     "description": "The Rental Disputes Center in Dubai is an integrated judicial system focused on establishing a secure real estate environment. It achieves this by swiftly resolving rental and jointly-owned real estate disputes through a digital a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rental-disputes-center",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Reolink",
@@ -33762,8 +33762,8 @@ const companiesData = [
       "Blockchain for Healthcare"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/reolink",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "RESILIOCS INC",
@@ -33784,8 +33784,8 @@ const companiesData = [
       "ESG Business Services - Advisory"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/resiliocs-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Returnstar Interactive Technology Group Co., Ltd",
@@ -33820,8 +33820,8 @@ const companiesData = [
       "Facilities Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/revizto",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "RingQ Ltd",
@@ -33831,8 +33831,8 @@ const companiesData = [
     "description": "RingQ is a trusted provider of cloud-based communication solutions designed to empower businesses with secure, scalable, and intelligent tools for seamless connectivity. With a strong focus on innovation and reliability, RingQ del ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ringq-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "RNV.ai",
@@ -33853,8 +33853,8 @@ const companiesData = [
     "description": "(RTA) Dubai, founded in 2005 is responsible for planning and providing an integrated transport system in the Emirate of Dubai, and between Dubai and other Emirates of the UAE capable of achieving Dubai's vision & serving the vita ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/roads-and-transport-authority---rta",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Rubrik",
@@ -33864,8 +33864,8 @@ const companiesData = [
     "description": "Rubrik is a cybersecurity company and our mission is to secure the world’s data. We pioneered Zero Trust Data SecurityTM to help organizations achieve business resilience against cyberattacks, malicious insiders, and operational ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/rubrik",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Rysha Media LLC",
@@ -33895,8 +33895,8 @@ const companiesData = [
       "Repeaters"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/saf-tehnika",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Saha Robotik Ve Teslimat Teknolojileri A.S.",
@@ -33927,8 +33927,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sako",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Salesforce Middle East FZ-LLC",
@@ -33941,8 +33941,8 @@ const companiesData = [
       "Platform as a Service - PaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/salesforce-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Sama Systems For Communications And Technology Co.",
@@ -33956,8 +33956,8 @@ const companiesData = [
       "ERP / Business Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sama-systems-for-communications-and-technology-co",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Sama X",
@@ -33970,8 +33970,8 @@ const companiesData = [
       "Satellite & Distribution"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sama-x",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Sangfor Technologies",
@@ -33992,8 +33992,8 @@ const companiesData = [
       "Application Control"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sangfor-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Sangoma Technologies Inc.",
@@ -34003,8 +34003,8 @@ const companiesData = [
     "description": "Cloud, hybrid, and on-premises communications platforms you can trust",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sangoma-technologies-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "SARIYA INFORMATION TECHNOLOGY COMPANY",
@@ -34058,8 +34058,8 @@ const companiesData = [
       "Endpoint Protection & Mobile Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scalefusion",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Scalong",
@@ -34079,8 +34079,8 @@ const companiesData = [
       "Infrastructure as a Service - IaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scalong",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Scribex Technologies Co",
@@ -34090,8 +34090,8 @@ const companiesData = [
     "description": "We provide tailored software solutions for teams ready to scale. Regardless of industry or tools, one thing is clear—you’re ready for a breakthrough. We focus on initiatives that drive quantum leaps in your growth, not just in ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/scribex-technologies-co",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Seclore Technologies FZ LLC",
@@ -34108,8 +34108,8 @@ const companiesData = [
       "Anti-spam, Anti-Malware & Anti-Virus & Email Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/seclore-technologies-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 18.0
   },
   {
     "name": "SecPod",
@@ -34123,8 +34123,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/secpod",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Securden, Inc.",
@@ -34156,8 +34156,8 @@ const companiesData = [
       "Digital Marketing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/secure-digital-esim-apps",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Securities & Commodities Authority",
@@ -34181,8 +34181,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/security-champion",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Security Industry Regulatory Agency",
@@ -34192,8 +34192,8 @@ const companiesData = [
     "description": "SIRA is the regulating agency of the private security sector in Dubai, this includes but is not limited to, licensing of security companies and cadres. In addition to licensing and approving security systems for critical sectors i ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/security-industry-regulatory-agency",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Security Trust.it Srl",
@@ -34214,8 +34214,8 @@ const companiesData = [
     "description": "Sedin Technologies is a global IT consulting and digital transformation firm, specializing in CRM, Retail, Data Engineering, AI, and Enterprise Solutions. With a presence across the U.S., India, UAE, Australia, Singapore, and Cana ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sedin-technologies-me-llc-fz",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Self Soft Production",
@@ -34236,8 +34236,8 @@ const companiesData = [
       "E-commerce & M-commerce - User Experience & UX Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/self-soft-production",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "SendQuick Pte Ltd",
@@ -34258,8 +34258,8 @@ const companiesData = [
       "Deep Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sendquick-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Sentinel Labs Ltd",
@@ -34269,8 +34269,8 @@ const companiesData = [
     "description": "SentinelOne is a global leader in AI-powered security. SentinelOne’s Singularity™ Platform AI-powered security, empowering organizations to secure endpoints, cloud workloads, containers, identities, and mobile and network-conn ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sentinel-labs-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Sepanta Co.",
@@ -34291,8 +34291,8 @@ const companiesData = [
       "Facial / Iris Recognition"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sepanta-co",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SEPE - Federation of Hellenic ICT Enterprises",
@@ -34326,8 +34326,8 @@ const companiesData = [
       "Enterprise Resource Planning - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sequantix-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "SHANDONG HUAXIN COMMUNICATION TECHNOLOGY CO.,LTD.",
@@ -34342,8 +34342,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shandong-huaxin--communication-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "SharedPro Technologies",
@@ -34356,8 +34356,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sharedpro-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Sharjah City Municipality",
@@ -34378,8 +34378,8 @@ const companiesData = [
     "description": "Digital Sharjah is a government unified digital platform owned and managed by the Government of Sharjah. The platform aims at making Sharjah’s government services accessible to the public through various user-friendly and intuit ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sharjah-government",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Sharjah Research Technology & Innovation Park",
@@ -34419,8 +34419,8 @@ const companiesData = [
       "Handhelds, Laptops, PCs, Printers, Monitors, Screens"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-gilong-electronic-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 4.0
   },
   {
     "name": "Shenzhen Houshuxia Technology Co.,LTD",
@@ -34430,8 +34430,8 @@ const companiesData = [
     "description": "Shenzhen Houshuxia Technology Co., Ltd. was established in April 2020. Thecompany has always taken the user experience as the core and supported byan excellent supply chain. It integrates design, research and development, product ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-houshuxia-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Shenzhen Micro Innovation Industry Co., Ltd.",
@@ -34460,8 +34460,8 @@ const companiesData = [
       "Wearables - Smart watches"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-phonemax-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "SHENZHEN RAPOO TECHNOLOGY CO., LTD.",
@@ -34471,8 +34471,8 @@ const companiesData = [
     "description": "Rapoo Technology was founded in 2002 and went public on the Shenzhen stock Exchange in 2011 (stock code: 002577). It is a high-tech company integrating research and development with the supply chain. Its main products include wire ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-rapoo-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Shenzhen Sopto Technology Co., Ltd",
@@ -34493,8 +34493,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-sopto-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Shenzhen Sunany Technology Limited",
@@ -34515,8 +34515,8 @@ const companiesData = [
       "Digital Signage - Content Creators"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-sunany-technology-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Shenzhen Water World Information Co., Ltd",
@@ -34529,8 +34529,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shenzhen-water-world-information-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "SHINHO OPTICS LIMITED",
@@ -34548,8 +34548,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shinho-optics-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shinkwang I&C Co., Ltd.",
@@ -34570,8 +34570,8 @@ const companiesData = [
       "Telecommunication Integration & Equipment Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shinkwang-ic-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Shuru L.L.C-FZ",
@@ -34581,8 +34581,8 @@ const companiesData = [
     "description": "ShuruTech is a product, AI, and technology consulting company that helps businesses achieve their tech and product goals through strategic consulting, full-cycle product development, and curated staff augmentation. We work with st ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/shuru-llc-fz",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SI CYBER SECURITY ARCHITECTURE CO LLC",
@@ -34608,8 +34608,8 @@ const companiesData = [
     "description": "SIA is UAE’s Signal Intelligence Agency that actively enables national decision making through the collection and analysis of information to counter threats to homeland security, and operates in the 5 domains of air, land, sea, ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sia",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SIA Zabbix",
@@ -34635,8 +34635,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sichuan-yuantong-communicaion-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Siemens",
@@ -34668,8 +34668,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/signotec-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "Sijia Corporation",
@@ -34701,8 +34701,8 @@ const companiesData = [
       "Backend Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/silicon-it-hub-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "SillaSystem co.,ltd",
@@ -34717,8 +34717,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sillasystem-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Simac Tech Inc.",
@@ -34739,8 +34739,8 @@ const companiesData = [
       "Fund Raising and Investment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/simac-tech-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "SingleView",
@@ -34775,8 +34775,8 @@ const companiesData = [
       "Processors"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sipearl",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SisPay S.A.",
@@ -34808,8 +34808,8 @@ const companiesData = [
       "Cloud Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/site-saudi-information-technology-company",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Sitecore Middle East FZ-LLC",
@@ -34824,8 +34824,8 @@ const companiesData = [
       "E-commerce & M-commerce - User Experience & UX Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sitecore-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "SKG Health Technologies Co., Ltd",
@@ -34842,8 +34842,8 @@ const companiesData = [
       "Wearables - Wearables electronics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/skg-health-technologies-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Skydeck IT Consulting/itSMf",
@@ -34864,8 +34864,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/skydeck-it-consultingitsmf",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Smart",
@@ -34886,8 +34886,8 @@ const companiesData = [
       "Cloud Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smart",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Smart Talk Telecom Fzco",
@@ -34908,8 +34908,8 @@ const companiesData = [
     "description": "A modern online platform for managing content on any media device from a single office, regardless of operating system and hardware, from anywhere in the world. The platform offers solutions for industries: 1. Retail 2. Enterprise ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/smartplayer",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "SMT LLC",
@@ -34937,8 +34937,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/snbc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Sniper Telecom FZCO",
@@ -34959,8 +34959,8 @@ const companiesData = [
     "description": "Snowflake is the platform for the AI era, making it easy for enterprises to innovate faster and get more value from data. More than 12,000 customers around the globe, including hundreds of the world’s largest companies, use Snow ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/snowflake-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Software Development and Data Consulting FZCO (SDDC)",
@@ -34992,8 +34992,8 @@ const companiesData = [
       "Data Architecture"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/softwire-softwire-mena-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Solar",
@@ -35014,8 +35014,8 @@ const companiesData = [
       "Intrusion Detection & Penetration Testing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/solar",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "SolarWinds",
@@ -35025,8 +35025,8 @@ const companiesData = [
     "description": "SolarWinds is a leading provider of simple, powerful, secure observability and IT management software built to enable customers to accelerate their digital transformation. Our solutions provide organizations worldwide—regardless ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/solarwinds",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Solus City Portal Co",
@@ -35040,8 +35040,8 @@ const companiesData = [
       "Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/solus-city-portal-co",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Sonic Group Ltd.",
@@ -35056,8 +35056,8 @@ const companiesData = [
       "mHealth Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sonic-group-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "SonicWall MEA FZ-LLC",
@@ -35078,8 +35078,8 @@ const companiesData = [
       "Cybersecurity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sonicwall-mea-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Sophos Ltd",
@@ -35156,8 +35156,8 @@ const companiesData = [
       "Predictive Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sparx-it-solutions-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Speridian",
@@ -35167,8 +35167,8 @@ const companiesData = [
     "description": "Speridian is an innovative, thought-leading digital modernization company that leverages modern software engineering and proprietary platform solutions to streamline and enhance interactions between clients and constituents within ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/speridian",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SPG Dry Cooling",
@@ -35185,8 +35185,8 @@ const companiesData = [
       "Cooling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/spg-dry-cooling",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Splunk Services FZ-LLC",
@@ -35229,8 +35229,8 @@ const companiesData = [
     "description": "Exabeam is a global cybersecurity leader that delivers AI-driven security operations – offering a new way for security teams to approach threat detection, investigation, and response (TDIR). By combining the scale and power of t ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---exabeam",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Forcepoint",
@@ -35240,8 +35240,8 @@ const companiesData = [
     "description": "Forcepoint is the leading user and data security cybersecurity company, entrusted to safeguard organizations while driving digital transformation and growth. Our solutions adapt in real-time to how people interact with data, provi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---forcepoint",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Infoblox",
@@ -35251,8 +35251,8 @@ const companiesData = [
     "description": "Infoblox unites networking, security and cloud to form a platform for operations that’s as resilient as it is agile. Trusted by 13,000+ customers, including 92 of the Fortune 100, we seamlessly integrate, secure and automate cri ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---infoblox",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "StarLink - LinkShadow",
@@ -35262,8 +35262,8 @@ const companiesData = [
     "description": "LinkShadow is revolutionizing cybersecurity with its Unified Platform, integrating Identity Threat Detection and Response (ITDR), Data Security Posture Management (DSPM), and Network Detection and Response (NDR). Designed to prote ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---linkshadow",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Starlink - Progress",
@@ -35273,8 +35273,8 @@ const companiesData = [
     "description": "Progress Software (Nasdaq: PRGS) empowers organizations to achieve transformational success in the face of disruptive change. Our software enables our customers to develop, deploy and manage responsible AI-powered applications and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---progress",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Recorded Future",
@@ -35284,8 +35284,8 @@ const companiesData = [
     "description": "Recorded Future is the world’s largest threat intelligence company. Recorded Future’s Intelligence Cloud provides end-to-end intelligence across adversaries, infrastructure, and targets. Indexing the internet across the open w ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---recorded-future",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Riverbed",
@@ -35295,8 +35295,8 @@ const companiesData = [
     "description": "Riverbed is the only company with the collective richness of telemetry from network to app to end user, that illuminates and then accelerates every interaction, so organizations can deliver a seamless digital experience and drive ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---riverbed",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 2,
+    "relevance_score": 2.0
   },
   {
     "name": "StarLink - SkyHigh",
@@ -35306,8 +35306,8 @@ const companiesData = [
     "description": "At its heart, security is a data protection problem. We created Skyhigh Security because in this cloud-first world, people are still using the same old approach to protecting their data. Even though the cloud’s promise is to rel ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---skyhigh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Starlink - Sophos",
@@ -35317,8 +35317,8 @@ const companiesData = [
     "description": "Sophos evolves to meet every new challenge, protecting more than 500,000+ organizations of all sizes in more than 150 countries from today’s most advanced cyber threats. Powered by SophosLabs, our cloud-native and AI-enhanced so ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---sophos",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "StarLink - Thales",
@@ -35335,8 +35335,8 @@ const companiesData = [
       "Cloud Management & Optimisation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---thales",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Trend Micro",
@@ -35346,8 +35346,8 @@ const companiesData = [
     "description": "Trend Micro, a global cybersecurity leader, helps make the world safe for exchanging digital information. Fueled by decades of security expertise, global threat research, and continuous innovation, our cybersecurity platform prote ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---trend-micro",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "StarLink - Trilio",
@@ -35357,8 +35357,8 @@ const companiesData = [
     "description": "At Trilio, we believe that data protection should be effortless, automated, and predictable. Our platform, Trilio delivers a modern data protection experience that gives customers more power and control over their cloud and contai ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/starlink---trilio",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "State Company for Iraqi Fairs & Commercial Services",
@@ -35379,8 +35379,8 @@ const companiesData = [
     "description": "StorIT is the Middle East’s leading Value-Added Distributor specialized in digital transformation solutions and services. In partnership with the world’s leading technology vendors, StorIT offers cutting-edge solutions to ente ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/storit-distribution-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "STORM MOBILE TRADING FZCO",
@@ -35420,8 +35420,8 @@ const companiesData = [
       "Application Security, Testing & Control"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/stormwall",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Studio EON Ltd.",
@@ -35436,8 +35436,8 @@ const companiesData = [
       "Animation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/studio-eon-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SUBmerge Baltic",
@@ -35458,8 +35458,8 @@ const companiesData = [
     "description": "SUDO Consultants, an AWS Premier Tier Partner, is your dedicated partner in achieving cloud excellence and unlocking business potential. We empower your organization to thrive with seamless, efficient, and resilient cloud operatio ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sudo-consultants-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Sukuk Capital",
@@ -35490,8 +35490,8 @@ const companiesData = [
       "Telecommunication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/suncomms-innovation-technology-co-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Sunwin Trading FZCO",
@@ -35501,8 +35501,8 @@ const companiesData = [
     "description": "With an overall experience of 20+ years in Dubai and 8 + years of presence in Dubai Airport Free Zone, we have grown to become one of the trusted partner in supply chain of Mobile Handsets. We keep the transaction very simple, ch ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sunwin-trading-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "SUSE",
@@ -35520,8 +35520,8 @@ const companiesData = [
       "Application integration and infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/suse",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Suzhou Sutuo Communication Technology Co., Ltd",
@@ -35541,8 +35541,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/suzhou-sutuo-communication-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SWORD Group",
@@ -35563,8 +35563,8 @@ const companiesData = [
       "Design & Product Development - Optimization Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sword-group",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Sygic",
@@ -35581,8 +35581,8 @@ const companiesData = [
       "Fleet & Logistics Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/sygic",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Synergix International",
@@ -35607,8 +35607,8 @@ const companiesData = [
       "Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/synerinsoft",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "SYROTECH NETWORKS",
@@ -35629,8 +35629,8 @@ const companiesData = [
       "Processing Systems"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/syrotech-networks",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "SYSTWEAK SOFTWARE",
@@ -35651,8 +35651,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/systweak-software",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 56.0
   },
   {
     "name": "Tahaluf Al Emarat Technical Solutions - L.L.C - S.P.C",
@@ -35684,8 +35684,8 @@ const companiesData = [
     "description": "TAIDEN has world-wide sales and service network covering all the provinces of China and over 130 countries across six continents. TAIDEN's in-house R&D and production center ensures its complete supply chain from product developi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/taiden-industrial-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Talexio",
@@ -35698,8 +35698,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/talexio",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Talya Bilişim A.Ş.",
@@ -35726,8 +35726,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tamkeen",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "Tarana Wireless",
@@ -35742,8 +35742,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tarana-wireless",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "Tarkiz Infotech Private Limited",
@@ -35757,8 +35757,8 @@ const companiesData = [
       "HR Tech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tarkiz-infotech-private-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "TBK Telecom Co., Limited",
@@ -35779,8 +35779,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tbk-telecom-co-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "TEAL Technology Services",
@@ -35801,8 +35801,8 @@ const companiesData = [
       "Data Infrastructure"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teal-technology-services",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Teamo",
@@ -35822,8 +35822,8 @@ const companiesData = [
       "Recruitment"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teamo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "TeamSec",
@@ -35835,8 +35835,8 @@ const companiesData = [
       "Fintech"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teamsec",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Tech First Gulf FZ LLC",
@@ -35890,8 +35890,8 @@ const companiesData = [
       "Web Development"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/techno-exponent",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Technoglobe IT Solutions Pvt Ltd",
@@ -35923,8 +35923,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/technovate-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Tehran Chamber of Commerce, Industries, Mines and Agriculture (TCCIMA)",
@@ -35956,8 +35956,8 @@ const companiesData = [
     "description": "Telecom Review Group, a combination of media platforms and events specialized in the ICT industry, founded its flagship media Telecom Review in 2005. Today, Telecom Review editions are the leading global ICT media platforms coveri ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/telecom-review-group",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
@@ -35967,8 +35967,8 @@ const companiesData = [
     "description": "The Telecommunications and Digital Government Regulatory Authority (TDRA) regulates and develops the UAE’s telecommunications and IT sector, driving digital transformation nationwide. It creates a progressive regulatory environm ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/telecommunications-and-digital-government-regulatory-authority-tdra",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Teletimes Media L.L.C.",
@@ -35989,8 +35989,8 @@ const companiesData = [
       "Telecoms & Mobility"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teletimes-media-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 46.0
   },
   {
     "name": "Telnyx",
@@ -36000,8 +36000,8 @@ const companiesData = [
     "description": "Telnyx is the full-stack platform for real-time conversational AI—designed for teams that want to build with power, flexibility, and speed. We combine global telephony, dedicated AI infrastructure, and full customizability unde ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/telnyx",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Tenable",
@@ -36022,8 +36022,8 @@ const companiesData = [
       "Security - Data & Virtual"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tenable",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Tencent Cloud",
@@ -36033,8 +36033,8 @@ const companiesData = [
     "description": "Tencent Cloud, one of the world’s leading cloud companies, is committed to creating innovative solutions to resolve real-world issues and enabling digital transformation for smart industries. Through our extensive global infrast ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tencent-cloud",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Teramind",
@@ -36044,8 +36044,8 @@ const companiesData = [
     "description": "As a global leader in user behavior analytics, insider risk management, and workforce intelligence, we empower businesses with complete visibility and control over human activity across digital environments. Our platform goes beyo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/teramind",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "TestCrew",
@@ -36077,8 +36077,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tforce",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Tgates for digital transformation",
@@ -36099,8 +36099,8 @@ const companiesData = [
       "Applications including Development, Deployment & Design"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tgates-for-digital-transformation",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Thakkur & Son's Export India Pvt Ltd (SIMESH OVERSEAS FZ-LLC)",
@@ -36156,8 +36156,8 @@ const companiesData = [
       "Cloud Management Platform"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-solution-consulting-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "The State Company for Iraqi Fairs & Commercial Services",
@@ -36170,8 +36170,8 @@ const companiesData = [
       "Design & Product Development - Drawing & Document Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-state-company-for-iraqi-fairs--commercial-services",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "The Trillion Companies",
@@ -36186,8 +36186,8 @@ const companiesData = [
       "Devices - Smart Phones"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/the-trillion-companies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "think-cell (Middle East)",
@@ -36205,8 +36205,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/think-cell-middle-east",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "ThinkParQ GmbH",
@@ -36219,8 +36219,8 @@ const companiesData = [
       "High Performance Computing - HPC"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thinkparq-gmbh",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "ThinkSmart Gulf",
@@ -36230,8 +36230,8 @@ const companiesData = [
     "description": "ThinkSmart for Development and Training is a leading training and development provider in the GCC, dedicated to equipping individuals, corporates, and government entities with the latest digital skills and global certifications. W ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thinksmart-gulf",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Thinslices Development",
@@ -36252,8 +36252,8 @@ const companiesData = [
       "Web3 Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/thinslices-development",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "Threema",
@@ -36273,8 +36273,8 @@ const companiesData = [
       "Business Continuity & Disaster Recovery Planning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/threema",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Tiger Technology",
@@ -36291,8 +36291,8 @@ const companiesData = [
       "Business Continuity, Back-up & Disaster Recovery"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tiger-technology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Tilde",
@@ -36324,8 +36324,8 @@ const companiesData = [
       "Endpoint Protection & Mobile Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tinymdm",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "TIQMO",
@@ -36381,8 +36381,8 @@ const companiesData = [
       "Enterprise Resource Planning - ERP"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tmc-tallymarks-consulting",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "TomWare",
@@ -36403,8 +36403,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tomware",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 42.0
   },
   {
     "name": "Tongtaiyi Information Technology Co., Ltd",
@@ -36417,8 +36417,8 @@ const companiesData = [
       "Servers & Hardware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tongtaiyi-information-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Toonimotion Corp.",
@@ -36434,8 +36434,8 @@ const companiesData = [
       "Advertising"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/toonimotion-corp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "TOP DIGITAL SERVICE PROVIDERS",
@@ -36456,8 +36456,8 @@ const companiesData = [
       "Java"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/top-digital-service-providers",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "TOP SEVEN LOGISTICS FZCO",
@@ -36472,8 +36472,8 @@ const companiesData = [
       "Loyalty"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/top-seven-logistics-fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Topaz FZE",
@@ -36494,8 +36494,8 @@ const companiesData = [
       "Telecommunication & Network Security"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/topaz-fze",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 22.0
   },
   {
     "name": "Topwise",
@@ -36512,8 +36512,8 @@ const companiesData = [
       "Payments - EFT Terminals & Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/topwise",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "TORONTECH TRADING LLC",
@@ -36578,8 +36578,8 @@ const companiesData = [
       "Deep Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/transwarp-zhongzhi-technology-beijing-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Treelife",
@@ -36602,8 +36602,8 @@ const companiesData = [
     "description": "Trend Micro, a global cybersecurity leader, helps make the world safe for exchanging digital information. Fueled by decades of security expertise, global threat research, and continuous innovation, our cybersecurity platform prote ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trend-micro-dmcc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Trendyol",
@@ -36613,8 +36613,8 @@ const companiesData = [
     "description": "Founded in Istanbul in 2010, Trendyol has since grown to become one of the world’s leading e-commerce platforms. Supported by cutting edge technology, Trendyol’s multi-category marketplace connects over 250,000 predominantly T ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trendyol",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Tridens d.o.o.",
@@ -36635,8 +36635,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tridens-doo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 28.0
   },
   {
     "name": "TRIGIANT",
@@ -36655,8 +36655,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trigiant",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "Tripbtoz",
@@ -36673,8 +36673,8 @@ const companiesData = [
       "Advertising"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/tripbtoz",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Triplet",
@@ -36710,8 +36710,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trs-information-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "TrueConf",
@@ -36726,8 +36726,8 @@ const companiesData = [
       "Video"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/trueconf",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Trust IT Consultancy LLC",
@@ -36759,8 +36759,8 @@ const companiesData = [
       "Total Solution Provider"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/turbosmtp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "TURCORN - REPUBLIC OF TÜRKİYE MINISTRY OF INDUSTRY AND TECHNOLOGY",
@@ -36770,8 +36770,8 @@ const companiesData = [
     "description": "We define startups operating in Türkiye with a valuation of 1 Billion Dollars as Turcorn. We aim to count new Turcorns to the Turkish startup ecosystem with the Turcorn 100 Program, in which we support technology startups that ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/turcorn---republic-of-trkye-ministry-of-industry-and-technology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "UAB THINKBIG LT",
@@ -36788,8 +36788,8 @@ const companiesData = [
       "Mobile Applications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uab-thinkbig-lt",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "UAE Space Agency",
@@ -36821,8 +36821,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ubitech-solutions-pvt-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Ultimate Solutions",
@@ -36832,8 +36832,8 @@ const companiesData = [
     "description": "Empowering Business Growth with AI-Enabled ERP Solutions Ultimate Solutions is a trusted leader in financial and administrative systems, serving 12,000+ clients over the past 18 years. Authorized by the Saudi Ministry of Industry ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ultimate-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Ultra Stream Technologies LLC",
@@ -36856,8 +36856,8 @@ const companiesData = [
       "Freezone"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/umm-al-quwain-free-trade-zone-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "UniCom",
@@ -36878,8 +36878,8 @@ const companiesData = [
     "description": "Provide data management & AI consultancy",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unifi-data-management-services-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Unified Infotech Inc",
@@ -36900,8 +36900,8 @@ const companiesData = [
       "Content Delivery & Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unified-infotech-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "UNION",
@@ -36914,8 +36914,8 @@ const companiesData = [
       "Payments - Cash Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/union",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "UNION CAMERA HONG KONG LTD",
@@ -36925,8 +36925,8 @@ const companiesData = [
     "description": "At Union Camera Hong Kong Limited, we aim to collaborate with patrners to acquire extarordinary prot in every changing market. In view of tremendous demand from the market, we expand the coverage of our consumer elecronics busines ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/union-camera-hong-kong-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Unity Technologies ABD FZ LLC",
@@ -36947,8 +36947,8 @@ const companiesData = [
       "Virtual Reality (VR)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/unity-technologies-abd-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "UNIVERSE Al INC",
@@ -36969,8 +36969,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/universe-al-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Usetech LLC",
@@ -36991,8 +36991,8 @@ const companiesData = [
       "Data Centre Infrastructure Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/usetech-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "UVJ Technologies(P) Ltd",
@@ -37013,8 +37013,8 @@ const companiesData = [
       "ERP (Enterprise Resource Planning) Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/uvj-technologiesp-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "VARA (Virtual Assets Regulatory Authority)",
@@ -37028,8 +37028,8 @@ const companiesData = [
       "Crypto Exchanges"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vara-virtual-assets-regulatory-authority",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Vectra AI",
@@ -37039,8 +37039,8 @@ const companiesData = [
     "description": "Vectra AI, Inc. is the cybersecurity AI company that protects modern networks from modern attacks. When modern cyber attackers bypass existing controls, evade detection and gain access to customers’ data center, campus, remo ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vectra-ai",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Veeam Software FZ-LLC",
@@ -37058,8 +37058,8 @@ const companiesData = [
       "Business Continuity, Back-up & Disaster Recovery"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/veeam-software-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Vertiv",
@@ -37069,8 +37069,8 @@ const companiesData = [
     "description": "Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vertiv",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "VESSL AI Inc.",
@@ -37084,8 +37084,8 @@ const companiesData = [
       "Deep Learning Platforms"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vessl-ai-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Vibe Media Group",
@@ -37128,8 +37128,8 @@ const companiesData = [
       "Consulting System & Integration Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/virtuthinko",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Visiology",
@@ -37150,8 +37150,8 @@ const companiesData = [
       "Big Data & Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/visiology",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Visionary Intelligence Ltd.",
@@ -37165,8 +37165,8 @@ const companiesData = [
       "Diagnostic Software and Medical Imaging"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/visionary-intelligence-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "VIZIJE MOBILNOSTI d.o.o.",
@@ -37187,8 +37187,8 @@ const companiesData = [
       "Mobility As A Service - Maas"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vizije-mobilnosti-doo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "VMAX",
@@ -37203,8 +37203,8 @@ const companiesData = [
       "Payments - POS Payments"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vmax",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "VMIND",
@@ -37225,8 +37225,8 @@ const companiesData = [
       "Public Cloud"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vmind",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "VoiceCyber Co., Ltd.",
@@ -37246,8 +37246,8 @@ const companiesData = [
       "VOIP Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/voicecyber-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "VOIPTECH SOLUTIONS",
@@ -37262,8 +37262,8 @@ const companiesData = [
       "Converged / Unified Communications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/voiptech-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Voxtron Middle East L.L.C. - AE",
@@ -37284,8 +37284,8 @@ const companiesData = [
       "Customer Experience & Retention - AI & Machine Learning"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/voxtron-middle-east-llc---ae",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "VRWARE",
@@ -37303,8 +37303,8 @@ const companiesData = [
       "Immersive technologies - Virtual, Augmented, Mixed Realities - VR, AR, MR"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vrware",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "VURKS",
@@ -37318,8 +37318,8 @@ const companiesData = [
       "Professional Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/vurks",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "WAM KSA & Morocco",
@@ -37351,8 +37351,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wanma-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "WartinLabs Technologies LLP",
@@ -37373,8 +37373,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wartinlabs-technologies-llp",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Wasin Fujikura",
@@ -37388,8 +37388,8 @@ const companiesData = [
       "Cabling"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wasin-fujikura",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "Wateen Digital Solutions",
@@ -37410,8 +37410,8 @@ const companiesData = [
       "Ransomware"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wateen-digital-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Wateen Digital Solutions",
@@ -37432,8 +37432,8 @@ const companiesData = [
       "Content Delivery & Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wateen-digital-solutions",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "WebHR",
@@ -37454,8 +37454,8 @@ const companiesData = [
       "Software as a Service - SaaS"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/webhr",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 48.0
   },
   {
     "name": "Webkraft Studio d.o.o.",
@@ -37472,8 +37472,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/webkraft-studio-doo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Weeds Korea",
@@ -37486,8 +37486,8 @@ const companiesData = [
       "Data Governance, Risk & Compliance"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/weeds-korea",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "WEJHA",
@@ -37519,8 +37519,8 @@ const companiesData = [
       "Data Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/weka",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 64.0
   },
   {
     "name": "WelHire",
@@ -37541,8 +37541,8 @@ const companiesData = [
       "Data Privacy / Protection"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/welhire",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "Western Micro Electronics Trading LLC",
@@ -37563,8 +37563,8 @@ const companiesData = [
       "Accessories & Peripherals"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/western-micro-electronics-trading-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "WH PARTNERS",
@@ -37579,8 +37579,8 @@ const companiesData = [
       "Crypto Exchanges"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wh-partners",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Wi-Charge",
@@ -37590,8 +37590,8 @@ const companiesData = [
     "description": "Wi-Charge is pioneering the future of power delivery with patented long-range wireless technology that transforms how devices stay powered. Using safe, invisible infrared beams, Wi-Charge delivers continuous energy over the air— ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wi-charge",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 14.0
   },
   {
     "name": "Wildix OÜ",
@@ -37601,8 +37601,8 @@ const companiesData = [
     "description": "Wildix is a multinational telecommunications company and a pioneer in browser-based Unified Communications & Collaboration. Founded in 2005, Wildix revolutionized business communications with a WebRTC-powered UCaaS platform that r ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wildix-o",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Winmate Inc.",
@@ -37629,8 +37629,8 @@ const companiesData = [
       "Broadband Services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/winncom-technologies-cambium-networks",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 4,
+    "relevance_score": 12.0
   },
   {
     "name": "WINNING.I & T4TRUST",
@@ -37649,8 +37649,8 @@ const companiesData = [
       "Identity / Trust / Authentication"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/winningi--t4trust",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Wio Bank",
@@ -37660,8 +37660,8 @@ const companiesData = [
     "description": "Wio Bank PJSC, backed by ADQ, Alpha Dhabi, e&, and First Abu Dhabi Bank (FAB), stands as the region's first platform bank that is not just born to bank you, but born to back you. Established in Abu Dhabi in September 2022 wit ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wio-bank",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Wonderful Hi-Tech Co., Ltd.",
@@ -37680,8 +37680,8 @@ const companiesData = [
       "5G & Connectivity"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wonderful-hi-tech-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Wondershare Software",
@@ -37695,8 +37695,8 @@ const companiesData = [
       "Content Creation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wondershare-software",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Woosim Systems Inc.",
@@ -37710,8 +37710,8 @@ const companiesData = [
       "E-commerce & M-commerce - Mobile Commerce"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/woosim-systems-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "WSO2 LLC",
@@ -37732,8 +37732,8 @@ const companiesData = [
       "Artificial Intelligence"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wso2-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "WYKYK - When You Know You Know",
@@ -37749,8 +37749,8 @@ const companiesData = [
       "Phishing"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/wykyk---when-you-know-you-know",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "X-Biz Techventures",
@@ -37771,8 +37771,8 @@ const companiesData = [
       "Natural Language Processing (NLP)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/x-biz-techventures",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "X1 Wind",
@@ -37785,8 +37785,8 @@ const companiesData = [
       "Wind Energy"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/x1-wind",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Xaltius Pte. Ltd.",
@@ -37804,8 +37804,8 @@ const companiesData = [
       "Collaborative learning and technology"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xaltius-pte-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Xeropan: Effective AI-powered language learning, from K–12 to university",
@@ -37826,8 +37826,8 @@ const companiesData = [
       "Educational Support & Other Service"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xeropan-effective-ai-powered-language-learning-from-k12-to-university",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "XFXForce Technology LLC",
@@ -37852,8 +37852,8 @@ const companiesData = [
     "description": "XPANCEO is a deep tech company that develops an invisible and weightless smart contact lens as the ultimate interface for AI-powered XR computing. Our contact lens reinvents the whole concept of human-technology interaction and re ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xpanceo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Xplere",
@@ -37877,8 +37877,8 @@ const companiesData = [
       "E-commerce & M-commerce - Mobile Store & Warehouse Solutions"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/xprinter",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "XYTRON FZCO",
@@ -37906,8 +37906,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yarnit",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "YASH Technologies Middle East FZ LLC.",
@@ -37928,8 +37928,8 @@ const companiesData = [
       "Analytics"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yash-technologies-middle-east-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 40.0
   },
   {
     "name": "Yealink Network Technology Co., Ltd.",
@@ -37945,8 +37945,8 @@ const companiesData = [
       "Converged / Unified Communications"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yealink-network-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 6.0
   },
   {
     "name": "YILDIZ TEKNOLOJİ GELİŞTİRME BÖLGESİ TEKNOPARK ANONİM ŞİRKETİ",
@@ -37978,8 +37978,8 @@ const companiesData = [
       "Analytics as a service"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yinfeishuowei",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 32.0
   },
   {
     "name": "YONYOU NETWORK TECHNOLOGY FZ-LLC",
@@ -38000,8 +38000,8 @@ const companiesData = [
       "Business Process Management"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yonyou-network-technology-fz-llc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "YOYOINTERACTIVE INC.",
@@ -38016,8 +38016,8 @@ const companiesData = [
       "Augmented Reality (AR)"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yoyointeractive-inc",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "YTsaurus",
@@ -38032,8 +38032,8 @@ const companiesData = [
       "Open Source"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ytsaurus",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Yubi",
@@ -38054,8 +38054,8 @@ const companiesData = [
       "Real time translation"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yubi",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "Yuyao Simante Network Communication Equipment Co., Ltd - CN",
@@ -38076,8 +38076,8 @@ const companiesData = [
       "Mobile Telecommunications & 5G"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/yuyao-simante-network-communication-equipment-co-ltd---cn",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 30.0
   },
   {
     "name": "ZainTech Solutions FZ LLC",
@@ -38098,8 +38098,8 @@ const companiesData = [
     "description": "Zayed University has two modern campuses in Dubai and Abu Dhabi that welcome both national and international students. Vision To be an educational force, embodying Sheikh Zayed’s timeless values and principles into academic and ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zayed-university",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Zecurion",
@@ -38120,8 +38120,8 @@ const companiesData = [
     "description": "Zen Interactive Technologies, established in 2012 and based in Dubai, is a leading value-added distributor specializing in VoIP, Unified Communications, networking, and IT hardware solutions. We represent globally recognized brand ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zen-interactive-technologies",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "ZepCruit",
@@ -38134,8 +38134,8 @@ const companiesData = [
       "Chatbots / Virtual Assistant"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zepcruit",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Zestwings IT Consulting - FZCO",
@@ -38156,8 +38156,8 @@ const companiesData = [
       "Finance & Accounting Software"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zestwings-it-consulting---fzco",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 34.0
   },
   {
     "name": "ZHEJIANG SEMTOM ELECTRONIC CO., LTD",
@@ -38169,8 +38169,8 @@ const companiesData = [
       "Business & professional services"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-semtom-electronic-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Zhejiang Zhaolong Interconnect Technology Co.,LTD.",
@@ -38180,8 +38180,8 @@ const companiesData = [
     "description": "1. Structured Cabling Systems Copper Solutions Data Cables: CAT5e to CAT8 (CPR/FORCE/ETL/UL/HDBase-T certified, 6000km daily output) Patch Cords: Custom lengths & colors (with snagless boots options) Modules & Panels: ETL Verif ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhejiang-zhaolong-interconnect-technology-coltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 3,
+    "relevance_score": 8.0
   },
   {
     "name": "Zhongguancun Science City",
@@ -38202,8 +38202,8 @@ const companiesData = [
       "Building Integrated PV - BIPV"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhongguancun-science-city",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 20.0
   },
   {
     "name": "Zhuhai Gotech Intelligent Technology Co., Ltd.",
@@ -38223,8 +38223,8 @@ const companiesData = [
       "ICT"
     ],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zhuhai-gotech-intelligent-technology-co-ltd",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 26.0
   },
   {
     "name": "ZIWO",
@@ -38234,8 +38234,8 @@ const companiesData = [
     "description": "Founded in Dubai in 2011, ASWAT evolved from telecom consulting into creating ZIWO, a cloud call center platform tailored for the Middle East and North Africa. Unlike global solutions, ZIWO ensures local compliance, supports Arabi ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/ziwo",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 24.0
   },
   {
     "name": "Zoho Software Trading L.L.C",
@@ -38267,8 +38267,8 @@ const companiesData = [
     "description": "Zupe is the first AI-powered platform that brings together the world’s best wellness products, trusted health advice, and affordable consultations—all in one place. We exist to help people make informed, confident decisions a ...",
     "sectors": [],
     "profile_url": "https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/zupe-group-limited",
-    "relevance_stars": 1,
-    "relevance_score": 0.0
+    "relevance_stars": 5,
+    "relevance_score": 16.0
   },
   {
     "name": "agilimo Consulting GmbH",
